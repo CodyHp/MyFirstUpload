@@ -1,0 +1,3045 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ie10">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+        爱情公寓 (豆瓣)
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+    <link rel="apple-touch-icon" href="../../../https@img3.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="../../../https@img3.doubanio.com/f/shire/52c9997d6d42db58eab418e976a14d5f3eff981e/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/shire/ae3f5a3e3085968370b1fc63afcecb22d3284848/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/movie/8864d3756094f5272d3c93e30ee2e324665855b0/css/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/0495cb173e298c28593766009c7b0a953246c5b5/js/movie/lib/jquery.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/1316664523258f7b8b536e4ce45afc9cb37b8963/js/douban.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/0efdc63b77f895eaf85281fb0e44d435c6239a3f/js/separation/_all.js"></script>
+    
+    <meta name="keywords" content="爱情公寓,爱情公寓,爱情公寓影评,剧情介绍,电影图片,预告片,影讯,在线购票,论坛">
+    <meta name="description" content="爱情公寓电影简介和剧情介绍,爱情公寓影评、图片、预告片、影讯、论坛、在线购票">
+    <meta name="mobile-agent" content="format=html5; url=../../../m.douban.com/movie/subject/24852545/default.htm"/>
+    <link rel="alternate" href="android-app_3A//com.douban.movie/doubanmovie/subject/24852545/default.htm" />
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/dae/cdnlib/libs/LikeButton/1.0.5/style.min.css">
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript">
+      Do.add('dialog', {path: '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js', type: 'js'});
+      Do.add('dialog-css', {path: '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css', type: 'css'});
+      Do.add('handlebarsjs', {path: '../../../https@img3.doubanio.com/f/movie/3d4f8e4a8918718256450eb6e57ec8e1f7a2e14b/js/movie/lib/handlebars.current.js', type: 'js'});
+    </script>
+    
+  <script type='text/javascript'>
+  var _vwo_code = (function() {
+    var account_id = 249272,
+      settings_tolerance = 0,
+      library_tolerance = 2500,
+      use_existing_jquery = false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('../../../https@dev.visualwebsiteoptimizer.com/j.php@a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());
+
+  +function () {
+    var bindEvent = function (el, type, handler) {
+        var $ = window.jQuery || window.Zepto || window.$
+       if ($ && $.fn && $.fn.on) {
+           $(el).on(type, handler)
+       } else if($ && $.fn && $.fn.bind) {
+           $(el).bind(type, handler)
+       } else if (el.addEventListener){
+         el.addEventListener(type, handler, false);
+       } else if (el.attachEvent){
+         el.attachEvent("on" + type, handler);
+       } else {
+         el["on" + type] = handler;
+       }
+     }
+
+    var _origin_load = _vwo_code.load
+    _vwo_code.load = function () {
+      var args = [].slice.call(arguments)
+      bindEvent(window, 'load', function () {
+        _origin_load.apply(_vwo_code, args)
+      })
+    }
+  }()
+
+  _vwo_settings_timer = _vwo_code.init();
+  </script>
+
+
+    
+
+
+<script type="application/ld+json">
+{
+  "@context": "../../../schema.org",
+  "name": "爱情公寓",
+  "url": "default.htm",
+  "image": "../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2521648155.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313918/default.htm",
+      "name": "韦正 Frank Wei"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313654/default.htm",
+      "name": "汪远 Yuan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1374508/default.htm",
+      "name": "邹杰 Jie Zou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1406015/default.htm",
+      "name": "王志宏 Zhihong Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1406014/default.htm",
+      "name": "张珮珏 Peijue Zhang"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313841/default.htm",
+      "name": "陈赫 He Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1275443/default.htm",
+      "name": "袁弘 Hong Yuan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313784/default.htm",
+      "name": "娄艺潇 Yixiao Lou"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1274361/default.htm",
+      "name": "邓家佳 Jiajia Deng"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313842/default.htm",
+      "name": "孙艺洲 Yizhou Sun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313030/default.htm",
+      "name": "李佳航 Jiahang Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313843/default.htm",
+      "name": "李金铭 Kimi Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1318324/default.htm",
+      "name": "刘天佐 Tianzuo Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1361763/default.htm",
+      "name": "赵志伟 Zhiwei Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1317610/default.htm",
+      "name": "张双利 Shuangli Zhang "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1349772/default.htm",
+      "name": "南派三叔 Lei Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313918/default.htm",
+      "name": "韦正 Frank Wei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313654/default.htm",
+      "name": "汪远 Yuan Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1326248/default.htm",
+      "name": "朱桢 Zhen Zhu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1325480/default.htm",
+      "name": "于立 Li Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313844/default.htm",
+      "name": "榕榕 Rong Rong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1368473/default.htm",
+      "name": "罗姝涵 Shuhan Luo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1368470/default.htm",
+      "name": "许和琪 Angela Hsu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1368471/default.htm",
+      "name": "刘雨昕 Yuxin Liu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1368472/default.htm",
+      "name": "张希雅 Yaxi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1368475/default.htm",
+      "name": "孔雪儿 Xueer Kong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1368474/default.htm",
+      "name": "关凯元 Kaiyuan Guan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1368476/default.htm",
+      "name": "张悠然 Youran Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1341783/default.htm",
+      "name": "陈旭明 Xuming Chen"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1353646/default.htm",
+      "name": "赵子豪 Zihao Zhao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1395215/default.htm",
+      "name": "徐梦洁 Mengjie Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1368559/default.htm",
+      "name": "常钰 Yu Chang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1395148/default.htm",
+      "name": "韩丹 Dan Han"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1394145/default.htm",
+      "name": "严丰 Feng Yan"
+    }
+  ]
+,
+  "datePublished": "2018-08-10",
+  "genre": ["\u559c\u5267", "\u5192\u9669"],
+  "duration": "PT1H57M",
+  "description": "《爱情公寓》电影版归来，原班人马十年催泪重聚。曾小贤、胡一菲、吕子乔、张伟、唐悠悠、陈美嘉悉数回归，还是熟悉的场景和熟悉的人，嘻嘻哈哈、打打闹闹，笑声从没停过。老朋友的故事将继续展开，印证了电视剧的那...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "203126",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "3.1"
+  }
+}
+</script>
+
+
+    <style type="text/css">
+  
+</style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/3ec890df550a76f7.css">
+
+    <link rel="shortcut icon" href="../../../https@img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="../../../https@accounts.douban.com/passport/login@source=movie" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="../../../https@www.douban.com/doubanapp/app@channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="../../../https@www.douban.com/doubanapp/app@channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="../../../https@www.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="../../../https@book.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="../../default.htm"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="../../../https@music.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="../../../https@read.douban.com/@dcs=top-nav&dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="../../../https@douban.fm/@from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="../../../https@time.douban.com/@dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="../../../https@market.douban.com/@utm_campaign=douban_top_nav&utm_source=douban&utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="../../../https@ypy.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "../../../https@www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https_3A//movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;movie.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="../../cinema/nowplaying/default.htm"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="../../explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="../../tv/default.htm"
+     >电视剧</a>
+    </li>
+    <li    ><a href="../../chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="../../tag/default.htm"
+     >分类</a>
+    </li>
+    <li    ><a href="../../review/best/default.htm"
+     >影评</a>
+    </li>
+    <li    ><a href="../../annual/2018@source=navigation"
+     >2018年度榜单</a>
+    </li>
+    <li    ><a href="../../../https@www.douban.com/standbyme/2018@source=navigation"
+     >2018书影音报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="../../annual/2018@source=movie_navigation" class="movieannual2018"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+
+    <div id="dale_movie_subject_top_icon"></div>
+    <h1>
+        <span property="v:itemreviewed">爱情公寓</span>
+            <span class="year">(2018)</span>
+    </h1>
+
+        <div class="grid-16-8 clearfix">
+            
+
+            
+            <div class="article">
+                
+    
+
+    
+
+
+
+
+
+        <div class="indent clearfix">
+            <div class="subjectwrap clearfix">
+                <div class="subject clearfix">
+                    
+
+
+
+<div id="mainpic" class="">
+    <a class="nbgnbg" href="photos@type=R" title="点击看更多海报">
+        <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2521648155.jpg" title="点击看更多海报" alt="爱情公寓" rel="v:image" />
+   </a>
+</div>
+
+                    
+
+
+<div id="info">
+        <span ><span class='pl'>导演</span>: <span class='attrs'><a href="../../celebrity/1313918/default.htm" rel="v:directedBy">韦正</a></span></span><br/>
+        <span ><span class='pl'>编剧</span>: <span class='attrs'><a href="../../celebrity/1313654/default.htm">汪远</a> / <a href="../../celebrity/1374508/default.htm">邹杰</a> / <a href="../../celebrity/1406015/default.htm">王志宏</a> / <a href="../../celebrity/1406014/default.htm">张珮珏</a></span></span><br/>
+        <span class="actor"><span class='pl'>主演</span>: <span class='attrs'><a href="../../celebrity/1313841/default.htm" rel="v:starring">陈赫</a> / <a href="../../celebrity/1275443/default.htm" rel="v:starring">袁弘</a> / <a href="../../celebrity/1313784/default.htm" rel="v:starring">娄艺潇</a> / <a href="../../celebrity/1274361/default.htm" rel="v:starring">邓家佳</a> / <a href="../../celebrity/1313842/default.htm" rel="v:starring">孙艺洲</a> / <a href="../../celebrity/1313030/default.htm" rel="v:starring">李佳航</a> / <a href="../../celebrity/1313843/default.htm" rel="v:starring">李金铭</a> / <a href="../../celebrity/1318324/default.htm" rel="v:starring">刘天佐</a> / <a href="../../celebrity/1361763/default.htm" rel="v:starring">赵志伟</a> / <a href="../../celebrity/1317610/default.htm" rel="v:starring">张双利</a> / <a href="../../celebrity/1349772/default.htm" rel="v:starring">南派三叔</a> / <a href="../../celebrity/1313918/default.htm" rel="v:starring">韦正</a> / <a href="../../celebrity/1313654/default.htm" rel="v:starring">汪远</a> / <a href="../../celebrity/1326248/default.htm" rel="v:starring">朱桢</a> / <a href="../../celebrity/1325480/default.htm" rel="v:starring">于立</a> / <a href="../../celebrity/1313844/default.htm" rel="v:starring">榕榕</a> / <a href="../../celebrity/1368473/default.htm" rel="v:starring">罗姝涵</a> / <a href="../../celebrity/1368470/default.htm" rel="v:starring">许和琪</a> / <a href="../../celebrity/1368471/default.htm" rel="v:starring">刘雨昕</a> / <a href="../../celebrity/1368472/default.htm" rel="v:starring">张希雅</a> / <a href="../../celebrity/1368475/default.htm" rel="v:starring">孔雪儿</a> / <a href="../../celebrity/1368474/default.htm" rel="v:starring">关凯元</a> / <a href="../../celebrity/1368476/default.htm" rel="v:starring">张悠然</a> / <a href="../../subject_search@search_text=_25E4_25B8_2589_25E5_2590_258D_25E5_2588_25B6-5" rel="v:starring">三名制-5</a> / <a href="../../subject_search@search_text=_25E4_25B8_25A7_25E9_2592_259F_25E5_25A4_25A7_25E5_25B8_2588" rel="v:starring">丧钟大师</a> / <a href="../../subject_search@search_text=_25E8_2580_2581_25E9_25A9_25B4" rel="v:starring">老驴</a> / <a href="../../subject_search@search_text=_25E5_25BC_25A0_25E5_25A4_25A9_25E9_25A6_25A8" rel="v:starring">张天馨</a> / <a href="../../subject_search@search_text=_25E5_2588_2598_25E5_25AE_2587_25E9_25A6_25A8" rel="v:starring">刘宇馨</a> / <a href="../../celebrity/1341783/default.htm" rel="v:starring">陈旭明</a> / <a href="../../subject_search@search_text=_25E7_258E_258B_25E6_2580_259D_25E5_258D_259A" rel="v:starring">王思博</a> / <a href="../../celebrity/1353646/default.htm" rel="v:starring">赵子豪</a> / <a href="../../subject_search@search_text=_25E6_259D_25A8_25E6_259C_2595" rel="v:starring">杨朕</a> / <a href="../../subject_search@search_text=_25E9_2583_259D_25E5_25AE_2587" rel="v:starring">郝宇</a> / <a href="../../celebrity/1395215/default.htm" rel="v:starring">徐梦洁</a> / <a href="../../celebrity/1368559/default.htm" rel="v:starring">常钰</a> / <a href="../../celebrity/1395148/default.htm" rel="v:starring">韩丹</a> / <a href="../../celebrity/1394145/default.htm" rel="v:starring">严丰</a> / <a href="../../subject_search@search_text=_25E9_2583_25AD_25E6_259E_2597_25E9_2592_25A7" rel="v:starring">郭林钧</a></span></span><br/>
+        <span class="pl">类型:</span> <span property="v:genre">喜剧</span> / <span property="v:genre">冒险</span><br/>
+        
+        <span class="pl">制片国家/地区:</span> 中国大陆<br/>
+        <span class="pl">语言:</span> 汉语普通话<br/>
+        <span class="pl">上映日期:</span> <span property="v:initialReleaseDate" content="2018-08-10(中国大陆)">2018-08-10(中国大陆)</span><br/>
+        <span class="pl">片长:</span> <span property="v:runtime" content="117">117分钟</span><br/>
+        <span class="pl">又名:</span> 爱情公寓电影版 / 穿越时空的守护者 / 终于，又双叒叕回来搞事情了 / 新次元冒险家 / 盗墓笔记同人版 / 爱情公墓(豆友译名) / Apartment of Love / Ipartment<br/>
+        <span class="pl">IMDb链接:</span> <a href="../../../www.imdb.com/title/tt8893870" target="_blank" rel="nofollow">tt8893870</a><br>
+
+</div>
+
+
+
+
+                </div>
+                    
+
+
+<div id="interest_sectl">
+    <div class="rating_wrap clearbox" rel="v_3Arating">
+        <div class="clearfix">
+          <div class="rating_logo ll">豆瓣评分</div>
+          <div class="output-btn-wrap rr" style="display:none">
+            <img src="../../../https@img3.doubanio.com/f/movie/692e86756648f29457847c5cc5e161d6f6b8aaac/pics/movie/reference.png" />
+            <a class="download-output-image" href="#">引用</a>
+          </div>
+          
+          
+        </div>
+        
+
+
+
+<div class="rating_self clearfix" typeof="v:Rating">
+    <strong class="ll rating_num" property="v:average">3.1</strong>
+    <span property="v:best" content="10.0"></span>
+    <div class="rating_right ">
+        <div class="ll bigstar bigstar15"></div>
+        <div class="rating_sum">
+                <a href="collections" class="rating_people">
+                    <span property="v:votes">203125</span>人评价
+                </a>
+        </div>
+    </div>
+</div>
+<div class="ratings-on-weight">
+    
+        <div class="item">
+        
+        <span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+        <div class="power" style="width:2px"></div>
+        <span class="rating_per">3.3%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+        <div class="power" style="width:2px"></div>
+        <span class="rating_per">2.8%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars3 starstop" title="还行">
+            3星
+        </span>
+        <div class="power" style="width:8px"></div>
+        <span class="rating_per">9.7%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars2 starstop" title="较差">
+            2星
+        </span>
+        <div class="power" style="width:12px"></div>
+        <span class="rating_per">13.6%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars1 starstop" title="很差">
+            1星
+        </span>
+        <div class="power" style="width:64px"></div>
+        <span class="rating_per">70.7%</span>
+        <br />
+        </div>
+</div>
+
+    </div>
+        <div class="rating_betterthan">
+            好于 <a href="../../typerank@type_name=_25E5_2596_259C_25E5_2589_25A7&type=24&interval_id=10_3A0&action=">0% 喜剧片</a><br/>
+            好于 <a href="../../typerank@type_name=_25E5_2586_2592_25E9_2599_25A9&type=15&interval_id=10_3A0&action=">1% 冒险片</a><br/>
+        </div>
+</div>
+
+
+                
+            </div>
+                
+
+
+
+
+<div id="interest_sect_level" class="clearfix">
+        
+            <a href="../../../https@www.douban.com/reason=collectwish&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24852545-wish">
+                <span>想看</span>
+            </a>
+            <a href="../../../https@www.douban.com/reason=collectcollect&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-24852545-collect">
+                <span>看过</span>
+            </a>
+        <div class="ll j a_stars">
+            
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="../../../https@img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="../../../https@img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover_402x.png" data-hollow-2x="../../../https@img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover_402x.png">
+
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-24852545-1">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-24852545-2">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-24852545-3">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-24852545-4">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-24852545-5">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+        </div>
+    
+
+</div>
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        
+    
+        
+                <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/cc03d0fcf32b7ce3af7b160a0b85e5e66b47cc42/pics/short-comment.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_cmnt_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写短评</a>
+ </li>
+                    <li> 
+    
+    <img src="../../../https@img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_rv_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写影评</a>
+ </li>
+                    <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/61cc48ba7c40e0272d46bb93fe0dc514f3b71ec5/pics/add-doulist.gif" />&nbsp;
+    <a class="" href="questions/ask@from=subject_top">提问题</a>
+ </li>
+                <li> 
+    
+
+
+
+ </li>
+                <li> 
+   
+
+   
+    
+    <span class="rec" id="电影-24852545">
+    <a href= "#"
+        data-type="电影"
+        data-url="default.htm"
+        data-desc="电影《爱情公寓》 (来自豆瓣) "
+        data-title="电影《爱情公寓》 (来自豆瓣) "
+        data-pic="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521648155.jpeg"
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </span>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = '../../../https@img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('../../../https@img3.doubanio.com/f/movie/32be6727ed3ad8f6c4a417d8a086355c3e7d1d27/js/movie/lib/sharebutton.js');
+    </script>
+
+
+  </li>
+            
+
+    </ul>
+
+    <script type="text/javascript">
+        $(function(){
+            $(".ul_subject_menu li.rec .bn-sharing").bind("click", function(){
+                $.get("../../blank@sbj_page_click=bn_sharing");
+            });
+            $(".ul_subject_menu .create_from_menu").bind("click", function(e){
+                e.preventDefault();
+                var $el = $(this);
+                var glRoot = document.getElementById('gallery-topics-selection');
+                if (window.has_gallery_topics && glRoot) {
+                    // 判断是否有话题
+                    glRoot.style.display = 'block';
+                } else {
+                    location.href = $el.attr('href');
+                }
+            });
+        });
+    </script>
+</div>
+
+
+
+
+                
+
+
+
+
+
+<div class="rec-sec">
+<span class="rec">
+    <script id="movie-share" type="text/x-html-snippet">
+        
+    <form class="movie-share" action="../../j/share" method="POST">
+        <div class="clearfix form-bd">
+            <div class="input-area">
+                <textarea name="text" class="share-text" cols="72" data-mention-api="https://api.douban.com/shuo/in/complete?alt=xd&amp;callback=?"></textarea>
+                <input type="hidden" name="target-id" value="24852545">
+                <input type="hidden" name="target-type" value="0">
+                <input type="hidden" name="title" value="爱情公寓‎ (2018)">
+                <input type="hidden" name="desc" value="导演 韦正 主演 陈赫 / 袁弘 / 中国大陆 / 3.1分(203125评价)">
+                <input type="hidden" name="redir" value=""/>
+                <div class="mentioned-highlighter"></div>
+            </div>
+
+            <div class="info-area">
+                    <img class="media" src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2521648155.jpg" />
+                <strong>爱情公寓‎ (2018)</strong>
+                <p>导演 韦正 主演 陈赫 / 袁弘 / 中国大陆 / 3.1分(203125评价)</p>
+                <p class="error server-error">&nbsp;</p>
+            </div>
+        </div>
+        <div class="form-ft">
+            <div class="form-ft-inner">
+                
+
+
+
+                <span class="avail-num-indicator">140</span>
+                <span class="bn-flat">
+                    <input type="submit" value="推荐" />
+                </span>
+            </div>
+        </div>
+    </form>
+    
+    <div id="suggest-mention-tmpl" style="display:none;">
+        <ul>
+            {{#users}}
+            <li id="{{uid}}">
+              <img src="{{avatar}}">{{{username}}}&nbsp;<span>({{{uid}}})</span>
+            </li>
+            {{/users}}
+        </ul>
+    </div>
+
+
+    </script>
+
+        
+        <a href="../../accounts/register@reason=recommend"  class="j a_show_login lnk-sharing" share-id="24852545" data-mode="plain" data-name="爱情公寓‎ (2018)" data-type="movie" data-desc="导演 韦正 主演 陈赫 / 袁弘 / 中国大陆 / 3.1分(203125评价)" data-href="https://movie.douban.com/subject/24852545/" data-image="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2521648155.jpg" data-properties="{}" data-redir="" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1002" data-object_id="24852545" data-target_type="rec" data-target_action="0" data-action_props="{&#34;subject_url&#34;:&#34;https:\/\/movie.douban.com\/subject\/24852545\/&#34;,&#34;subject_title&#34;:&#34;爱情公寓‎ (2018)&#34;}">推荐</a>
+</span>
+
+
+</div>
+
+
+
+
+
+
+            <script type="text/javascript">
+                $(function() {
+                    $('.collect_btn', '#interest_sect_level').each(function() {
+                        Douban.init_collect_btn(this);
+                    });
+                    $('html').delegate(".indent .rec-sec .lnk-sharing", "click", function() {
+                        moreurl(this, {
+                            from : 'mv_sbj_db_share'
+                        });
+                    });
+                });
+            </script>
+        </div>
+            
+
+
+    <div id="collect_form_24852545"></div>
+
+
+        
+
+
+
+<div class="related-info" style="margin-bottom:-10px;">
+    <a name="intro"></a>
+    
+        
+            
+            
+    <h2>
+        <i class="">爱情公寓的剧情简介</i>
+             ······
+    </h2>
+
+            <div class="indent" id="link-report">
+                    
+                        <span property="v:summary" class="">
+                                　　《爱情公寓》电影版归来，原班人马十年催泪重聚。曾小贤、胡一菲、吕子乔、张伟、唐悠悠、陈美嘉悉数回归，还是熟悉的场景和熟悉的人，嘻嘻哈哈、打打闹闹，笑声从没停过。老朋友的故事将继续展开，印证了电视剧的那句主题语——“最好的朋友在身边，最爱的人就在对面”。不过这一次，他们打算搞个大事情……
+                                    <br />
+                                　　
+                        </span>
+                        
+
+            </div>
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+<div id="celebrities" class="celebrities related-celebrities">
+
+  
+    <h2>
+        <i class="">爱情公寓的演职员</i>
+             ······
+            <span class="pl">
+            (
+                <a href="celebrities">全部 35</a>
+            )
+            </span>
+    </h2>
+
+
+  <ul class="celebrities-list from-subject __oneline">
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1313918/default.htm" title="韦正 Frank Wei" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1526270943.26.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1313918/default.htm" title="韦正 Frank Wei" class="name">韦正</a></span>
+
+      <span class="role" title="导演">导演</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1313841/default.htm" title="陈赫 He Chen" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1420296836.46.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1313841/default.htm" title="陈赫 He Chen" class="name">陈赫</a></span>
+
+      <span class="role" title="饰 曾小贤">饰 曾小贤</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1275443/default.htm" title="袁弘 Hong Yuan" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34035.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1275443/default.htm" title="袁弘 Hong Yuan" class="name">袁弘</a></span>
+
+      <span class="role" title="饰 吴邪">饰 吴邪</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1313784/default.htm" title="娄艺潇 Yixiao Lou" class="">
+      <div class="avatar" style="background-image: url(../../../https@img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1490251985.48.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1313784/default.htm" title="娄艺潇 Yixiao Lou" class="name">娄艺潇</a></span>
+
+      <span class="role" title="饰 胡一菲">饰 胡一菲</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1274361/default.htm" title="邓家佳 Jiajia Deng" class="has-account">
+      <div class="avatar has-account" style="background-image: url(../../../https@img3.doubanio.com/f/movie/14960825e118267b5857fc0ae9f306ef8c74da8f/pics/movie/has_douban_402x.png), url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1504859738.26.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1274361/default.htm" title="邓家佳 Jiajia Deng" class="name">邓家佳</a></span>
+
+      <span class="role" title="饰 唐悠悠">饰 唐悠悠</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1313842/default.htm" title="孙艺洲 Yizhou Sun" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1413815568.5.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1313842/default.htm" title="孙艺洲 Yizhou Sun" class="name">孙艺洲</a></span>
+
+      <span class="role" title="饰 吕子乔">饰 吕子乔</span>
+
+    </div>
+  </li>
+
+
+  </ul>
+</div>
+
+
+    
+
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/f/verify/16c7e943aee3b1dc6d65f600fcc0f6d62db7dfb4/entry_creator/dist/author_subject/style.css">
+<div id="author_subject" class="author-wrapper">
+    <div class="loading"></div>
+</div>
+<script type="text/javascript">
+    var answerObj = {
+      ISALL: 'False',
+      TYPE: 'movie',
+      SUBJECT_ID: '24852545',
+      USER_ID: 'None'
+    }
+</script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/61252f2f9b35f08b37f69d17dfe48310dd295347/js/movie/lib/react/15.4/bundle.js"></script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/verify/ac140ef86262b845d2be7b859e352d8196f3f6d4/entry_creator/dist/author_subject/index.js"></script>
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    <div id="related-pic" class="related-pic">
+        
+    
+    
+    <h2>
+        <i class="">爱情公寓的视频和图片</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="trailer#trailer">预告片4</a>&nbsp;|&nbsp;<a href="../../video/create@subject_id=24852545">添加视频评论</a>&nbsp;|&nbsp;<a href="all_photos">图片215</a>&nbsp;·&nbsp;<a href="mupload">添加</a>
+            )
+            </span>
+    </h2>
+
+
+        <ul class="related-pic-bd  ">
+                <li class="label-trailer">
+                    <a class="related-pic-video" href="../../trailer/233359/#content" title="预告片" style="background-image:url(../../../https@img3.doubanio.com/img/trailer/medium/2527140976.jpg@)">
+                    </a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2521648912/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2521648912.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2527141488/default.htm"><img src="../../../https@img1.doubanio.com/view/photo/sqxs/public/p2527141488.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2524228927/default.htm"><img src="../../../https@img1.doubanio.com/view/photo/sqxs/public/p2524228927.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2524228967/default.htm"><img src="../../../https@img1.doubanio.com/view/photo/sqxs/public/p2524228967.jpg" alt="图片" /></a>
+                </li>
+        </ul>
+    </div>
+
+
+
+
+    
+    
+
+
+
+<style type="text/css">
+.award li { display: inline; margin-right: 5px }
+.awards { margin-bottom: 20px }
+.awards h2 { background: none; color: #000; font-size: 14px; padding-bottom: 5px; margin-bottom: 8px; border-bottom: 1px dashed #dddddd }
+.awards .year { color: #666666; margin-left: -5px }
+.mod { margin-bottom: 25px }
+.mod .hd { margin-bottom: 10px }
+.mod .hd h2 {margin:24px 0 3px 0}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+
+    <div id="recommendations" class="">
+        
+        
+    <h2>
+        <i class="">喜欢这部电影的人也喜欢</i>
+             ······
+    </h2>
+
+        
+    
+    <div class="recommendations-bd">
+        <dl class="">
+            <dt>
+                <a href="../26966580/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2506825662.jpg" alt="妖铃铃" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26966580/@from=subject-page" class="" >妖铃铃</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27149818/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2526215398.jpg" alt="胖子行动队" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27149818/@from=subject-page" class="" >胖子行动队</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26818314/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2523437699.jpg" alt="猛虫过江" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26818314/@from=subject-page" class="" >猛虫过江</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27092785/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2533384240.jpg" alt="李茶的姑妈" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27092785/@from=subject-page" class="" >李茶的姑妈</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26309969/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2529762680.jpg" alt="新乌龙院之笑闹江湖" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26309969/@from=subject-page" class="" >新乌龙院之笑闹江湖</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27114417/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2511436594.jpg" alt="祖宗十九代" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27114417/@from=subject-page" class="" >祖宗十九代</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26290365/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2298326979.jpg" alt="恶棍天使" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26290365/@from=subject-page" class="" >恶棍天使</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26850326/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2449680079.jpg" alt="欢乐喜剧人" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26850326/@from=subject-page" class="" >欢乐喜剧人</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26994789/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2543353290.jpg" alt="天气预爆" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26994789/@from=subject-page" class="" >天气预爆</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26389696/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2408307430.jpg" alt="大闹天竺" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26389696/@from=subject-page" class="" >大闹天竺</a>
+            </dd>
+        </dl>
+    </div>
+
+    </div>
+
+
+
+        
+
+
+<script type="text/x-handlebar-tmpl" id="comment-tmpl">
+    <div class="dummy-fold">
+        {{#each comments}}
+        <div class="comment-item" data-cid="id">
+            <div class="comment">
+                <h3>
+                    <span class="comment-vote">
+                            <span class="votes">{{votes}}</span>
+                        <input value="{{id}}" type="hidden"/>
+                        <a href="javascript:;" class="j {{#if ../if_logined}}a_vote_comment{{else}}a_show_login{{/if}}">有用</a>
+                    </span>
+                    <span class="comment-info">
+                        <a href="{{user.path}}" class="">{{user.name}}</a>
+                        {{#if rating}}
+                        <span class="allstar{{rating}}0 rating" title="{{rating_word}}"></span>
+                        {{/if}}
+                        <span>
+                            {{time}}
+                        </span>
+                        <p> {{content_tmpl content}} </p>
+                    </span>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <div id="comments-section">
+        <div class="mod-hd">
+            
+        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">
+            <span>我要写短评</span>
+        </a>
+
+            
+            
+    <h2>
+        <i class="">爱情公寓的短评</i>
+             ······
+            <span class="pl">
+            (
+                <a href="comments@status=P">全部 96493 条</a>
+            )
+            </span>
+    </h2>
+
+        </div>
+        <div class="mod-bd">
+                
+    <div class="tab-hd">
+        <a id="hot-comments-tab" href="comments" data-id="hot" class="on">热门</a>&nbsp;/&nbsp;
+            <a id="new-comments-tab" href="comments@sort=time" data-id="new">最新</a>&nbsp;/&nbsp;
+        <a id="following-comments-tab" href="follows_comments" data-id="following"  class="j a_show_login">好友</a>
+    </div>
+
+    <div class="tab-bd">
+        <div id="hot-comments" class="tab">
+            
+    
+        
+        <div class="comment-item" data-cid="1431676383">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">8667</span>
+                <input value="1431676383" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/163729455/default.htm" class="">光光光咣</a>
+                    <span>看过</span>
+                    <span class="allstar10 rating" title="很差"></span>
+                <span class="comment-time " title="2018-08-10 14:10:54">
+                    2018-08-10
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">把抄袭当青春，你们的青春真廉价。</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1431689336">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">8776</span>
+                <input value="1431689336" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/mlsslm777/default.htm" class="">扭腰客</a>
+                    <span>看过</span>
+                    <span class="allstar10 rating" title="很差"></span>
+                <span class="comment-time " title="2018-08-10 14:25:12">
+                    2018-08-10
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">如果当年的电视剧是山寨货的话，尼玛这部“电影版”简直就是拼多多啊！</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1431724803">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">5050</span>
+                <input value="1431724803" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/176312000/default.htm" class="">陈先生的肉肉店</a>
+                    <span>看过</span>
+                    <span class="allstar10 rating" title="很差"></span>
+                <span class="comment-time " title="2018-08-10 15:03:24">
+                    2018-08-10
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">刚在知乎看到个评论“其实这些人哪有什么情怀。正是因为没有情怀，所以当别人赋予他们一个情怀的时候，他们就会自我感动的立马用拥抱来迎接，  然后到处宣扬，这就是我的情怀。”</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1431689038">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">4991</span>
+                <input value="1431689038" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/156164436/default.htm" class="">Pilot Stan</a>
+                    <span>看过</span>
+                    <span class="allstar10 rating" title="很差"></span>
+                <span class="comment-time " title="2018-08-10 14:24:51">
+                    2018-08-10
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">王传君我爱您</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1431701889">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2748</span>
+                <input value="1431701889" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/147767078/default.htm" class="">PHQ</a>
+                    <span>看过</span>
+                    <span class="allstar10 rating" title="很差"></span>
+                <span class="comment-time " title="2018-08-10 14:39:08">
+                    2018-08-10
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">一分钟以前我猫眼打分1分 一分钟后打开猫眼显示我刚才打了10分 🐂🍺 玩你🐎呢</span>
+        </p>
+    </div>
+
+        </div>
+
+
+
+                
+                &gt; <a href="comments@sort=new_score&status=P" >更多短评96493条</a>
+        </div>
+        <div id="new-comments" class="tab">
+            <div id="normal">
+            </div>
+            <div class="fold-hd hide">
+                <a class="qa" href="../../help/opinion#t2-q0" target="_blank">为什么被折叠？</a>
+                <a class="btn-unfold" href="#">有一些短评被折叠了</a>
+                <div class="qa-tip">
+                    评论被折叠，是因为发布这条评论的帐号行为异常。评论仍可以被展开阅读，对发布人的账号不造成其他影响。如果认为有问题，可以<a href="../../../https@help.douban.com/help/ask@category=movie">联系</a>豆瓣电影。
+                </div>
+            </div>
+            <div class="fold-bd">
+            </div>
+            <span id="total-num"></span>
+        </div>
+        <div id="following-comments" class="tab">
+            
+    
+
+
+        <div class="comment-item">
+            你关注的人还没写过短评
+        </div>
+
+        </div>
+    </div>
+
+
+            
+            
+        </div>
+    </div>
+
+
+
+        
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/5b893040c800d5cd.css">
+
+<section class="topics mod">
+    <header>
+        <h2>
+            爱情公寓的话题 · · · · · ·
+            <span class="pl">( <span class="gallery_topics">全部 <span id="topic-count"></span> 条</span> )</span>
+        </h2>
+    </header>
+
+    
+
+
+
+
+<section class="subject-topics">
+    <div class="topic-guide" id="topic-guide">
+        <img class="ic_question" src="../../../https@img3.doubanio.com/f/ithildin/b1a3edea3d04805f899e9d77c0bfc0d158df10d5/pics/export/icon_question.png">
+        <div class="tip_content">
+            <div class="tip_title">什么是话题</div>
+            <div class="tip_desc">
+                <div>无论是一部作品、一个人，还是一件事，都往往可以衍生出许多不同的话题。将这些话题细分出来，分别进行讨论，会有更多收获。</div>
+            </div>
+        </div>
+        <img class="ic_guide" src="../../../https@img3.doubanio.com/f/ithildin/529f46d86bc08f55cd0b1843d0492242ebbd22de/pics/export/icon_guide_arrow.png">
+        <img class="ic_close" id="topic-guide-close" src="../../../https@img3.doubanio.com/f/ithildin/2eb4ad488cb0854644b23f20b6fa312404429589/pics/export/close_403x.png">
+    </div>
+
+    <div id="topic-items"></div>
+
+    <script>
+        window.subject_id = 24852545;
+        window.join_label_text = '写影评参与';
+
+        window.topic_display_count = 4;
+        window.topic_item_display_count = 1;
+        window.no_content_fun_call_name = "no_topic";
+
+        window.guideNode = document.getElementById('topic-guide');
+        window.guideNodeClose = document.getElementById('topic-guide-close');
+    </script>
+    
+        <link rel="stylesheet" href="../../../https@img3.doubanio.com/f/ithildin/f731c9ea474da58c516290b3a6b1dd1237c07c5e/css/export/subject_topics.css">
+        <script src="../../../https@img3.doubanio.com/f/ithildin/d3590fc6ac47b33c804037a1aa7eec49075428c8/js/export/moment-with-locales-only-zh.js"></script>
+        <script src="../../../https@img3.doubanio.com/f/ithildin/c600fdbe69e3ffa5a3919c81ae8c8b4140e99a3e/js/export/subject_topics.js"></script>
+
+</section>
+
+    <script>
+        function no_topic(){
+            $('#content .topics').remove();
+        }
+    </script>
+</section>
+
+<section class="reviews mod movie-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review comment_btn "
+            data-isverify="False"
+            data-verify-url="../../../https@www.douban.com/accounts/phone/verify@redir=http_3A_2F_2Fmovie.douban.com_2Fsubject_2F24852545_2Fnew_review">
+            <span>我要写影评</span>
+        </a>
+        <h2>
+            爱情公寓的影评 · · · · · ·
+            <span class="pl">( <a href="reviews">全部 3381 条</a> )</span>
+        </h2>
+    </header>
+
+    
+
+<style>
+#gallery-topics-selection {
+  position: fixed;
+  width: 595px;
+  padding: 40px 40px 33px 40px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.2);
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+#gallery-topics-selection h1 {
+  font-size: 18px;
+  color: #007722;
+  margin-bottom: 36px;
+  padding: 0;
+  line-height: 28px;
+  font-weight: normal;
+}
+#gallery-topics-selection .gl_topics {
+  border-bottom: 1px solid #dfdfdf;
+  max-height: 298px;
+  overflow-y: scroll;
+}
+#gallery-topics-selection .topic {
+  margin-bottom: 24px;
+}
+#gallery-topics-selection .topic_name {
+  font-size: 15px;
+  color: #333;
+  margin: 0;
+  line-height: inherit;
+}
+#gallery-topics-selection .topic_meta {
+  font-size: 13px;
+  color: #999;
+}
+#gallery-topics-selection .topics_skip {
+  display: block;
+  cursor: pointer;
+  font-size: 16px;
+  color: #3377AA;
+  text-align: center;
+  margin-top: 33px;
+}
+#gallery-topics-selection .topics_skip:hover {
+  background: transparent;
+}
+#gallery-topics-selection .close_selection {
+  position: absolute;
+  width: 30px;
+  height: 20px;
+  top: 46px;
+  right: 40px;
+  background: #fff;
+  color: #999;
+  text-align: right;
+}
+#gallery-topics-selection .close_selection:hover{
+  background: #fff;
+  color: #999;
+}
+</style>
+
+
+
+
+        <div class="review_filter">
+            <a href="javascript:;;" class="cur" data-sort="">热门</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="time">最新</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="follow">好友</a href="javascript:;;">
+            
+        </div>
+
+
+        
+
+
+
+<div class="review-list  ">
+        
+    
+
+        
+    
+    <div data-cid="9576885">
+        <div class="main review-item" id="9576885">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/68210064/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u68210064-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/68210064/default.htm" class="name">Veto</a>
+
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2018-08-10" class="main-meta">2018-08-10 12:05:51</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9576885/default.htm">【转图】爱情公寓全剧透！就是盗墓笔记外传！水军片方洗地粉无脑行为真是一出好戏！</a></h2>
+
+                <div id="review_9576885_short" class="review-short" data-rid="9576885">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        补充：现在是4:36购票平台还没有出评分 危机公关看来全用在推迟评分上面了 目前所有反应都与下文所述不谋而合 作为新中国第一部猛艹粉丝的电影 祝愿你们以后拿好这次被你们骗了的粉丝的钱 然后从此滚出影视圈。让我们记住他们的名字：汪远！！！！韦正、陈宏伟、连瑞影业！！高...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9576885-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9576885_full" class="hidden">
+                    <div id="review_9576885_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9576885" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9576885">
+                                3724
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9576885" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9576885">
+                                308
+                        </span>
+                    </a>
+                    <a href="../../review/9576885/#comments" class="reply ">471回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9577782">
+        <div class="main review-item" id="9577782">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/lingrui1995/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/u63688511-18.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/lingrui1995/default.htm" class="name">凌睿</a>
+
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2018-08-10" class="main-meta">2018-08-10 17:33:00</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9577782/default.htm">扒开《爱情公寓》的真面目</a></h2>
+
+                <div id="review_9577782_short" class="review-short" data-rid="9577782">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        2017年8月，网上传出《爱情公寓5》开拍的消息，原来是在拍一部叫做《新次元冒险家》的电影，由于是《爱情公寓》的演员陈赫、娄艺潇、李佳航等人主演，所以网友误以为是《爱情公寓5》开拍了。 没想到片方将计就计，来了一招“移花接木”，保留已经拍了的戏份，稍微改一下开头和...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9577782-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9577782_full" class="hidden">
+                    <div id="review_9577782_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9577782" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9577782">
+                                3484
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9577782" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9577782">
+                                250
+                        </span>
+                    </a>
+                    <a href="../../review/9577782/#comments" class="reply ">525回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9495795">
+        <div class="main review-item" id="9495795">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/54045751/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u54045751-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/54045751/default.htm" class="name">羊过冬</a>
+
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2018-07-07" class="main-meta">2018-07-07 18:15:00</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9495795/default.htm">等等，粉丝们别开枪，先听我言语两句。</a></h2>
+
+                <div id="review_9495795_short" class="review-short" data-rid="9495795">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        《爱情公寓》系列能够火，组成有两个部分：脸皮从头一直厚到尾的主创们和一开始无知后来也脸皮厚的粉丝们。 一直以来有一个疑问，你们是在什么样的工作氛围下拍的这部剧？一众人围着一部电脑，点开一部剧一起看，觉得好的地方导演说，“这个好，记下来记下来”，“陈赫，记住，...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9495795-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9495795_full" class="hidden">
+                    <div id="review_9495795_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9495795" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9495795">
+                                1955
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9495795" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9495795">
+                                165
+                        </span>
+                    </a>
+                    <a href="../../review/9495795/#comments" class="reply ">976回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9475555">
+        <div class="main review-item" id="9475555">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/131100287/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u131100287-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/131100287/default.htm" class="name">-夏天穿秋裤-</a>
+
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2018-06-30" class="main-meta">2018-06-30 09:57:53</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9475555/default.htm">为王传君发声</a></h2>
+
+                <div id="review_9475555_short" class="review-short" data-rid="9475555">
+                    <div class="short-content">
+
+                        对于王传君事件：好比你小时候会打架说脏话 但当你长大了会慢慢醒悟 发现这些行为极其幼稚低俗 你开始不说脏话不去打架 约束自己的行为 想使自己往更好的方向去发展 也和停留在小时候的人划清界限 而那些人却跳出来说你不可以变 我们是你玩了这么多年的朋友 你不可以忘恩负义 ...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9475555-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9475555_full" class="hidden">
+                    <div id="review_9475555_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9475555" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9475555">
+                                1990
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9475555" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9475555">
+                                126
+                        </span>
+                    </a>
+                    <a href="../../review/9475555/#comments" class="reply ">572回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9577706">
+        <div class="main review-item" id="9577706">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/94332979/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u94332979-5.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/94332979/default.htm" class="name">我是尾号2473</a>
+
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2018-08-10" class="main-meta">2018-08-10 17:15:45</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9577706/default.htm">拍《爱情公寓》的人坏，看《爱情公寓》的人蠢</a></h2>
+
+                <div id="review_9577706_short" class="review-short" data-rid="9577706">
+                    <div class="short-content">
+
+                        上映前一周预售就破亿了，上映当天就冲着三亿票房奔去，《爱情公寓》这票房，和《我不是药神》、《西虹市首富》是一个级别的。 《爱情公寓》碾压大盘 《药神》有徐峥宁浩加持，《西虹市》开心麻花品质保障，有这些票房都不奇怪，那《爱情公寓》呢？ 说个烂俗的词，情怀。 抛开...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9577706-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9577706_full" class="hidden">
+                    <div id="review_9577706_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9577706" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9577706">
+                                1206
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9577706" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9577706">
+                                179
+                        </span>
+                    </a>
+                    <a href="../../review/9577706/#comments" class="reply ">559回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9577300">
+        <div class="main review-item" id="9577300">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/137405998/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u137405998-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/137405998/default.htm" class="name">汤姆.可撸死</a>
+
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2018-08-10" class="main-meta">2018-08-10 15:06:38</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9577300/default.htm">对不起！我是一开始喷你们的爱情公寓粉！我现在只想给片方寄刀片！（脑子有坑的片方加聪明的带哥=全网黑和票房大跳水）</a></h2>
+
+                <div id="review_9577300_short" class="review-short" data-rid="9577300">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        说实话，粉转路人，再转黑的感觉挺爽的。我发誓从此爱情公寓一生黑！就好像有个人拿着别人的劳动成果给我看，说是他的作品，我信以为真，天真的觉得他厉害，觉得他好，然后有一天我发现一切都是他的谎言和欺骗？对不起，我忍不了！我只想给他一拳，能忍的人估计也是些纯地道的n...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9577300-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9577300_full" class="hidden">
+                    <div id="review_9577300_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9577300" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9577300">
+                                1067
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9577300" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9577300">
+                                164
+                        </span>
+                    </a>
+                    <a href="../../review/9577300/#comments" class="reply ">326回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9576573">
+        <div class="main review-item" id="9576573">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/159176601/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u159176601-5.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/159176601/default.htm" class="name">JK</a>
+
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2018-08-10" class="main-meta">2018-08-10 09:52:49</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9576573/default.htm">爱情公寓水军工作室聊天截图</a></h2>
+
+                <div id="review_9576573_short" class="review-short" data-rid="9576573">
+                    <div class="short-content">
+
+                        1.水军工作室。 2.泄露剧情，盗墓题材。 3.彩蛋：爱5,coming soon.他们会强调这点。 4.豆瓣，微博，猫眼等平台均已发现对应言论的水军。 5.这些人多会给《一出好戏》打低分。 6.水军不得好死。 话不多说，直接上图。（自行判断，图片允许转载） 爱情公寓1-4季抄袭速览： 第1季:...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9576573-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9576573_full" class="hidden">
+                    <div id="review_9576573_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9576573" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9576573">
+                                896
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9576573" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9576573">
+                                82
+                        </span>
+                    </a>
+                    <a href="../../review/9576573/#comments" class="reply ">310回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9579084">
+        <div class="main review-item" id="9579084">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/158209026/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u158209026-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/158209026/default.htm" class="name">民谣与诗</a>
+
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2018-08-10" class="main-meta">2018-08-10 22:22:54</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9579084/default.htm">《爱情公寓》2.4分，我想替王传君和金世佳发声！</a></h2>
+
+                <div id="review_9579084_short" class="review-short" data-rid="9579084">
+                    <div class="short-content">
+
+                        今天，《爱情公寓》电影上映 评分迅速跌破表 看来，和《逐梦演艺圈》肩并肩 已经不再是梦想 ——目前《逐梦演艺圈》豆瓣评分2.1分 TOP1 1. 8月10日，电影《爱情公寓》上映了，这四个字曾经是多少人的青春记忆和期待？ 可现在，多的恐怕是羞愧和尴尬。 B站up主@残狼之卑，从2016...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9579084-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9579084_full" class="hidden">
+                    <div id="review_9579084_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9579084" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9579084">
+                                871
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9579084" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9579084">
+                                49
+                        </span>
+                    </a>
+                    <a href="../../review/9579084/#comments" class="reply ">109回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9575067">
+        <div class="main review-item" id="9575067">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/149411280/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u149411280-3.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/149411280/default.htm" class="name">无忌</a>
+
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2018-08-09" class="main-meta">2018-08-09 15:33:26</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9575067/default.htm">揭秘二十一世纪电影票房预售一亿骗局，一个蹭ip的电影因为ip过期强行卖情怀，上映前的断言不仅仅是臆测，理性分析爱情公寓到底为什么注定是部烂片。</a></h2>
+
+                <div id="review_9575067_short" class="review-short" data-rid="9575067">
+                    <div class="short-content">
+
+                        电影原名新次元冒险家，只不过是找了爱情公寓的演员，故事本身和爱情公寓无关，制片方为了打情怀牌圈钱改名爱情公寓 其实稍微查一下新次元冒险家的资料就会发现，电影立案是在去年，片方前前后后的筹划肯定要打个提前量，时间一下子就退到了2016年，正是盗墓笔记电影大火的时候...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9575067-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9575067_full" class="hidden">
+                    <div id="review_9575067_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9575067" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9575067">
+                                598
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9575067" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9575067">
+                                47
+                        </span>
+                    </a>
+                    <a href="../../review/9575067/#comments" class="reply ">88回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9568755">
+        <div class="main review-item" id="9568755">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/174159365/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u174159365-32.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/174159365/default.htm" class="name">章鱼</a>
+
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2018-08-06" class="main-meta">2018-08-06 18:15:25</span>
+
+            <a class="rel-topic" target="_blank" href="../../../https@www.douban.com/gallery/topic/_25E3_2580_258A_25E7_2588_25B1_25E6_2583_2585_25E5_2585_25AC_25E5_25AF_2593_25E3_2580_258B_25E6_259C037F5AF660">#《爱情公寓》有哪些“致敬”？如何评价这些“致敬”？</a>
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9568755/default.htm">我们骂爱抄公寓时我们在骂些什么（附强势反抄表情包）</a></h2>
+
+                <div id="review_9568755_short" class="review-short" data-rid="9568755">
+                    <div class="short-content">
+
+                        评论区果然一波洗地，呵呵呵，都8102年了那些用烂的梗就别拿出来丢人现眼了。 https://www.douban.com/doubanapp/dispatch?uri=/review/9524038/ ———————————————————— 声明几句，这篇“影评”不全针对电影，实在是洗地工太过无耻，盛怒之下遂作此文一一驳...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9568755-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9568755_full" class="hidden">
+                    <div id="review_9568755_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9568755" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9568755">
+                                755
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9568755" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9568755">
+                                110
+                        </span>
+                    </a>
+                    <a href="../../review/9568755/#comments" class="reply ">640回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    
+
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/512e0471354c889c.js"></script>
+    <!-- COLLECTED CSS -->
+</div>
+
+
+
+
+
+
+
+
+            <p class="pl">
+                &gt;
+                <a href="reviews">
+                    更多影评3381篇
+                </a>
+            </p>
+</section>
+
+<!-- COLLECTED JS -->
+
+    <br/>
+
+        <div class="section-discussion">
+                
+                <div class="mod-hd">
+                        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow"><span>添加新讨论</span></a>
+                    
+    <h2>
+        讨论区
+         ······
+    </h2>
+
+                </div>
+                
+  <table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/615721181/default.htm" title="电影《爱情公寓》8月10日下午14:00正式公映">电影《爱情公寓》8月10日下午14:00正式公映</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/doubanfilm/default.htm">豆瓣电影</a></td>
+          <td class="pl"><span>395 回应</span></td>
+          <td class="pl"><span>2019-06-25</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/615723585/default.htm" title="发现喜欢爱情公寓的都是一帮大脑还没有发育完全的小孩子">发现喜欢爱情公寓的都是一帮大脑还没有发育完全的...</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/4067480/default.htm">智华</a></td>
+          <td class="pl"><span>57 回应</span></td>
+          <td class="pl"><span>2019-07-11</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616354000/default.htm" title="你们这样恶意给低分诋毁国产剧，是希望中国变成叙利亚利比亚吗？？">你们这样恶意给低分诋毁国产剧，是希望中国变成叙...</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/164430479/default.htm">豆友184322201</a></td>
+          <td class="pl"><span>6 回应</span></td>
+          <td class="pl"><span>2019-07-11</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/615725079/default.htm" title="维护我们心中的爱情公寓，请无良水军还公寓一个公正的评分。">维护我们心中的爱情公寓，请无良水军还公寓一个公...</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/149702597/default.htm">靜待花開🍡 🍡</a></td>
+          <td class="pl"><span>424 回应</span></td>
+          <td class="pl"><span>2019-07-01</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616342199/default.htm" title="有没有觉得爱情公寓大电影其实还挺好看的？">有没有觉得爱情公寓大电影其实还挺好看的？</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/169230577/default.htm">一个人</a></td>
+          <td class="pl"><span>3 回应</span></td>
+          <td class="pl"><span>2019-06-27</span></td>
+        </tr>
+  </table>
+
+                <p class="pl" align="right">
+                    <a href="discussion/default.htm" rel="nofollow">
+                        &gt; 去这部影片的讨论区（全部3302条）
+                    </a>
+                </p>
+        </div>
+
+        
+    
+        
+                
+
+
+
+
+
+<div id="askmatrix">
+    <div class="mod-hd">
+        <h2>
+            关于《爱情公寓》的问题
+            · · · · · ·
+            <span class="pl">
+                (<a href='questions/@from=subject'>
+                    全部27个
+                </a>)
+            </span>
+        </h2>
+
+
+        
+    
+    <a class='j a_show_login comment_btn'
+        href='questions/ask/@from=subject'>我来提问</a>
+
+    </div>
+
+    <div class="mod-bd">
+        <ul class="">
+            <li class="">
+                <span class="tit">
+                    <a href="questions/812733/@from=subject" class="">
+                            韦正和汪远到底是怎样的人？
+                    </a>
+                </span>
+                <span class="meta">
+                    10人回答
+                </span>
+            </li>
+            <li class="">
+                <span class="tit">
+                    <a href="questions/812737/@from=subject" class="">
+                            我就想知道现在的退票率是多少(*^_^*)？
+                    </a>
+                </span>
+                <span class="meta">
+                    8人回答
+                </span>
+            </li>
+        </ul>
+
+        <p>&gt;
+            <a href='questions/@from=subject'>
+                全部27个问题
+            </a>
+        </p>
+
+    </div>
+</div>
+
+
+
+            
+
+
+    <script type="text/javascript">
+        $(function(){if($.browser.msie && $.browser.version == 6.0){
+            var $info = $('#info'),
+                maxWidth = parseInt($info.css('max-width'));
+            if($info.width() > maxWidth) {
+                $info.width(maxWidth);
+            }
+        }});
+    </script>
+
+
+            </div>
+            <div class="aside">
+                
+
+
+    
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+    
+
+<script id="episode-tmpl" type="text/x-jsrender">
+<div id="tv-play-source" class="play-source">
+    <div class="cross">
+        <span style="color:#494949; font-size:16px">{{:cn}}</span>
+        <span style="cursor:pointer">✕</span>
+    </div>
+    <div class="episode-list">
+        {{for playlist}}
+            <a href="{{:play_link}}&episode={{:ep}}" target="_blank">{{:ep}}集</a>
+        {{/for}}
+     <div>
+ </div>
+</script>
+
+<div class="gray_ad">
+    
+    <h2>
+        在哪儿看这部电影
+            ······
+    </h2>
+
+    
+    <ul class="bs">
+                <li>
+                        <a class="playBtn" data-cn="腾讯视频" href="../../../https@www.douban.com/link2/@url=http_253A_252F_252Fv.qq.com_252Fx_252Fcover_252Fxgyd6mjl7vo6kpb.html_253Fptag_253Ddouban.movie&subtype=1&type=online-video" target="_blank">
+                            腾讯视频
+                        </a>
+                    <span class="buylink-price"><span>
+                        VIP免费观看
+                    </span></span>
+                </li>
+                <li>
+                        <a class="playBtn" data-cn="爱奇艺视频" href="../../../https@www.douban.com/link2/@url=http_253A_252F_252Fwww.iqiyi.com_252Fv_19rrdeqs18.html_253Fvfm_253Dm_331_dbdy%26fv_253D4904d94982104144a1548dd9040df241&subtype=9&type=online-video" target="_blank">
+                            爱奇艺视频
+                        </a>
+                    <span class="buylink-price"><span>
+                        VIP免费观看
+                    </span></span>
+                </li>
+                <li>
+                        <a class="playBtn" data-cn="优酷视频" href="../../../https@www.douban.com/link2/@url=http_253A_252F_252Fv.youku.com_252Fv_show_252Fid_XMzgxNTE2Mzg2OA_253D_253D.html_253Ftpa_253DdW5pb25fa003ADD5F5C" target="_blank">
+                            优酷视频
+                        </a>
+                    <span class="buylink-price"><span>
+                        VIP免费观看
+                    </span></span>
+                </li>
+
+    </ul>
+</div>
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_top_right"></div>
+    <div id="dale_movie_subject_top_middle"></div>
+    <!-- douban ad end -->
+
+    
+
+
+
+<style type="text/css">
+    .m4 {margin-bottom:8px; padding-bottom:8px;}
+    .movieOnline {background:#FFF6ED; padding:10px; margin-bottom:20px;}
+    .movieOnline h2 {margin:0 0 5px;}
+    .movieOnline .sitename {line-height:2em; width:160px;}
+    .movieOnline td,.movieOnline td a:link,.movieOnline td a:visited{color:#666;}
+    .movieOnline td a:hover {color:#fff;}
+    .link-bt:link,
+    .link-bt:visited,
+    .link-bt:hover,
+    .link-bt:active {margin:5px 0 0; padding:2px 8px; background:#a8c598; color:#fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; display:inline-block;}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+    
+    <div class="tags">
+        
+        
+    <h2>
+        <i class="">豆瓣成员常用的标签</i>
+             ······
+    </h2>
+
+        <div class="tags-body">
+                <a href="../../tag/_25E7_2583_2582_25E7_2589_2587" class="">烂片</a>
+                <a href="../../tag/_25E5_2596_259C_25E5_2589_25A7" class="">喜剧</a>
+                <a href="../../tag/_25E6_2583_2585_25E6_2580_2580" class="">情怀</a>
+                <a href="../../tag/_25E6_2590_259E_25E7_25AC_2591" class="">搞笑</a>
+                <a href="../../tag/_25E9_259D_2592_25E6_2598_25A5" class="">青春</a>
+                <a href="../../tag/_25E5_25B9_25BD_25E9_25BB_2598" class="">幽默</a>
+                <a href="../../tag/_25E7_2588_25B1_25E6_2583_2585" class="">爱情</a>
+                <a href="../../tag/_25E7_2588_2586_25E7_25AC_2591" class="">爆笑</a>
+        </div>
+    </div>
+
+
+    <div id="dale_movie_review_right_guess_you_like"></div>
+    <div id="dale_movie_subject_inner_middle"></div>
+    <div id="dale_movie_subject_download_middle"></div>
+        
+
+
+
+
+
+
+
+
+<div id="subject-doulist">
+    
+    
+    <h2>
+        <i class="">以下豆列推荐</i>
+             ······
+            <span class="pl">
+            (
+                <a href="doulists">全部</a>
+            )
+            </span>
+    </h2>
+
+
+    
+    <ul>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/12747/default.htm" target="_blank">国片源流考</a>
+                <span>(满头)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/13712178/default.htm" target="_blank">评价人数超过十万的电影（按人数排序）</a>
+                <span>(依然饭特稀)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/1157526/default.htm" target="_blank">没有最低分，只有更低分</a>
+                <span>(阿心在哪里)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/1764238/default.htm" target="_blank">豆瓣上评价人数超100000的电影</a>
+                <span>(scofieldd)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/120163/default.htm" target="_blank">【影】咬牙切齿：纯垃圾影片躲避指南（持续通缉中！）</a>
+                <span>(小米=qdmimi)</span>
+            </li>
+    </ul>
+
+</div>
+
+            
+
+
+
+
+
+
+
+
+<div id="subject-others-interests">
+    
+    
+    <h2>
+        <i class="">谁在看这部电影</i>
+             ······
+    </h2>
+
+    
+    <ul class="">
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/199520400/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u199520400-1.jpg" class="pil" alt="氵">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/199520400/default.htm" class="">氵</a>
+                    <div class="">
+                        2分钟前
+                        看过
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/174586414/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u174586414-1.jpg" class="pil" alt="kickmyeyes">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/174586414/default.htm" class="">kickmyeyes</a>
+                    <div class="">
+                        3分钟前
+                        看过
+                        <span class="allstar10" title="很差"></span>
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/138705667/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u138705667-1.jpg" class="pil" alt="Handsome臭臭">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/138705667/default.htm" class="">Handsome臭臭</a>
+                    <div class="">
+                        3分钟前
+                        看过
+                        
+                    </div>
+                </div>
+            </li>
+    </ul>
+
+    
+    <div class="subject-others-interests-ft">
+        
+            <a href="collections">305218人看过</a>
+                &nbsp;/&nbsp;
+            <a href="wishes">111653人想看</a>
+    </div>
+
+</div>
+
+
+
+    
+    
+
+<!-- douban ad begin -->
+<div id="dale_movie_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+
+    <br/>
+
+    
+<p class="pl">订阅爱情公寓的评论: <br/><span class="feed">
+    <a href="../../feed/subject/24852545/reviews"> feed: rss 2.0</a></span></p>
+
+
+            </div>
+            <div class="extra">
+                
+    
+<!-- douban ad begin -->
+<div id="dale_movie_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2019 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="../../../https@www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="../../../https@www.douban.com/about">关于豆瓣</a>
+    · <a href="../../../https@www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="../../../https@www.douban.com/about@topic=contactus">联系我们</a>
+    · <a href="../../../https@www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="../../../https@help.douban.com/@app=movie" target="_blank">帮助中心</a>
+    · <a href="../../../https@www.douban.com/doubanapp/default.htm">移动应用</a>
+    · <a href="../../../https@www.douban.com/partner/default.htm">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/91ba4be514ae205.js"></script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/movie/4aca95d66d37ec0712b3d19973b5d8feb75f2f05/css/movie/mod/reg_login_pop.css" />
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB='../../../https@www.douban.com';
+var account_pop={open:function(o,e){e?referrer="@referrer="+encodeURIComponent(e):referrer="@referrer="+window.location.href;var n="",i="",t=448;n="用户登录",i="../../../https@accounts.douban.com/passport/login_popup@source=movie";var r=document.location.protocol+"//"+document.location.hostname,a=dui.Dialog({width:340,title:n,height:t,cls:"account_pop",isHideTitle:!0,modal:!0,content:"<iframe scrolling='no' frameborder='0' width='340' height='"+t+"' src='"+i+"' name='"+r+"'></iframe>"},!0),c=a.node;if(c.undelegate(),c.delegate(".dui-dialog-close","click",function(){var o=$("body");o.find("#login_msk").hide(),o.find(".account_pop").remove()}),$(window).width()<478){var d="";"reg"===o?d=HTTPS_DB+"/accounts/register"+referrer:"login"===o&&(d=HTTPS_DB+"/accounts/login"+referrer),window.location.href=d}else a.open();$(window).bind("message",function(o){"https://accounts.douban.com"===o.originalEvent.origin&&(c.find("iframe").css("height",o.originalEvent.data),c.height(o.originalEvent.data),a.update())})}};Douban&&Douban.init_show_login&&(Douban.init_show_login=function(o){var e=$(o);e.click(function(){var o=e.data("ref")||"";return account_pop.open("login",o),!1})}),Do(function(){$("body").delegate(".pop_register","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("reg",e),!1}),$("body").delegate(".pop_login","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("login",e),!1})});
+    </script>
+
+    
+    
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '../../../https@erebor.douban.com/default.htm',
+            userId = '',
+            browserId = 'Ez1QlPiK8rc',
+            criteria = '7:榕榕|7:情怀|7:许和琪|7:张双利|7:爆笑|7:刘天佐|7:搞笑|7:孙艺洲|7:张希雅|7:韦正|7:于立|7:经典|7:李金铭|7:朱桢|7:袁弘|7:2018|7:青春|7:邓家佳|7:南派三叔|7:娄艺潇|7:幽默|7:罗姝涵|7:陈赫|7:烂片|7:爱情|7:赵志伟|7:冒险|7:刘雨昕|7:汪远|7:喜剧|7:李佳航|3_3A/subject/24852545/@from=reviews',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_top_icon', 'dale_movie_subject_top_right', 'dale_movie_subject_top_middle', 'dale_movie_subject_inner_middle', 'dale_movie_subject_download_middle', 'dale_movie_review_right_guess_you_like'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '../../../https@img3.doubanio.com/f/adjs/5ec0e90cac83524d8c3e7f7bf95260c9c1875bca/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'_3A//img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? '../../../https@ssl' : '../../../www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+  <img src="../../../https@www.douban.com/pics/10k.jpg" style="display:none;" />
+  <img src="../../../https@img3.doubanio.com/pics/10k.jpg" style="display:none;" />
+  <img src="../../../https@img3.doubanio.com/pics/10k.jpg" style="display:none;" />
+  <img src="../../../https@img3.doubanio.com/pics/10k.jpg" style="display:none;" />
+
+<script type="text/javascript">
+$(window).load(function(){
+    if (get_cookie('ct')) return;
+    var submit_result = function(domain, key, cost) {
+        $.get("../../../https@www.douban.com/misc/ct", {domain:domain, key:key, cost:cost});
+    };
+    var test = function(domain, url, key, timeout) {
+        var img = $('<img src="http://'+domain+'.douban.com'+url+'" style="display:none;" />');
+        var begin = new Date();
+        var t;
+        img.load(function() {
+            var cost = new Date() - begin;
+            clearTimeout(t);
+            submit_result(domain, key, cost);
+            set_cookie({ct:'y'});
+        });
+        $().append(img);
+        t = setTimeout(function(){
+            submit_result(domain, key, "timedout");
+            }, timeout);
+    };
+    test('www', '../../pics/ct-1k.gif', 'ct-1k', 5000);
+    test('img1', '../../pics/ct-1k.gif', 'ct-1k', 5000);
+    test('img5', '../../pics/ct-1k.gif', 'ct-1k', 5000);
+    test('img3', '../../pics/ct-1k.gif', 'ct-1k', 5000);
+});
+</script>
+
+
+
+
+      
+    
+
+    <!-- brand25-docker-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+

@@ -1,0 +1,2794 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ie10">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+        命运之夜——天之杯II ：迷失之蝶 (豆瓣)
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+    <link rel="apple-touch-icon" href="../../../https@img3.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="../../../https@img3.doubanio.com/f/shire/52c9997d6d42db58eab418e976a14d5f3eff981e/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/shire/ae3f5a3e3085968370b1fc63afcecb22d3284848/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/movie/8864d3756094f5272d3c93e30ee2e324665855b0/css/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/0495cb173e298c28593766009c7b0a953246c5b5/js/movie/lib/jquery.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/1316664523258f7b8b536e4ce45afc9cb37b8963/js/douban.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/0efdc63b77f895eaf85281fb0e44d435c6239a3f/js/separation/_all.js"></script>
+    
+    <meta name="keywords" content="命运之夜——天之杯II ：迷失之蝶,劇場版Fate/stay night Heaven&#39;s Feel II.lost butterfly,命运之夜——天之杯II ：迷失之蝶影评,剧情介绍,电影图片,预告片,影讯,在线购票,论坛">
+    <meta name="description" content="命运之夜——天之杯II ：迷失之蝶电影简介和剧情介绍,命运之夜——天之杯II ：迷失之蝶影评、图片、预告片、影讯、论坛、在线购票">
+    <meta name="mobile-agent" content="format=html5; url=../../../m.douban.com/movie/subject/26759819/default.htm"/>
+    <link rel="alternate" href="android-app_3A//com.douban.movie/doubanmovie/subject/26759819/default.htm" />
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/dae/cdnlib/libs/LikeButton/1.0.5/style.min.css">
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript">
+      Do.add('dialog', {path: '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js', type: 'js'});
+      Do.add('dialog-css', {path: '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css', type: 'css'});
+      Do.add('handlebarsjs', {path: '../../../https@img3.doubanio.com/f/movie/3d4f8e4a8918718256450eb6e57ec8e1f7a2e14b/js/movie/lib/handlebars.current.js', type: 'js'});
+    </script>
+    
+  <script type='text/javascript'>
+  var _vwo_code = (function() {
+    var account_id = 249272,
+      settings_tolerance = 0,
+      library_tolerance = 2500,
+      use_existing_jquery = false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('../../../https@dev.visualwebsiteoptimizer.com/j.php@a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());
+
+  +function () {
+    var bindEvent = function (el, type, handler) {
+        var $ = window.jQuery || window.Zepto || window.$
+       if ($ && $.fn && $.fn.on) {
+           $(el).on(type, handler)
+       } else if($ && $.fn && $.fn.bind) {
+           $(el).bind(type, handler)
+       } else if (el.addEventListener){
+         el.addEventListener(type, handler, false);
+       } else if (el.attachEvent){
+         el.attachEvent("on" + type, handler);
+       } else {
+         el["on" + type] = handler;
+       }
+     }
+
+    var _origin_load = _vwo_code.load
+    _vwo_code.load = function () {
+      var args = [].slice.call(arguments)
+      bindEvent(window, 'load', function () {
+        _origin_load.apply(_vwo_code, args)
+      })
+    }
+  }()
+
+  _vwo_settings_timer = _vwo_code.init();
+  </script>
+
+
+    
+
+
+<script type="application/ld+json">
+{
+  "@context": "../../../schema.org",
+  "name": "命运之夜——天之杯II ：迷失之蝶 劇場版Fate/stay night Heaven&#39;s Feel II.lost butterfly",
+  "url": "default.htm",
+  "image": "../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2561910374.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1392464/default.htm",
+      "name": "须藤友德 Tomonori Sudô"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1312878/default.htm",
+      "name": "奈须蘑菇 Kinoko Nasu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1385015/default.htm",
+      "name": "桧山彬 Akira Hiyama     "
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1035537/default.htm",
+      "name": "杉山纪彰 Noriaki Sugiyama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1046546/default.htm",
+      "name": "下屋则子 Noriko Shitaya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1274377/default.htm",
+      "name": "神谷浩史 Hiroshi Kamiya"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1003583/default.htm",
+      "name": "川澄绫子 Ayako Kawasumi"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1019859/default.htm",
+      "name": "植田佳奈 Kana Ueda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1053693/default.htm",
+      "name": "门胁舞以 Maii Kadowaki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1029407/default.htm",
+      "name": "伊藤美纪 Miki Itô"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1048500/default.htm",
+      "name": "中田让治 Jôji Nakata"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1156488/default.htm",
+      "name": "津嘉山正种 Masane Tsukayama"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1050981/default.htm",
+      "name": "关智一 Tomokazu Seki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1056891/default.htm",
+      "name": "浅川悠 Yu Asakawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1003577/default.htm",
+      "name": "诹访部顺一 Junichi Suwabe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1206855/default.htm",
+      "name": "稻田彻 Tetsu Inada"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1019948/default.htm",
+      "name": "神奈延年 Nobutoshi Canna"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1024329/default.htm",
+      "name": "真殿光昭 Mitsuaki Madono"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1384361/default.htm",
+      "name": "水泽史绘 Fumie Mizusawa"
+    }
+  ]
+,
+  "datePublished": "2019-01-12",
+  "genre": ["\u5267\u60c5", "\u52a8\u753b", "\u5947\u5e7b"],
+  "duration": "PT1H57M",
+  "description": "本片改编自TYPE-MOON出品的文字冒险类游戏《Fate/stay night》，是该游戏最终路线“HF线”动画剧场版全三部作品中的第二章。通过女主角间桐樱的视角，讲述了御主和英灵为了得到可以实现一...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3058",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "8.2"
+  }
+}
+</script>
+
+
+    <style type="text/css">
+  
+</style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/4fcdc48d56f21ca7.css">
+
+    <link rel="shortcut icon" href="../../../https@img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="../../../https@accounts.douban.com/passport/login@source=movie" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="../../../https@www.douban.com/doubanapp/app@channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="../../../https@www.douban.com/doubanapp/app@channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="../../../https@www.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="../../../https@book.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="../../default.htm"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="../../../https@music.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="../../../https@read.douban.com/@dcs=top-nav&dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="../../../https@douban.fm/@from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="../../../https@time.douban.com/@dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="../../../https@market.douban.com/@utm_campaign=douban_top_nav&utm_source=douban&utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="../../../https@ypy.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "../../../https@www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https_3A//movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;movie.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="../../cinema/nowplaying/default.htm"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="../../explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="../../tv/default.htm"
+     >电视剧</a>
+    </li>
+    <li    ><a href="../../chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="../../tag/default.htm"
+     >分类</a>
+    </li>
+    <li    ><a href="../../review/best/default.htm"
+     >影评</a>
+    </li>
+    <li    ><a href="../../annual/2018@source=navigation"
+     >2018年度榜单</a>
+    </li>
+    <li    ><a href="../../../https@www.douban.com/standbyme/2018@source=navigation"
+     >2018书影音报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="../../annual/2018@source=movie_navigation" class="movieannual2018"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+
+    <div id="dale_movie_subject_top_icon"></div>
+    <h1>
+        <span property="v:itemreviewed">命运之夜——天之杯II ：迷失之蝶 劇場版Fate/stay night Heaven&#39;s Feel II.lost butterfly</span>
+            <span class="year">(2019)</span>
+    </h1>
+
+        <div class="grid-16-8 clearfix">
+            
+
+            
+            <div class="article">
+                
+    
+
+    
+
+
+
+
+
+        <div class="indent clearfix">
+            <div class="subjectwrap clearfix">
+                <div class="subject clearfix">
+                    
+
+
+
+<div id="mainpic" class="">
+    <a class="nbgnbg" href="photos@type=R" title="点击看更多海报">
+        <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2561910374.jpg" title="点击看更多海报" alt="劇場版Fate/stay night Heaven&#39;s Feel II.lost butterfly" rel="v:image" />
+   </a>
+</div>
+
+                    
+
+
+<div id="info">
+        <span ><span class='pl'>导演</span>: <span class='attrs'><a href="../../celebrity/1392464/default.htm" rel="v:directedBy">须藤友德</a></span></span><br/>
+        <span ><span class='pl'>编剧</span>: <span class='attrs'><a href="../../celebrity/1312878/default.htm">奈须蘑菇</a> / <a href="../../celebrity/1385015/default.htm">桧山彬</a></span></span><br/>
+        <span class="actor"><span class='pl'>主演</span>: <span class='attrs'><a href="../../celebrity/1035537/default.htm" rel="v:starring">杉山纪彰</a> / <a href="../../celebrity/1046546/default.htm" rel="v:starring">下屋则子</a> / <a href="../../celebrity/1274377/default.htm" rel="v:starring">神谷浩史</a> / <a href="../../celebrity/1003583/default.htm" rel="v:starring">川澄绫子</a> / <a href="../../celebrity/1019859/default.htm" rel="v:starring">植田佳奈</a> / <a href="../../celebrity/1053693/default.htm" rel="v:starring">门胁舞以</a> / <a href="../../celebrity/1029407/default.htm" rel="v:starring">伊藤美纪</a> / <a href="../../celebrity/1048500/default.htm" rel="v:starring">中田让治</a> / <a href="../../celebrity/1156488/default.htm" rel="v:starring">津嘉山正种</a> / <a href="../../celebrity/1050981/default.htm" rel="v:starring">关智一</a> / <a href="../../celebrity/1056891/default.htm" rel="v:starring">浅川悠</a> / <a href="../../celebrity/1003577/default.htm" rel="v:starring">诹访部顺一</a> / <a href="../../celebrity/1206855/default.htm" rel="v:starring">稻田彻</a></span></span><br/>
+        <span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">动画</span> / <span property="v:genre">奇幻</span><br/>
+        <span class="pl">官方网站:</span> <a href="../../../www.fate-sn.com/default.htm" rel="nofollow" target="_blank">www.fate-sn.com</a><br/>
+        <span class="pl">制片国家/地区:</span> 日本<br/>
+        <span class="pl">语言:</span> 日语<br/>
+        <span class="pl">上映日期:</span> <span property="v:initialReleaseDate" content="2019-07-12(中国大陆)">2019-07-12(中国大陆)</span> / <span property="v:initialReleaseDate" content="2019-01-12(日本)">2019-01-12(日本)</span><br/>
+        <span class="pl">片长:</span> <span property="v:runtime" content="117">117分钟</span> / 113分钟(中国大陆)<br/>
+        <span class="pl">又名:</span> 命运之夜——天之杯：迷失之蝶 / 命运之夜——天之杯2：迷途之蝶 / 命运之夜——天之杯2：失去之蝶 / 命运之夜——天之杯2：迷失之蝶 / 命运之夜 剧场版 天之杯2<br/>
+        <span class="pl">IMDb链接:</span> <a href="../../../www.imdb.com/title/tt8091892" target="_blank" rel="nofollow">tt8091892</a><br>
+
+</div>
+
+
+
+
+                </div>
+                    
+
+
+<div id="interest_sectl">
+    <div class="rating_wrap clearbox" rel="v_3Arating">
+        <div class="clearfix">
+          <div class="rating_logo ll">豆瓣评分</div>
+          <div class="output-btn-wrap rr" style="display:none">
+            <img src="../../../https@img3.doubanio.com/f/movie/692e86756648f29457847c5cc5e161d6f6b8aaac/pics/movie/reference.png" />
+            <a class="download-output-image" href="#">引用</a>
+          </div>
+          
+          
+        </div>
+        
+
+
+
+<div class="rating_self clearfix" typeof="v:Rating">
+    <strong class="ll rating_num" property="v:average">8.2</strong>
+    <span property="v:best" content="10.0"></span>
+    <div class="rating_right ">
+        <div class="ll bigstar bigstar40"></div>
+        <div class="rating_sum">
+                <a href="collections" class="rating_people">
+                    <span property="v:votes">3060</span>人评价
+                </a>
+        </div>
+    </div>
+</div>
+<div class="ratings-on-weight">
+    
+        <div class="item">
+        
+        <span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+        <div class="power" style="width:64px"></div>
+        <span class="rating_per">40.4%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+        <div class="power" style="width:55px"></div>
+        <span class="rating_per">34.8%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars3 starstop" title="还行">
+            3星
+        </span>
+        <div class="power" style="width:32px"></div>
+        <span class="rating_per">20.5%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars2 starstop" title="较差">
+            2星
+        </span>
+        <div class="power" style="width:4px"></div>
+        <span class="rating_per">2.8%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars1 starstop" title="很差">
+            1星
+        </span>
+        <div class="power" style="width:2px"></div>
+        <span class="rating_per">1.4%</span>
+        <br />
+        </div>
+</div>
+
+    </div>
+        <div class="rating_betterthan">
+            好于 <a href="../../typerank@type_name=_25E5_258A_25A8_25E7_2594_25BB&type=25&interval_id=75_3A65&action=">74% 动画片</a><br/>
+            好于 <a href="../../typerank@type_name=_25E5_25A5_2587_25E5_25B9_25BB&type=16&interval_id=90_3A80&action=">86% 奇幻片</a><br/>
+        </div>
+</div>
+
+
+                
+            </div>
+                
+
+
+
+
+<div id="interest_sect_level" class="clearfix">
+        
+            <a href="../../../https@www.douban.com/reason=collectwish&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-26759819-wish">
+                <span>想看</span>
+            </a>
+            <a href="../../../https@www.douban.com/reason=collectcollect&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-26759819-collect">
+                <span>看过</span>
+            </a>
+        <div class="ll j a_stars">
+            
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="../../../https@img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="../../../https@img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover_402x.png" data-hollow-2x="../../../https@img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover_402x.png">
+
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-26759819-1">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-26759819-2">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-26759819-3">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-26759819-4">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-26759819-5">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+        </div>
+    
+
+</div>
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        
+    
+        
+                <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/cc03d0fcf32b7ce3af7b160a0b85e5e66b47cc42/pics/short-comment.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_cmnt_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写短评</a>
+ </li>
+                    <li> 
+    
+    <img src="../../../https@img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_rv_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写影评</a>
+ </li>
+                    <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/61cc48ba7c40e0272d46bb93fe0dc514f3b71ec5/pics/add-doulist.gif" />&nbsp;
+    <a class="" href="questions/ask@from=subject_top">提问题</a>
+ </li>
+                <li> 
+    
+
+
+
+ </li>
+                <li> 
+   
+
+   
+    
+    <span class="rec" id="电影-26759819">
+    <a href= "#"
+        data-type="电影"
+        data-url="default.htm"
+        data-desc="电影《命运之夜——天之杯II ：迷失之蝶 劇場版Fate/stay night Heaven&#39;s Feel II.lost butterfly》 (来自豆瓣) "
+        data-title="电影《命运之夜——天之杯II ：迷失之蝶 劇場版Fate/stay night Heaven&#39;s Feel II.lost butterfly》 (来自豆瓣) "
+        data-pic="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561910374.jpeg"
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </span>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = '../../../https@img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('../../../https@img3.doubanio.com/f/movie/32be6727ed3ad8f6c4a417d8a086355c3e7d1d27/js/movie/lib/sharebutton.js');
+    </script>
+
+
+  </li>
+            
+
+    </ul>
+
+    <script type="text/javascript">
+        $(function(){
+            $(".ul_subject_menu li.rec .bn-sharing").bind("click", function(){
+                $.get("../../blank@sbj_page_click=bn_sharing");
+            });
+            $(".ul_subject_menu .create_from_menu").bind("click", function(e){
+                e.preventDefault();
+                var $el = $(this);
+                var glRoot = document.getElementById('gallery-topics-selection');
+                if (window.has_gallery_topics && glRoot) {
+                    // 判断是否有话题
+                    glRoot.style.display = 'block';
+                } else {
+                    location.href = $el.attr('href');
+                }
+            });
+        });
+    </script>
+</div>
+
+
+
+
+                
+
+
+
+
+
+<div class="rec-sec">
+<span class="rec">
+    <script id="movie-share" type="text/x-html-snippet">
+        
+    <form class="movie-share" action="../../j/share" method="POST">
+        <div class="clearfix form-bd">
+            <div class="input-area">
+                <textarea name="text" class="share-text" cols="72" data-mention-api="https://api.douban.com/shuo/in/complete?alt=xd&amp;callback=?"></textarea>
+                <input type="hidden" name="target-id" value="26759819">
+                <input type="hidden" name="target-type" value="0">
+                <input type="hidden" name="title" value="命运之夜——天之杯II ：迷失之蝶 劇場版Fate/stay night Heaven&#39;s Feel II.lost butterfly‎ (2019)">
+                <input type="hidden" name="desc" value="导演 须藤友德 主演 杉山纪彰 / 下屋则子 / 日本 / 8.2分(3060评价)">
+                <input type="hidden" name="redir" value=""/>
+                <div class="mentioned-highlighter"></div>
+            </div>
+
+            <div class="info-area">
+                    <img class="media" src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2561910374.jpg" />
+                <strong>命运之夜——天之杯II ：迷失之蝶 劇場版Fate/stay night Heaven&#39;s Feel II.lost butterfly‎ (2019)</strong>
+                <p>导演 须藤友德 主演 杉山纪彰 / 下屋则子 / 日本 / 8.2分(3060评价)</p>
+                <p class="error server-error">&nbsp;</p>
+            </div>
+        </div>
+        <div class="form-ft">
+            <div class="form-ft-inner">
+                
+
+
+
+                <span class="avail-num-indicator">140</span>
+                <span class="bn-flat">
+                    <input type="submit" value="推荐" />
+                </span>
+            </div>
+        </div>
+    </form>
+    
+    <div id="suggest-mention-tmpl" style="display:none;">
+        <ul>
+            {{#users}}
+            <li id="{{uid}}">
+              <img src="{{avatar}}">{{{username}}}&nbsp;<span>({{{uid}}})</span>
+            </li>
+            {{/users}}
+        </ul>
+    </div>
+
+
+    </script>
+
+        
+        <a href="../../accounts/register@reason=recommend"  class="j a_show_login lnk-sharing" share-id="26759819" data-mode="plain" data-name="命运之夜——天之杯II ：迷失之蝶 劇場版Fate/stay night Heaven&#39;s Feel II.lost butterfly‎ (2019)" data-type="movie" data-desc="导演 须藤友德 主演 杉山纪彰 / 下屋则子 / 日本 / 8.2分(3060评价)" data-href="https://movie.douban.com/subject/26759819/" data-image="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561910374.jpg" data-properties="{}" data-redir="" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1002" data-object_id="26759819" data-target_type="rec" data-target_action="0" data-action_props="{&#34;subject_url&#34;:&#34;https:\/\/movie.douban.com\/subject\/26759819\/&#34;,&#34;subject_title&#34;:&#34;命运之夜——天之杯II ：迷失之蝶 劇場版Fate\/stay night Heaven&#39;s Feel II.lost butterfly‎ (2019)&#34;}">推荐</a>
+</span>
+
+
+</div>
+
+
+
+
+
+
+            <script type="text/javascript">
+                $(function() {
+                    $('.collect_btn', '#interest_sect_level').each(function() {
+                        Douban.init_collect_btn(this);
+                    });
+                    $('html').delegate(".indent .rec-sec .lnk-sharing", "click", function() {
+                        moreurl(this, {
+                            from : 'mv_sbj_db_share'
+                        });
+                    });
+                });
+            </script>
+        </div>
+            
+
+
+    <div id="collect_form_26759819"></div>
+
+
+        
+
+
+
+<div class="related-info" style="margin-bottom:-10px;">
+    <a name="intro"></a>
+    
+        
+            
+            
+    <h2>
+        <i class="">命运之夜——天之杯II ：迷失之蝶的剧情简介</i>
+             ······
+    </h2>
+
+            <div class="indent" id="link-report">
+                    
+                        <span property="v:summary" class="">
+                                　　本片改编自TYPE-MOON出品的文字冒险类游戏《Fate/stay night》，是该游戏最终路线“HF线”动画剧场版全三部作品中的第二章。通过女主角间桐樱的视角，讲述了御主和英灵为了得到可以实现一切愿望的圣杯而相互厮杀的一场战争。
+                                    <br />
+                                　　时隔10年在冬木市爆发的这场“圣杯战争”中，因被称为“圣杯战争”御三家之一的间桐家的当家·间桐脏砚的参战而变得更畸形、扭曲和恶化。作为御主参战的卫宫士郎也在战斗中负伤还失去了英灵Saber，尽管如此士郎为了守护间桐樱，并没有从战斗中引身退出。而担心士郎身体的樱，自己也无法逃离魔法师的宿命……
+                        </span>
+                        
+
+            </div>
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+<div id="celebrities" class="celebrities related-celebrities">
+
+  
+    <h2>
+        <i class="">命运之夜——天之杯II ：迷失之蝶的演职员</i>
+             ······
+            <span class="pl">
+            (
+                <a href="celebrities">全部 20</a>
+            )
+            </span>
+    </h2>
+
+
+  <ul class="celebrities-list from-subject __oneline">
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1392464/default.htm" title="须藤友德 Tomonori Sudô" class="">
+      <div class="avatar" style="background-image: url(../../../https@img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p-X6KppmI0EIcel_avatar_uploaded1525790121.19.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1392464/default.htm" title="须藤友德 Tomonori Sudô" class="name">须藤友德</a></span>
+
+      <span class="role" title="导演">导演</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1035537/default.htm" title="杉山纪彰 Noriaki Sugiyama" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1360495608.41.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1035537/default.htm" title="杉山纪彰 Noriaki Sugiyama" class="name">杉山纪彰</a></span>
+
+      <span class="role" title="配 卫宫士郎 Shirou Emiya">配 卫宫士郎 Shirou Emiya</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1046546/default.htm" title="下屋则子 Noriko Shitaya" class="">
+      <div class="avatar" style="background-image: url(../../../https@img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1401447458.69.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1046546/default.htm" title="下屋则子 Noriko Shitaya" class="name">下屋则子</a></span>
+
+      <span class="role" title="配 间桐樱 Sakura Mato">配 间桐樱 Sakura Mato</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1274377/default.htm" title="神谷浩史 Hiroshi Kamiya" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p23870.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1274377/default.htm" title="神谷浩史 Hiroshi Kamiya" class="name">神谷浩史</a></span>
+
+      <span class="role" title="配 间桐慎二 Shinji Matou">配 间桐慎二 Shinji Matou</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1003583/default.htm" title="川澄绫子 Ayako Kawasumi" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1076.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1003583/default.htm" title="川澄绫子 Ayako Kawasumi" class="name">川澄绫子</a></span>
+
+      <span class="role" title="配 Saber">配 Saber</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1019859/default.htm" title="植田佳奈 Kana Ueda" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p22810.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1019859/default.htm" title="植田佳奈 Kana Ueda" class="name">植田佳奈</a></span>
+
+      <span class="role" title="配 远坂凛 Rin Tohsaka">配 远坂凛 Rin Tohsaka</span>
+
+    </div>
+  </li>
+
+
+  </ul>
+</div>
+
+
+    
+
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/f/verify/16c7e943aee3b1dc6d65f600fcc0f6d62db7dfb4/entry_creator/dist/author_subject/style.css">
+<div id="author_subject" class="author-wrapper">
+    <div class="loading"></div>
+</div>
+<script type="text/javascript">
+    var answerObj = {
+      ISALL: 'False',
+      TYPE: 'movie',
+      SUBJECT_ID: '26759819',
+      USER_ID: 'None'
+    }
+</script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/61252f2f9b35f08b37f69d17dfe48310dd295347/js/movie/lib/react/15.4/bundle.js"></script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/verify/ac140ef86262b845d2be7b859e352d8196f3f6d4/entry_creator/dist/author_subject/index.js"></script>
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    <div id="related-pic" class="related-pic">
+        
+    
+    
+    <h2>
+        <i class="">命运之夜——天之杯II ：迷失之蝶的视频和图片</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="trailer#trailer">预告片6</a>&nbsp;|&nbsp;<a href="../../video/create@subject_id=26759819">添加视频评论</a>&nbsp;|&nbsp;<a href="all_photos">图片122</a>&nbsp;·&nbsp;<a href="mupload">添加</a>
+            )
+            </span>
+    </h2>
+
+
+        <ul class="related-pic-bd  ">
+                <li class="label-trailer">
+                    <a class="related-pic-video" href="../../trailer/249840/#content" title="预告片" style="background-image:url(../../../https@img3.doubanio.com/img/trailer/medium/2562022240.jpg@1562749890)">
+                    </a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2545147232/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2545147232.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2546007212/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2546007212.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2547591999/default.htm"><img src="../../../https@img1.doubanio.com/view/photo/sqxs/public/p2547591999.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2548851564/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2548851564.jpg" alt="图片" /></a>
+                </li>
+        </ul>
+    </div>
+
+
+
+
+    
+    
+
+
+
+<style type="text/css">
+.award li { display: inline; margin-right: 5px }
+.awards { margin-bottom: 20px }
+.awards h2 { background: none; color: #000; font-size: 14px; padding-bottom: 5px; margin-bottom: 8px; border-bottom: 1px dashed #dddddd }
+.awards .year { color: #666666; margin-left: -5px }
+.mod { margin-bottom: 25px }
+.mod .hd { margin-bottom: 10px }
+.mod .hd h2 {margin:24px 0 3px 0}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+
+    <div id="recommendations" class="">
+        
+        
+    <h2>
+        <i class="">喜欢这部电影的人也喜欢</i>
+             ······
+    </h2>
+
+        
+    
+    <div class="recommendations-bd">
+        <dl class="">
+            <dt>
+                <a href="../26759820/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2521649777.jpg" alt="命运之夜——天之杯3：春之歌" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26759820/@from=subject-page" class="" >命运之夜——天之杯3：春之歌</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../11499092/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2037135869.jpg" alt="空之境界 未来福音" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../11499092/@from=subject-page" class="" >空之境界 未来福音</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../10569151/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2151582333.jpg" alt="剧场版魔法少女小圆 新篇 叛逆的故事" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../10569151/@from=subject-page" class="" >剧场版魔法少女小圆 新篇 叛...</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../30291500/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2548230523.jpg" alt="代号基亚斯：复活的鲁路修" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../30291500/@from=subject-page" class="" >代号基亚斯：复活的鲁路修</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../30221777/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2527061120.jpg" alt="紫罗兰永恒花园 Extra Episode" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../30221777/@from=subject-page" class="" >紫罗兰永恒花园 Extra Episode</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26837952/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2561782374.jpg" alt="游戏人生 零" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26837952/@from=subject-page" class="" >游戏人生 零</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27615868/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2527221882.jpg" alt="续·终物语" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27615868/@from=subject-page" class="" >续·终物语</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26878881/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2458131901.jpg" alt="魔法少女伊莉雅：雪下的誓言" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26878881/@from=subject-page" class="" >魔法少女伊莉雅：雪下的誓言</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27596682/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2543633829.jpg" alt="路人女主的养成方法 Fine" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27596682/@from=subject-page" class="" >路人女主的养成方法 Fine</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27607434/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2551552016.jpg" alt="Re：从零开始的异世界生活 冰结之绊" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27607434/@from=subject-page" class="" >Re：从零开始的异世界生活 冰...</a>
+            </dd>
+        </dl>
+    </div>
+
+    </div>
+
+
+
+        
+
+
+<script type="text/x-handlebar-tmpl" id="comment-tmpl">
+    <div class="dummy-fold">
+        {{#each comments}}
+        <div class="comment-item" data-cid="id">
+            <div class="comment">
+                <h3>
+                    <span class="comment-vote">
+                            <span class="votes">{{votes}}</span>
+                        <input value="{{id}}" type="hidden"/>
+                        <a href="javascript:;" class="j {{#if ../if_logined}}a_vote_comment{{else}}a_show_login{{/if}}">有用</a>
+                    </span>
+                    <span class="comment-info">
+                        <a href="{{user.path}}" class="">{{user.name}}</a>
+                        {{#if rating}}
+                        <span class="allstar{{rating}}0 rating" title="{{rating_word}}"></span>
+                        {{/if}}
+                        <span>
+                            {{time}}
+                        </span>
+                        <p> {{content_tmpl content}} </p>
+                    </span>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <div id="comments-section">
+        <div class="mod-hd">
+            
+        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">
+            <span>我要写短评</span>
+        </a>
+
+            
+            
+    <h2>
+        <i class="">命运之夜——天之杯II ：迷失之蝶的短评</i>
+             ······
+            <span class="pl">
+            (
+                <a href="comments@status=P">全部 993 条</a>
+            )
+            </span>
+    </h2>
+
+        </div>
+        <div class="mod-bd">
+                
+    <div class="tab-hd">
+        <a id="hot-comments-tab" href="comments" data-id="hot" class="on">热门</a>&nbsp;/&nbsp;
+            <a id="new-comments-tab" href="comments@sort=time" data-id="new">最新</a>&nbsp;/&nbsp;
+        <a id="following-comments-tab" href="follows_comments" data-id="following"  class="j a_show_login">好友</a>
+    </div>
+
+    <div class="tab-bd">
+        <div id="hot-comments" class="tab">
+            
+    
+        
+        <div class="comment-item" data-cid="1631370224">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">142</span>
+                <input value="1631370224" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/summermonica/default.htm" class="">井颯</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2019-01-17 14:04:52">
+                    2019-01-17
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">带地球人朋友陪我一起看的。士郎把手指从樱嘴里拿出来的时候，我感到了一种难以言喻的尴尬：我忘记跟他说这个原作是个工口游戏了。。。</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1686874341">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">74</span>
+                <input value="1686874341" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/1237270/default.htm" class="">私~川流[注销]</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-02-21 17:26:43">
+                    2019-02-21
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">骂人了啊，除了海叔和黑呆互殴能看（黑呆宝具特效是真NB），其余都在托时间。十多年前就巨烦樱，这一部还没完没了地卖色相，我替远坂给土狼和樱两巴掌。</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1623695724">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">57</span>
+                <input value="1623695724" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/147450234/default.htm" class="">工藤绵</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2019-01-12 01:20:53">
+                    2019-01-12
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">五星奉上</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1624868003">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">45</span>
+                <input value="1624868003" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/kliance/default.htm" class="">衫衫衫今☆彡</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2019-01-12 21:35:48">
+                    2019-01-12
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">有剧透，给四星，不吹不黑。刚刚看完，电影院😂几乎满场，人气还是很高的，剧情相比较上一部进展了很多，黑saber真帅！红A真帅！闪闪打了个酱油，第一次看到美杜莎完整的脸。樱真的是可怜够了，可是卫宫怀中抱妹的时候我还是感动了一下，真的看到了补魔，还有断头，难怪是PG12的作品了。总的来说经费在燃烧，有小福利，卫宫也不再是那个只会满口正义伙伴的中二少年，而是决定成为只守护樱的人。红A颂诗断臂那一段我也很...</span>
+                <span class="hide-item full">有剧透，给四星，不吹不黑。刚刚看完，电影院😂几乎满场，人气还是很高的，剧情相比较上一部进展了很多，黑saber真帅！红A真帅！闪闪打了个酱油，第一次看到美杜莎完整的脸。樱真的是可怜够了，可是卫宫怀中抱妹的时候我还是感动了一下，真的看到了补魔，还有断头，难怪是PG12的作品了。总的来说经费在燃烧，有小福利，卫宫也不再是那个只会满口正义伙伴的中二少年，而是决定成为只守护樱的人。红A颂诗断臂那一段我也很感动。结尾应该算是进入故事高潮了吧。期待最终章。</span>
+                <span class="expand">(<a href="javascript:;">展开</a>)</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1554401134">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">6</span>
+                <input value="1554401134" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/Ricky925/default.htm" class="">Ricky925</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-02-21 11:29:13">
+                    2019-02-21
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">打斗戏敷衍到只靠特效了，感情戏尬到我想犯困，人物老是一副一听到啥事就瞪大双眼不知所措，每个人物都想要心理表达结果又臭又长。当然小樱那段吃人幻象是还不错的，红A真的帅爆，而且绅士福利镜头很多。但这种叙事真的还不如做成tv动画@朗豪坊cinemacity</span>
+        </p>
+    </div>
+
+        </div>
+
+
+
+                
+                &gt; <a href="comments@sort=new_score&status=P" >更多短评993条</a>
+        </div>
+        <div id="new-comments" class="tab">
+            <div id="normal">
+            </div>
+            <div class="fold-hd hide">
+                <a class="qa" href="../../help/opinion#t2-q0" target="_blank">为什么被折叠？</a>
+                <a class="btn-unfold" href="#">有一些短评被折叠了</a>
+                <div class="qa-tip">
+                    评论被折叠，是因为发布这条评论的帐号行为异常。评论仍可以被展开阅读，对发布人的账号不造成其他影响。如果认为有问题，可以<a href="../../../https@help.douban.com/help/ask@category=movie">联系</a>豆瓣电影。
+                </div>
+            </div>
+            <div class="fold-bd">
+            </div>
+            <span id="total-num"></span>
+        </div>
+        <div id="following-comments" class="tab">
+            
+    
+
+
+        <div class="comment-item">
+            你关注的人还没写过短评
+        </div>
+
+        </div>
+    </div>
+
+
+            
+            
+        </div>
+    </div>
+
+
+
+        
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/5b893040c800d5cd.css">
+
+<section class="topics mod">
+    <header>
+        <h2>
+            命运之夜——天之杯II ：迷失之蝶的话题 · · · · · ·
+            <span class="pl">( <span class="gallery_topics">全部 <span id="topic-count"></span> 条</span> )</span>
+        </h2>
+    </header>
+
+    
+
+
+
+
+<section class="subject-topics">
+    <div class="topic-guide" id="topic-guide">
+        <img class="ic_question" src="../../../https@img3.doubanio.com/f/ithildin/b1a3edea3d04805f899e9d77c0bfc0d158df10d5/pics/export/icon_question.png">
+        <div class="tip_content">
+            <div class="tip_title">什么是话题</div>
+            <div class="tip_desc">
+                <div>无论是一部作品、一个人，还是一件事，都往往可以衍生出许多不同的话题。将这些话题细分出来，分别进行讨论，会有更多收获。</div>
+            </div>
+        </div>
+        <img class="ic_guide" src="../../../https@img3.doubanio.com/f/ithildin/529f46d86bc08f55cd0b1843d0492242ebbd22de/pics/export/icon_guide_arrow.png">
+        <img class="ic_close" id="topic-guide-close" src="../../../https@img3.doubanio.com/f/ithildin/2eb4ad488cb0854644b23f20b6fa312404429589/pics/export/close_403x.png">
+    </div>
+
+    <div id="topic-items"></div>
+
+    <script>
+        window.subject_id = 26759819;
+        window.join_label_text = '写影评参与';
+
+        window.topic_display_count = 4;
+        window.topic_item_display_count = 1;
+        window.no_content_fun_call_name = "no_topic";
+
+        window.guideNode = document.getElementById('topic-guide');
+        window.guideNodeClose = document.getElementById('topic-guide-close');
+    </script>
+    
+        <link rel="stylesheet" href="../../../https@img3.doubanio.com/f/ithildin/f731c9ea474da58c516290b3a6b1dd1237c07c5e/css/export/subject_topics.css">
+        <script src="../../../https@img3.doubanio.com/f/ithildin/d3590fc6ac47b33c804037a1aa7eec49075428c8/js/export/moment-with-locales-only-zh.js"></script>
+        <script src="../../../https@img3.doubanio.com/f/ithildin/c600fdbe69e3ffa5a3919c81ae8c8b4140e99a3e/js/export/subject_topics.js"></script>
+
+</section>
+
+    <script>
+        function no_topic(){
+            $('#content .topics').remove();
+        }
+    </script>
+</section>
+
+<section class="reviews mod movie-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review comment_btn "
+            data-isverify="False"
+            data-verify-url="../../../https@www.douban.com/accounts/phone/verify@redir=http_3A_2F_2Fmovie.douban.com_2Fsubject_2F26759819_2Fnew_review">
+            <span>我要写影评</span>
+        </a>
+        <h2>
+            命运之夜——天之杯II ：迷失之蝶的影评 · · · · · ·
+            <span class="pl">( <a href="reviews">全部 54 条</a> )</span>
+        </h2>
+    </header>
+
+    
+
+<style>
+#gallery-topics-selection {
+  position: fixed;
+  width: 595px;
+  padding: 40px 40px 33px 40px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.2);
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+#gallery-topics-selection h1 {
+  font-size: 18px;
+  color: #007722;
+  margin-bottom: 36px;
+  padding: 0;
+  line-height: 28px;
+  font-weight: normal;
+}
+#gallery-topics-selection .gl_topics {
+  border-bottom: 1px solid #dfdfdf;
+  max-height: 298px;
+  overflow-y: scroll;
+}
+#gallery-topics-selection .topic {
+  margin-bottom: 24px;
+}
+#gallery-topics-selection .topic_name {
+  font-size: 15px;
+  color: #333;
+  margin: 0;
+  line-height: inherit;
+}
+#gallery-topics-selection .topic_meta {
+  font-size: 13px;
+  color: #999;
+}
+#gallery-topics-selection .topics_skip {
+  display: block;
+  cursor: pointer;
+  font-size: 16px;
+  color: #3377AA;
+  text-align: center;
+  margin-top: 33px;
+}
+#gallery-topics-selection .topics_skip:hover {
+  background: transparent;
+}
+#gallery-topics-selection .close_selection {
+  position: absolute;
+  width: 30px;
+  height: 20px;
+  top: 46px;
+  right: 40px;
+  background: #fff;
+  color: #999;
+  text-align: right;
+}
+#gallery-topics-selection .close_selection:hover{
+  background: #fff;
+  color: #999;
+}
+</style>
+
+
+
+
+        <div class="review_filter">
+            <a href="javascript:;;" class="cur" data-sort="">热门</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="time">最新</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="follow">好友</a href="javascript:;;">
+            
+        </div>
+
+
+        
+
+
+
+<div class="review-list  ">
+        
+    
+
+        
+    
+    <div data-cid="10045984">
+        <div class="main review-item" id="10045984">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/59828774/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u59828774-2.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/59828774/default.htm" class="name">OkabeKurisu</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-03-16" class="main-meta">2019-03-16 09:36:58</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10045984/default.htm">I&#39;m always on your side.</a></h2>
+
+                <div id="review_10045984_short" class="review-short" data-rid="10045984">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        晚上刚刚看完，说实话我觉得比第一部要差。 剧情就不赘述了，整体节奏和某些关键情节的演绎都有一些问题，不过ufotable嘛，大家心里有数。 既然是粉丝向的片子，就随便说一些想法。 1，关于巨俠到底是从哪个世界线来的，这部剧场版给出了明确的答案。在巨俠那个世界线里士郎为...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10045984-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10045984_full" class="hidden">
+                    <div id="review_10045984_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10045984" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10045984">
+                                51
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10045984" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10045984">
+                                1
+                        </span>
+                    </a>
+                    <a href="../../review/10045984/#comments" class="reply ">2回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10044251">
+        <div class="main review-item" id="10044251">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/139733602/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u139733602-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/139733602/default.htm" class="name">Dustin</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2019-03-15" class="main-meta">2019-03-15 12:51:27</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10044251/default.htm">前辈，我不是处了</a></h2>
+
+                <div id="review_10044251_short" class="review-short" data-rid="10044251">
+                    <div class="short-content">
+
+                        依然忘不了去年刚看完第一章后的激动，空境式的压抑氛围和士樱之间日久生情但又若有若无的淡淡情愫，回去一路上听着花之呗，电影院来回的两个小时宛如一瞬。 结果第一章玩了两小时的玄乎，第二章告诉你我们之前只是在装逼而已。 凌乱的感情线，突兀的人物性格发展和转变，毫无...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10044251-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10044251_full" class="hidden">
+                    <div id="review_10044251_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10044251" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10044251">
+                                13
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10044251" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10044251">
+                        </span>
+                    </a>
+                    <a href="../../review/10044251/#comments" class="reply ">7回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9904685">
+        <div class="main review-item" id="9904685">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/168024427/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/user_normal.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/168024427/default.htm" class="name">高</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-01-19" class="main-meta">2019-01-19 02:09:52</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9904685/default.htm">孤独剑客</a></h2>
+
+                <div id="review_9904685_short" class="review-short" data-rid="9904685">
+                    <div class="short-content">
+
+                        说实话，我不喜欢樱的一些设定，这样的樱仿佛从一开始就注定了不会有一个好的ending，从一开始的虐待却“奇异”的接受（要知道，樱对慎二的态度用‘暧昧’形容并不为过——第二章樱有对士郎评价过慎二，也许是处境原因）到有目的的接触士郎再到爱上他。这样将士郎放在了一个尴...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9904685-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9904685_full" class="hidden">
+                    <div id="review_9904685_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9904685" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9904685">
+                                1
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9904685" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9904685">
+                                1
+                        </span>
+                    </a>
+                    <a href="../../review/9904685/#comments" class="reply ">5回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9893452">
+        <div class="main review-item" id="9893452">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/chansiki/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u7589852-5.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/chansiki/default.htm" class="name">ChanSiki</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2019-01-13" class="main-meta">2019-01-13 19:44:39</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9893452/default.htm">PG12-尺度全面升级(2.3 二刷更新）</a></h2>
+
+                <div id="review_9893452_short" class="review-short" data-rid="9893452">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        这周四晚上去了一下二刷，补充一下没有说到的。 神父，麻婆 麻婆的戏份没有第一部多，出场两次，一次是给樱做手术，顺便揭露了远坂姐妹之间的关系。第二次出场是和金闪闪，暗示金闪闪去杀掉樱，就这两次。 电影中，有一段暗示樱上街吃人的暗黑童话，做得很梦幻，但是知道真相后...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9893452-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9893452_full" class="hidden">
+                    <div id="review_9893452_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9893452" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9893452">
+                                31
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9893452" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9893452">
+                                2
+                        </span>
+                    </a>
+                    <a href="../../review/9893452/#comments" class="reply ">19回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10300967">
+        <div class="main review-item" id="10300967">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/198687307/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u198687307-23.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/198687307/default.htm" class="name">吐槽电影院</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2019-07-11" class="main-meta">2019-07-11 14:54:31</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10300967/default.htm">这种爽片，一定要去电影院看一次！</a></h2>
+
+                <div id="review_10300967_short" class="review-short" data-rid="10300967">
+                    <div class="short-content">
+
+                        高中时代，奈须蘑菇曾构思过一部名为《Fate》的小说。 依托现实又不完全立足于现实，他构建出7位身为魔术师的人类，召唤英灵并肩作战的奇幻故事。 那时的他完全没料想到，未来，他在这本小说中构建的世界观，将成为整个ACG圈子内最受人追捧的设定之一。 现在，当你向动漫迷们问...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10300967-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10300967_full" class="hidden">
+                    <div id="review_10300967_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10300967" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10300967">
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10300967" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10300967">
+                        </span>
+                    </a>
+                    <a href="../../review/10300967/#comments" class="reply ">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10300915">
+        <div class="main review-item" id="10300915">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/171788309/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u171788309-2.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/171788309/default.htm" class="name">眠空</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2019-07-11" class="main-meta">2019-07-11 14:31:42</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10300915/default.htm">又到了一年一度的路人跳脚时间</a></h2>
+
+                <div id="review_10300915_short" class="review-short" data-rid="10300915">
+                    <div class="short-content">
+
+                        说第一部被骗进影院的，这次希望您多长点心。 大写的第二作，我就不信看前不查一下背景的，一查知道是粉丝向就自重吧。 否则就是知道不合适自己看还非要去看的，那就是贱。 。。。。。。。。。，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10300915-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10300915_full" class="hidden">
+                    <div id="review_10300915_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10300915" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10300915">
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10300915" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10300915">
+                        </span>
+                    </a>
+                    <a href="../../review/10300915/#comments" class="reply ">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10300841">
+        <div class="main review-item" id="10300841">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/176273085/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u176273085-4.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/176273085/default.htm" class="name">海海然</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2019-07-11" class="main-meta">2019-07-11 14:08:01</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10300841/default.htm">游戏党的建议</a></h2>
+
+                <div id="review_10300841_short" class="review-short" data-rid="10300841">
+                    <div class="short-content">
+
+                        鸭！明天FSN HF线第二章在国内上映了 游戏党有、🐔冻 在这提醒一哈要去观影的人： 1. 此电影是粉丝向，需要对fate故事的大背景有一定的了解，非游戏党观影前需要做一定功课，要不会看不懂，全程懵逼； 2. 这是HF线，动画的fate zero是前传作品，最近火的那一版是UBW线（凛线...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10300841-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10300841_full" class="hidden">
+                    <div id="review_10300841_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10300841" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10300841">
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10300841" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10300841">
+                        </span>
+                    </a>
+                    <a href="../../review/10300841/#comments" class="reply ">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10299052">
+        <div class="main review-item" id="10299052">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/198982913/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u198982913-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/198982913/default.htm" class="name">sponge44</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2019-07-10" class="main-meta">2019-07-10 16:39:40</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10299052/default.htm">此生不悔入《Fate》，来世再当月球人</a></h2>
+
+                <div id="review_10299052_short" class="review-short" data-rid="10299052">
+                    <div class="short-content">
+
+                        首先非常感谢吐槽电影院送出的超前观影机会以及周边！ 《命运之夜——天之杯II：迷失之蝶》和上一部相比，有了很大的进步（第一部当然也很好）。首先是剧情方面，天之杯整条线的剧情，我通过度娘已经有了大致的了解，可电影对细节的刻画，还是十分地吸引我，尤其是对樱和士郎的...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10299052-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10299052_full" class="hidden">
+                    <div id="review_10299052_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10299052" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10299052">
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10299052" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10299052">
+                        </span>
+                    </a>
+                    <a href="../../review/10299052/#comments" class="reply ">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10298462">
+        <div class="main review-item" id="10298462">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/96665226/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/user_normal.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/96665226/default.htm" class="name">再见明月照九州</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2019-07-10" class="main-meta">2019-07-10 11:28:05</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10298462/default.htm">正义的伙伴也会有私心，这才是构成人的真实所在</a></h2>
+
+                <div id="review_10298462_short" class="review-short" data-rid="10298462">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        迷失之蝶这部，就个人观感不如说是悲惨世界，当初看完fsn的动画，到后面fz和ubw还有fa和fe等等，作为一个纯动画党，比较晚才被剧透了其他线的结局，fate stay night，虽然大家经常开玩笑说菲特今晚留下来，调笑背后都是对角色命运的感慨: saber线是骑士王通往理想乡前的梦幻插...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10298462-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10298462_full" class="hidden">
+                    <div id="review_10298462_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10298462" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10298462">
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10298462" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10298462">
+                        </span>
+                    </a>
+                    <a href="../../review/10298462/#comments" class="reply ">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10294720">
+        <div class="main review-item" id="10294720">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/137107534/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u137107534-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/137107534/default.htm" class="name">凉宫春日的式神</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2019-07-08" class="main-meta">2019-07-08 15:49:14</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10294720/default.htm">#电影爬虫观影团#7/6南京影院嘉年华活动fate hf第二章观后感</a></h2>
+
+                <div id="review_10294720_short" class="review-short" data-rid="10294720">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        首先非常感谢主办方哔哩哔哩和“电影爬虫”联合举办fate hf第二章的观影活动，也包括所有为了这部电影引进国内做出努力的人，如果没有你们很多像我这样的普通粉丝是不可能有机会在大荧幕上看到fate hf系列的电影的，真的非常非常感谢！ 其次感谢所有这次活动给南京投票的小伙伴...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10294720-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10294720_full" class="hidden">
+                    <div id="review_10294720_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10294720" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10294720">
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10294720" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10294720">
+                        </span>
+                    </a>
+                    <a href="../../review/10294720/#comments" class="reply ">4回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    
+
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/3bf87cba2bdf7fc8.js"></script>
+    <!-- COLLECTED CSS -->
+</div>
+
+
+
+
+
+
+
+
+            <p class="pl">
+                &gt;
+                <a href="reviews">
+                    更多影评54篇
+                </a>
+            </p>
+</section>
+
+<!-- COLLECTED JS -->
+
+    <br/>
+
+        <div class="section-discussion">
+                
+                <div class="mod-hd">
+                        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow"><span>添加新讨论</span></a>
+                    
+    <h2>
+        讨论区
+         ······
+    </h2>
+
+                </div>
+                
+  <table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616356766/default.htm" title="没看过fate的能看得懂吗">没看过fate的能看得懂吗</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/157722530/default.htm">咪么</a></td>
+          <td class="pl"><span>4 回应</span></td>
+          <td class="pl"><span>2019-07-11</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/615941469/default.htm" title="隔壁煞笔之花一公映评分立马降0.7">隔壁煞笔之花一公映评分立马降0.7</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/189860944/default.htm">灰色的魔女</a></td>
+          <td class="pl"><span>13 回应</span></td>
+          <td class="pl"><span>2019-07-11</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616362819/default.htm" title="fate粉居然大言不惭日本最佳动画最佳">fate粉居然大言不惭日本最佳动画最佳</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/140462864/default.htm">年轻人不要信邪~</a></td>
+          <td class="pl"><span></span></td>
+          <td class="pl"><span>2019-07-11</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/615945936/default.htm" title="人怕出名猪怕壮">人怕出名猪怕壮</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/172076131/default.htm">椛樢楓枂</a></td>
+          <td class="pl"><span>2 回应</span></td>
+          <td class="pl"><span>2019-07-11</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616244444/default.htm" title="上集这么垃圾，这集也是，剧场比剧集的节奏还垃圾">上集这么垃圾，这集也是，剧场比剧集的节奏还垃圾</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/140462864/default.htm">年轻人不要信邪~</a></td>
+          <td class="pl"><span>5 回应</span></td>
+          <td class="pl"><span>2019-07-11</span></td>
+        </tr>
+  </table>
+
+                <p class="pl" align="right">
+                    <a href="discussion/default.htm" rel="nofollow">
+                        &gt; 去这部影片的讨论区（全部53条）
+                    </a>
+                </p>
+        </div>
+
+
+    <script type="text/javascript">
+        $(function(){if($.browser.msie && $.browser.version == 6.0){
+            var $info = $('#info'),
+                maxWidth = parseInt($info.css('max-width'));
+            if($info.width() > maxWidth) {
+                $info.width(maxWidth);
+            }
+        }});
+    </script>
+
+
+            </div>
+            <div class="aside">
+                
+
+
+    
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+<div class="ticket">
+        <a class="ticket-btn" href="default.htm">购票</a>
+</div>
+
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_top_right"></div>
+    <div id="dale_movie_subject_top_middle"></div>
+    <!-- douban ad end -->
+
+    
+
+
+
+<style type="text/css">
+    .m4 {margin-bottom:8px; padding-bottom:8px;}
+    .movieOnline {background:#FFF6ED; padding:10px; margin-bottom:20px;}
+    .movieOnline h2 {margin:0 0 5px;}
+    .movieOnline .sitename {line-height:2em; width:160px;}
+    .movieOnline td,.movieOnline td a:link,.movieOnline td a:visited{color:#666;}
+    .movieOnline td a:hover {color:#fff;}
+    .link-bt:link,
+    .link-bt:visited,
+    .link-bt:hover,
+    .link-bt:active {margin:5px 0 0; padding:2px 8px; background:#a8c598; color:#fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; display:inline-block;}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+    
+    <div class="tags">
+        
+        
+    <h2>
+        <i class="">豆瓣成员常用的标签</i>
+             ······
+    </h2>
+
+        <div class="tags-body">
+                <a href="../../tag/_25E6_2597_25A5_25E6_259C_25AC" class="">日本</a>
+                <a href="../../tag/_25E5_258A_25A8_25E7_2594_25BB" class="">动画</a>
+                <a href="../../tag/_25E5_258A_25A8_25E6_25BC_25AB" class="">动漫</a>
+                <a href="../../tag/_25E4_25BA_258C_25E6_25AC_25A1_25E5_2585_2583" class="">二次元</a>
+                <a href="../../tag/_25E5_25A5_2587_25E5_25B9_25BB" class="">奇幻</a>
+                <a href="../../tag/2019" class="">2019</a>
+                <a href="../../tag/_25E6_25B8_25B8_25E6_2588_258F_25E6_2594_25B9_25E7_25BC_2596" class="">游戏改编</a>
+                <a href="../../tag/_25E5_258A_25A8_25E4_25BD_259C" class="">动作</a>
+        </div>
+    </div>
+
+
+    <div id="dale_movie_review_right_guess_you_like"></div>
+    <div id="dale_movie_subject_inner_middle"></div>
+    <div id="dale_movie_subject_download_middle"></div>
+        
+
+
+
+
+
+
+
+
+<div id="subject-doulist">
+    
+    
+    <h2>
+        <i class="">以下豆列推荐</i>
+             ······
+            <span class="pl">
+            (
+                <a href="doulists">全部</a>
+            )
+            </span>
+    </h2>
+
+
+    
+    <ul>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/44033623/default.htm" target="_blank">中国内地引进的日影、合拍片汇总</a>
+                <span>(大奇特(Grinch))</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/20184555/default.htm" target="_blank">一个人看电视（二）</a>
+                <span>(鹿小羽)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/38672145/default.htm" target="_blank">这些动画电影真的好看（含剧场版及OVA）</a>
+                <span>(词休)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/115474189/default.htm" target="_blank">进口电影片单</a>
+                <span>(呵)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/109616632/default.htm" target="_blank">2019冬アニメ</a>
+                <span>(不擅长)</span>
+            </li>
+    </ul>
+
+</div>
+
+            
+
+
+
+
+
+
+
+
+<div id="subject-others-interests">
+    
+    
+    <h2>
+        <i class="">谁在看这部电影</i>
+             ······
+    </h2>
+
+    
+    <ul class="">
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/154317291/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u154317291-2.jpg" class="pil" alt="Happy dancer">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/154317291/default.htm" class="">Happy dancer</a>
+                    <div class="">
+                        刚刚
+                        想看
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/191387078/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u191387078-1.jpg" class="pil" alt="酸雨tt">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/191387078/default.htm" class="">酸雨tt</a>
+                    <div class="">
+                        8分钟前
+                        看过
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/144962618/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u144962618-1.jpg" class="pil" alt="郑垚">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/144962618/default.htm" class="">郑垚</a>
+                    <div class="">
+                        11分钟前
+                        想看
+                        
+                    </div>
+                </div>
+            </li>
+    </ul>
+
+    
+    <div class="subject-others-interests-ft">
+        
+            <a href="collections">3399人看过</a>
+                &nbsp;/&nbsp;
+            <a href="wishes">16233人想看</a>
+    </div>
+
+</div>
+
+
+
+    
+    
+
+<!-- douban ad begin -->
+<div id="dale_movie_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+
+    <br/>
+
+    
+<p class="pl">订阅命运之夜——天之杯II ：迷失之蝶的评论: <br/><span class="feed">
+    <a href="../../feed/subject/26759819/reviews"> feed: rss 2.0</a></span></p>
+
+
+            </div>
+            <div class="extra">
+                
+    
+<!-- douban ad begin -->
+<div id="dale_movie_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2019 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="../../../https@www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="../../../https@www.douban.com/about">关于豆瓣</a>
+    · <a href="../../../https@www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="../../../https@www.douban.com/about@topic=contactus">联系我们</a>
+    · <a href="../../../https@www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="../../../https@help.douban.com/@app=movie" target="_blank">帮助中心</a>
+    · <a href="../../../https@www.douban.com/doubanapp/default.htm">移动应用</a>
+    · <a href="../../../https@www.douban.com/partner/default.htm">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/49eb24fec0f8320e.js"></script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/movie/4aca95d66d37ec0712b3d19973b5d8feb75f2f05/css/movie/mod/reg_login_pop.css" />
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB='../../../https@www.douban.com';
+var account_pop={open:function(o,e){e?referrer="@referrer="+encodeURIComponent(e):referrer="@referrer="+window.location.href;var n="",i="",t=448;n="用户登录",i="../../../https@accounts.douban.com/passport/login_popup@source=movie";var r=document.location.protocol+"//"+document.location.hostname,a=dui.Dialog({width:340,title:n,height:t,cls:"account_pop",isHideTitle:!0,modal:!0,content:"<iframe scrolling='no' frameborder='0' width='340' height='"+t+"' src='"+i+"' name='"+r+"'></iframe>"},!0),c=a.node;if(c.undelegate(),c.delegate(".dui-dialog-close","click",function(){var o=$("body");o.find("#login_msk").hide(),o.find(".account_pop").remove()}),$(window).width()<478){var d="";"reg"===o?d=HTTPS_DB+"/accounts/register"+referrer:"login"===o&&(d=HTTPS_DB+"/accounts/login"+referrer),window.location.href=d}else a.open();$(window).bind("message",function(o){"https://accounts.douban.com"===o.originalEvent.origin&&(c.find("iframe").css("height",o.originalEvent.data),c.height(o.originalEvent.data),a.update())})}};Douban&&Douban.init_show_login&&(Douban.init_show_login=function(o){var e=$(o);e.click(function(){var o=e.data("ref")||"";return account_pop.open("login",o),!1})}),Do(function(){$("body").delegate(".pop_register","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("reg",e),!1}),$("body").delegate(".pop_login","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("login",e),!1})});
+    </script>
+
+    
+    
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '../../../https@erebor.douban.com/default.htm',
+            userId = '',
+            browserId = 'Ez1QlPiK8rc',
+            criteria = '7:动漫|7:浅川悠|7:动作|7:剧情|7:2019|7:伊藤美纪|7:须藤友德|7:津嘉山正种|7:门胁舞以|7:稻田彻|7:真殿光昭|7:二次元|7:诹访部顺一|7:下屋则子|7:神谷浩史|7:水泽史绘|7:杉山纪彰|7:川澄绫子|7:爱情|7:神奈延年|7:奇幻|7:游戏改编|7:植田佳奈|7:日本|7:关智一|7:中田让治|7:动画|3_3A/subject/26759819/@from=showing',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_top_icon', 'dale_movie_subject_top_right', 'dale_movie_subject_top_middle', 'dale_movie_subject_inner_middle', 'dale_movie_subject_download_middle', 'dale_movie_review_right_guess_you_like'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '../../../https@img3.doubanio.com/f/adjs/5ec0e90cac83524d8c3e7f7bf95260c9c1875bca/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'_3A//img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? '../../../https@ssl' : '../../../www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+      
+    
+
+    <!-- brand30-docker-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+

@@ -1,0 +1,21 @@
+
+        #cities-list{position:absolute;background-color:#fff;z-index:11;display:none;width:310px;padding:15px;border:1px solid #dfdfdf;border-radius:3px;box-shadow:0px 1px 2px rgba(0, 0, 0, .3);}
+#cities-list .arrow{background:url(../../pics/movie/hot_cities_arrow.gif) no-repeat 0 0;height:7px;left:46px;position:absolute;top:-5px;width:8px;}
+.cities-list-hd{padding:0 0 10px 20px;border-bottom:1px solid #ddd;margin-bottom:10px;}
+.cities-list-hd span{margin-right:20px;color:#2E7AB3;cursor:pointer;}
+.cities-list-hd .on{background-color:#69c;color:#fff;padding:2px 8px;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;}
+#cities-list .cities-list-bd{text-align:left;}
+.cities-list-item{padding-left:2px;}
+.city-mod{border-bottom:1px solid #eee;margin:5px 0 0 0;padding-bottom:5px;}
+.cities-list-bd span{margin:0 10px 0px 0;color:#2E7AB3;white-space:nowrap;display:inline-block;line-height:2em;}
+.cities-list-bd dt{float:left;margin-right:25px;}
+.cities-list-bd dd{clear:both;}
+
+.dui-dialog-content .arrow{position:absolute;left:12px;top:-5px;background:url(../../pics/movie-simple-up-arrow.png) no-repeat;width:6px;height:7px;}
+.dlg_sms .dui-dialog-content .arrow{top:13px;}
+.simple .dui-dialog-shd{background:none #fff;border:1px solid #aaa;opacity:1;filter:alpha(opacity=100);}
+#loc .now{background-color:#00c26f;color:#fff;padding: 0 5px;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+#loc .now a{color:#fff;}
+#loc .now a:hover {background-color:#00C26F;}
+
+    

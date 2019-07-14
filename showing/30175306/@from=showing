@@ -1,0 +1,2880 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ie10">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+        追龙Ⅱ (豆瓣)
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+    <link rel="apple-touch-icon" href="../../../https@img3.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="../../../https@img3.doubanio.com/f/shire/52c9997d6d42db58eab418e976a14d5f3eff981e/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/shire/ae3f5a3e3085968370b1fc63afcecb22d3284848/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/movie/8864d3756094f5272d3c93e30ee2e324665855b0/css/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/0495cb173e298c28593766009c7b0a953246c5b5/js/movie/lib/jquery.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/1316664523258f7b8b536e4ce45afc9cb37b8963/js/douban.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/0efdc63b77f895eaf85281fb0e44d435c6239a3f/js/separation/_all.js"></script>
+    
+    <meta name="keywords" content="追龙Ⅱ,追龍2：贼王,追龙Ⅱ影评,剧情介绍,电影图片,预告片,影讯,在线购票,论坛">
+    <meta name="description" content="追龙Ⅱ电影简介和剧情介绍,追龙Ⅱ影评、图片、预告片、影讯、论坛、在线购票">
+    <meta name="mobile-agent" content="format=html5; url=../../../m.douban.com/movie/subject/30175306/default.htm"/>
+    <link rel="alternate" href="android-app_3A//com.douban.movie/doubanmovie/subject/30175306/default.htm" />
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/dae/cdnlib/libs/LikeButton/1.0.5/style.min.css">
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript">
+      Do.add('dialog', {path: '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js', type: 'js'});
+      Do.add('dialog-css', {path: '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css', type: 'css'});
+      Do.add('handlebarsjs', {path: '../../../https@img3.doubanio.com/f/movie/3d4f8e4a8918718256450eb6e57ec8e1f7a2e14b/js/movie/lib/handlebars.current.js', type: 'js'});
+    </script>
+    
+  <script type='text/javascript'>
+  var _vwo_code = (function() {
+    var account_id = 249272,
+      settings_tolerance = 0,
+      library_tolerance = 2500,
+      use_existing_jquery = false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('../../../https@dev.visualwebsiteoptimizer.com/j.php@a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());
+
+  +function () {
+    var bindEvent = function (el, type, handler) {
+        var $ = window.jQuery || window.Zepto || window.$
+       if ($ && $.fn && $.fn.on) {
+           $(el).on(type, handler)
+       } else if($ && $.fn && $.fn.bind) {
+           $(el).bind(type, handler)
+       } else if (el.addEventListener){
+         el.addEventListener(type, handler, false);
+       } else if (el.attachEvent){
+         el.attachEvent("on" + type, handler);
+       } else {
+         el["on" + type] = handler;
+       }
+     }
+
+    var _origin_load = _vwo_code.load
+    _vwo_code.load = function () {
+      var args = [].slice.call(arguments)
+      bindEvent(window, 'load', function () {
+        _origin_load.apply(_vwo_code, args)
+      })
+    }
+  }()
+
+  _vwo_settings_timer = _vwo_code.init();
+  </script>
+
+
+    
+
+
+<script type="application/ld+json">
+{
+  "@context": "../../../schema.org",
+  "name": "追龙Ⅱ 追龍2：贼王",
+  "url": "default.htm",
+  "image": "../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2558294190.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1274331/default.htm",
+      "name": "王晶 Jing Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1318237/default.htm",
+      "name": "关智耀 Jason Kwan Chi-Yiu"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1274331/default.htm",
+      "name": "王晶 Jing Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313441/default.htm",
+      "name": "吕冠南 Lui Koon Nam"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1118167/default.htm",
+      "name": "梁家辉 Tony Leung"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1027577/default.htm",
+      "name": "古天乐 Louis Koo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1050329/default.htm",
+      "name": "林家栋 Ka Tung Lam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1335402/default.htm",
+      "name": "邱意浓 Sabrina Qiu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1326944/default.htm",
+      "name": "叶项明 Xiangming Ye"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1031194/default.htm",
+      "name": "任达华 Simon Yam"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1322949/default.htm",
+      "name": "杜江 Jiang Du"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1162139/default.htm",
+      "name": "王敏德 Michael Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1301560/default.htm",
+      "name": "余安安 On-on Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1327469/default.htm",
+      "name": "韦家雄 Ka-Hung Wai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1275153/default.htm",
+      "name": "陈伟雄 Phat Chan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1382111/default.htm",
+      "name": "黄竣锋 Jason Wong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1415507/default.htm",
+      "name": "王宝葆 "
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1274570/default.htm",
+      "name": "秦煌 Wong Chun"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1274489/default.htm",
+      "name": "罗永昌 Wing-cheong Law"
+    }
+  ]
+,
+  "datePublished": "2019-06-06",
+  "genre": ["\u5267\u60c5", "\u52a8\u4f5c", "\u72af\u7f6a"],
+  "duration": "PT1H43M",
+  "description": "悍匪龙志强，在香港回归前，趁香港英政府不作为，而屡犯巨案，先后绑架富豪利家及雷家之长子，勒索超过二十亿元，事主怕被报复, 交赎款后都不敢报警。中国公安部极为关注，与香港警方合力，派香港警员何天卧底潜入...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "31443",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.7"
+  }
+}
+</script>
+
+
+    <style type="text/css">
+  
+</style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/59f798f5b75e51f0.css">
+
+    <link rel="shortcut icon" href="../../../https@img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="../../../https@accounts.douban.com/passport/login@source=movie" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="../../../https@www.douban.com/doubanapp/app@channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="../../../https@www.douban.com/doubanapp/app@channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="../../../https@www.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="../../../https@book.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="../../default.htm"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="../../../https@music.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="../../../https@read.douban.com/@dcs=top-nav&dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="../../../https@douban.fm/@from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="../../../https@time.douban.com/@dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="../../../https@market.douban.com/@utm_campaign=douban_top_nav&utm_source=douban&utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="../../../https@ypy.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "../../../https@www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https_3A//movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;movie.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="../../cinema/nowplaying/default.htm"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="../../explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="../../tv/default.htm"
+     >电视剧</a>
+    </li>
+    <li    ><a href="../../chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="../../tag/default.htm"
+     >分类</a>
+    </li>
+    <li    ><a href="../../review/best/default.htm"
+     >影评</a>
+    </li>
+    <li    ><a href="../../annual/2018@source=navigation"
+     >2018年度榜单</a>
+    </li>
+    <li    ><a href="../../../https@www.douban.com/standbyme/2018@source=navigation"
+     >2018书影音报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="../../annual/2018@source=movie_navigation" class="movieannual2018"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+
+    <div id="dale_movie_subject_top_icon"></div>
+    <h1>
+        <span property="v:itemreviewed">追龙Ⅱ 追龍2：贼王</span>
+            <span class="year">(2019)</span>
+    </h1>
+
+        <div class="grid-16-8 clearfix">
+            
+
+            
+            <div class="article">
+                
+    
+
+    
+
+
+
+
+
+        <div class="indent clearfix">
+            <div class="subjectwrap clearfix">
+                <div class="subject clearfix">
+                    
+
+
+
+<div id="mainpic" class="">
+    <a class="nbgnbg" href="photos@type=R" title="点击看更多海报">
+        <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2558294190.jpg" title="点击看更多海报" alt="追龍2：贼王" rel="v:image" />
+   </a>
+</div>
+
+                    
+
+
+<div id="info">
+        <span ><span class='pl'>导演</span>: <span class='attrs'><a href="../../celebrity/1274331/default.htm" rel="v:directedBy">王晶</a> / <a href="../../celebrity/1318237/default.htm" rel="v:directedBy">关智耀</a></span></span><br/>
+        <span ><span class='pl'>编剧</span>: <span class='attrs'><a href="../../celebrity/1274331/default.htm">王晶</a> / <a href="../../celebrity/1313441/default.htm">吕冠南</a></span></span><br/>
+        <span class="actor"><span class='pl'>主演</span>: <span class='attrs'><a href="../../celebrity/1118167/default.htm" rel="v:starring">梁家辉</a> / <a href="../../celebrity/1027577/default.htm" rel="v:starring">古天乐</a> / <a href="../../celebrity/1050329/default.htm" rel="v:starring">林家栋</a> / <a href="../../celebrity/1335402/default.htm" rel="v:starring">邱意浓</a> / <a href="../../celebrity/1326944/default.htm" rel="v:starring">叶项明</a> / <a href="../../celebrity/1031194/default.htm" rel="v:starring">任达华</a> / <a href="../../celebrity/1322949/default.htm" rel="v:starring">杜江</a> / <a href="../../celebrity/1162139/default.htm" rel="v:starring">王敏德</a> / <a href="../../celebrity/1301560/default.htm" rel="v:starring">余安安</a> / <a href="../../celebrity/1327469/default.htm" rel="v:starring">韦家雄</a> / <a href="../../celebrity/1275153/default.htm" rel="v:starring">陈伟雄</a> / <a href="../../celebrity/1382111/default.htm" rel="v:starring">黄竣锋</a> / <a href="../../celebrity/1415507/default.htm" rel="v:starring">王宝葆</a> / <a href="../../celebrity/1274570/default.htm" rel="v:starring">秦煌</a></span></span><br/>
+        <span class="pl">类型:</span> <span property="v:genre">剧情</span> / <span property="v:genre">动作</span> / <span property="v:genre">犯罪</span><br/>
+        
+        <span class="pl">制片国家/地区:</span> 香港 / 中国大陆<br/>
+        <span class="pl">语言:</span> 粤语 / 汉语普通话<br/>
+        <span class="pl">上映日期:</span> <span property="v:initialReleaseDate" content="2019-06-06(中国大陆)">2019-06-06(中国大陆)</span><br/>
+        <span class="pl">片长:</span> <span property="v:runtime" content="103">103分钟</span><br/>
+        <span class="pl">又名:</span> 追龙2 / 追龙2：追缉大富豪 / 追龙II：贼王 / 贼王 / Chasing the Dragon Ⅱ / Chasing the Dragon Ⅱ: Master of Ransom / Chasing the Dragon 2: Wild Wild Bunch / Master of Ransom<br/>
+        <span class="pl">IMDb链接:</span> <a href="../../../www.imdb.com/title/tt10279010" target="_blank" rel="nofollow">tt10279010</a><br>
+
+</div>
+
+
+
+
+                </div>
+                    
+
+
+<div id="interest_sectl">
+    <div class="rating_wrap clearbox" rel="v_3Arating">
+        <div class="clearfix">
+          <div class="rating_logo ll">豆瓣评分</div>
+          <div class="output-btn-wrap rr" style="display:none">
+            <img src="../../../https@img3.doubanio.com/f/movie/692e86756648f29457847c5cc5e161d6f6b8aaac/pics/movie/reference.png" />
+            <a class="download-output-image" href="#">引用</a>
+          </div>
+          
+          
+        </div>
+        
+
+
+
+<div class="rating_self clearfix" typeof="v:Rating">
+    <strong class="ll rating_num" property="v:average">5.7</strong>
+    <span property="v:best" content="10.0"></span>
+    <div class="rating_right ">
+        <div class="ll bigstar bigstar30"></div>
+        <div class="rating_sum">
+                <a href="collections" class="rating_people">
+                    <span property="v:votes">31444</span>人评价
+                </a>
+        </div>
+    </div>
+</div>
+<div class="ratings-on-weight">
+    
+        <div class="item">
+        
+        <span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+        <div class="power" style="width:4px"></div>
+        <span class="rating_per">3.5%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+        <div class="power" style="width:19px"></div>
+        <span class="rating_per">15.4%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars3 starstop" title="还行">
+            3星
+        </span>
+        <div class="power" style="width:64px"></div>
+        <span class="rating_per">50.6%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars2 starstop" title="较差">
+            2星
+        </span>
+        <div class="power" style="width:31px"></div>
+        <span class="rating_per">25.0%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars1 starstop" title="很差">
+            1星
+        </span>
+        <div class="power" style="width:6px"></div>
+        <span class="rating_per">5.5%</span>
+        <br />
+        </div>
+</div>
+
+    </div>
+        <div class="rating_betterthan">
+            好于 <a href="../../typerank@type_name=_25E7_258A_25AF_25E7_25BD_25AA&type=3&interval_id=15_3A5&action=">11% 犯罪片</a><br/>
+            好于 <a href="../../typerank@type_name=_25E5_258A_25A8_25E4_25BD_259C&type=5&interval_id=20_3A10&action=">19% 动作片</a><br/>
+        </div>
+</div>
+
+
+                
+            </div>
+                
+
+
+
+
+<div id="interest_sect_level" class="clearfix">
+        
+            <a href="../../../https@www.douban.com/reason=collectwish&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-30175306-wish">
+                <span>想看</span>
+            </a>
+            <a href="../../../https@www.douban.com/reason=collectcollect&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-30175306-collect">
+                <span>看过</span>
+            </a>
+        <div class="ll j a_stars">
+            
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="../../../https@img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="../../../https@img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover_402x.png" data-hollow-2x="../../../https@img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover_402x.png">
+
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-30175306-1">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-30175306-2">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-30175306-3">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-30175306-4">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-30175306-5">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+        </div>
+    
+
+</div>
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        
+    
+        
+                <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/cc03d0fcf32b7ce3af7b160a0b85e5e66b47cc42/pics/short-comment.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_cmnt_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写短评</a>
+ </li>
+                    <li> 
+    
+    <img src="../../../https@img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_rv_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写影评</a>
+ </li>
+                    <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/61cc48ba7c40e0272d46bb93fe0dc514f3b71ec5/pics/add-doulist.gif" />&nbsp;
+    <a class="" href="questions/ask@from=subject_top">提问题</a>
+ </li>
+                <li> 
+    
+
+
+
+ </li>
+                <li> 
+   
+
+   
+    
+    <span class="rec" id="电影-30175306">
+    <a href= "#"
+        data-type="电影"
+        data-url="default.htm"
+        data-desc="电影《追龙Ⅱ 追龍2：贼王》 (来自豆瓣) "
+        data-title="电影《追龙Ⅱ 追龍2：贼王》 (来自豆瓣) "
+        data-pic="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558294190.jpeg"
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </span>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = '../../../https@img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('../../../https@img3.doubanio.com/f/movie/32be6727ed3ad8f6c4a417d8a086355c3e7d1d27/js/movie/lib/sharebutton.js');
+    </script>
+
+
+  </li>
+            
+
+    </ul>
+
+    <script type="text/javascript">
+        $(function(){
+            $(".ul_subject_menu li.rec .bn-sharing").bind("click", function(){
+                $.get("../../blank@sbj_page_click=bn_sharing");
+            });
+            $(".ul_subject_menu .create_from_menu").bind("click", function(e){
+                e.preventDefault();
+                var $el = $(this);
+                var glRoot = document.getElementById('gallery-topics-selection');
+                if (window.has_gallery_topics && glRoot) {
+                    // 判断是否有话题
+                    glRoot.style.display = 'block';
+                } else {
+                    location.href = $el.attr('href');
+                }
+            });
+        });
+    </script>
+</div>
+
+
+
+
+                
+
+
+
+
+
+<div class="rec-sec">
+<span class="rec">
+    <script id="movie-share" type="text/x-html-snippet">
+        
+    <form class="movie-share" action="../../j/share" method="POST">
+        <div class="clearfix form-bd">
+            <div class="input-area">
+                <textarea name="text" class="share-text" cols="72" data-mention-api="https://api.douban.com/shuo/in/complete?alt=xd&amp;callback=?"></textarea>
+                <input type="hidden" name="target-id" value="30175306">
+                <input type="hidden" name="target-type" value="0">
+                <input type="hidden" name="title" value="追龙Ⅱ 追龍2：贼王‎ (2019)">
+                <input type="hidden" name="desc" value="导演 王晶 主演 梁家辉 / 古天乐 / 香港 / 中国大陆 / 5.7分(31444评价)">
+                <input type="hidden" name="redir" value=""/>
+                <div class="mentioned-highlighter"></div>
+            </div>
+
+            <div class="info-area">
+                    <img class="media" src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2558294190.jpg" />
+                <strong>追龙Ⅱ 追龍2：贼王‎ (2019)</strong>
+                <p>导演 王晶 主演 梁家辉 / 古天乐 / 香港 / 中国大陆 / 5.7分(31444评价)</p>
+                <p class="error server-error">&nbsp;</p>
+            </div>
+        </div>
+        <div class="form-ft">
+            <div class="form-ft-inner">
+                
+
+
+
+                <span class="avail-num-indicator">140</span>
+                <span class="bn-flat">
+                    <input type="submit" value="推荐" />
+                </span>
+            </div>
+        </div>
+    </form>
+    
+    <div id="suggest-mention-tmpl" style="display:none;">
+        <ul>
+            {{#users}}
+            <li id="{{uid}}">
+              <img src="{{avatar}}">{{{username}}}&nbsp;<span>({{{uid}}})</span>
+            </li>
+            {{/users}}
+        </ul>
+    </div>
+
+
+    </script>
+
+        
+        <a href="../../accounts/register@reason=recommend"  class="j a_show_login lnk-sharing" share-id="30175306" data-mode="plain" data-name="追龙Ⅱ 追龍2：贼王‎ (2019)" data-type="movie" data-desc="导演 王晶 主演 梁家辉 / 古天乐 / 香港 / 中国大陆 / 5.7分(31444评价)" data-href="https://movie.douban.com/subject/30175306/" data-image="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558294190.jpg" data-properties="{}" data-redir="" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1002" data-object_id="30175306" data-target_type="rec" data-target_action="0" data-action_props="{&#34;subject_url&#34;:&#34;https:\/\/movie.douban.com\/subject\/30175306\/&#34;,&#34;subject_title&#34;:&#34;追龙Ⅱ 追龍2：贼王‎ (2019)&#34;}">推荐</a>
+</span>
+
+
+</div>
+
+
+
+
+
+
+            <script type="text/javascript">
+                $(function() {
+                    $('.collect_btn', '#interest_sect_level').each(function() {
+                        Douban.init_collect_btn(this);
+                    });
+                    $('html').delegate(".indent .rec-sec .lnk-sharing", "click", function() {
+                        moreurl(this, {
+                            from : 'mv_sbj_db_share'
+                        });
+                    });
+                });
+            </script>
+        </div>
+            
+
+
+    <div id="collect_form_30175306"></div>
+
+
+        
+
+
+
+<div class="related-info" style="margin-bottom:-10px;">
+    <a name="intro"></a>
+    
+        
+            
+            
+    <h2>
+        <i class="">追龙Ⅱ的剧情简介</i>
+             ······
+    </h2>
+
+            <div class="indent" id="link-report">
+                    
+                        <span property="v:summary" class="">
+                                　　悍匪龙志强，在香港回归前，趁香港英政府不作为，而屡犯巨案，先后绑架富豪利家及雷家之长子，勒索超过二十亿元，事主怕被报复, 交赎款后都不敢报警。中国公安部极为关注，与香港警方合力，派香港警员何天卧底潜入龙志强犯罪团伙，发现他正策划绑架澳门富豪贺不凡，最终陆港警察合力勇擒龙志强，救出贺不凡。
+                        </span>
+                        
+
+            </div>
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+<div id="celebrities" class="celebrities related-celebrities">
+
+  
+    <h2>
+        <i class="">追龙Ⅱ的演职员</i>
+             ······
+            <span class="pl">
+            (
+                <a href="celebrities">全部 18</a>
+            )
+            </span>
+    </h2>
+
+
+  <ul class="celebrities-list from-subject __oneline">
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1274331/default.htm" title="王晶 Jing Wong" class="">
+      <div class="avatar" style="background-image: url(../../../https@img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3237.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1274331/default.htm" title="王晶 Jing Wong" class="name">王晶</a></span>
+
+      <span class="role" title="导演">导演</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1318237/default.htm" title="关智耀 Jason Kwan Chi-Yiu" class="">
+      <div class="avatar" style="background-image: url(../../../https@img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1475727461.38.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1318237/default.htm" title="关智耀 Jason Kwan Chi-Yiu" class="name">关智耀</a></span>
+
+      <span class="role" title="导演">导演</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1118167/default.htm" title="梁家辉 Tony Leung" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p746.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1118167/default.htm" title="梁家辉 Tony Leung" class="name">梁家辉</a></span>
+
+      <span class="role" title="饰 龙志强">饰 龙志强</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1027577/default.htm" title="古天乐 Louis Koo" class="">
+      <div class="avatar" style="background-image: url(../../../https@img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1421047436.79.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1027577/default.htm" title="古天乐 Louis Koo" class="name">古天乐</a></span>
+
+      <span class="role" title="饰 何天">饰 何天</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1050329/default.htm" title="林家栋 Ka Tung Lam" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1408428669.04.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1050329/default.htm" title="林家栋 Ka Tung Lam" class="name">林家栋</a></span>
+
+      <span class="role" title="饰 博士">饰 博士</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1335402/default.htm" title="邱意浓 Sabrina Qiu" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1561258188.35.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1335402/default.htm" title="邱意浓 Sabrina Qiu" class="name">邱意浓</a></span>
+
+      <span class="role" title="饰 兔兔">饰 兔兔</span>
+
+    </div>
+  </li>
+
+
+  </ul>
+</div>
+
+
+    
+
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/f/verify/16c7e943aee3b1dc6d65f600fcc0f6d62db7dfb4/entry_creator/dist/author_subject/style.css">
+<div id="author_subject" class="author-wrapper">
+    <div class="loading"></div>
+</div>
+<script type="text/javascript">
+    var answerObj = {
+      ISALL: 'False',
+      TYPE: 'movie',
+      SUBJECT_ID: '30175306',
+      USER_ID: 'None'
+    }
+</script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/61252f2f9b35f08b37f69d17dfe48310dd295347/js/movie/lib/react/15.4/bundle.js"></script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/verify/ac140ef86262b845d2be7b859e352d8196f3f6d4/entry_creator/dist/author_subject/index.js"></script>
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    <div id="related-pic" class="related-pic">
+        
+    
+    
+    <h2>
+        <i class="">追龙Ⅱ的视频和图片</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="trailer#trailer">预告片10</a>&nbsp;|&nbsp;<a href="../../video/create@subject_id=30175306">添加视频评论</a>&nbsp;|&nbsp;<a href="all_photos">图片219</a>&nbsp;·&nbsp;<a href="mupload">添加</a>
+            )
+            </span>
+    </h2>
+
+
+        <ul class="related-pic-bd  ">
+                <li class="label-trailer">
+                    <a class="related-pic-video" href="../../trailer/248014/#content" title="预告片" style="background-image:url(../../../https@img3.doubanio.com/img/trailer/medium/2558563394.jpg@)">
+                    </a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2557374997/default.htm"><img src="../../../https@img1.doubanio.com/view/photo/sqxs/public/p2557374997.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2555474534/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2555474534.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2556871824/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2556871824.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2558562570/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2558562570.jpg" alt="图片" /></a>
+                </li>
+        </ul>
+    </div>
+
+
+
+
+    
+    
+
+
+
+<style type="text/css">
+.award li { display: inline; margin-right: 5px }
+.awards { margin-bottom: 20px }
+.awards h2 { background: none; color: #000; font-size: 14px; padding-bottom: 5px; margin-bottom: 8px; border-bottom: 1px dashed #dddddd }
+.awards .year { color: #666666; margin-left: -5px }
+.mod { margin-bottom: 25px }
+.mod .hd { margin-bottom: 10px }
+.mod .hd h2 {margin:24px 0 3px 0}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+
+    <div id="recommendations" class="">
+        
+        
+    <h2>
+        <i class="">喜欢这部电影的人也喜欢</i>
+             ······
+    </h2>
+
+        
+    
+    <div class="recommendations-bd">
+        <dl class="">
+            <dt>
+                <a href="../27202819/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2551353482.jpg" alt="反贪风暴4" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27202819/@from=subject-page" class="" >反贪风暴4</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../30171425/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2561172733.jpg" alt="扫毒2天地对决" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../30171425/@from=subject-page" class="" >扫毒2天地对决</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../30423193/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2559370302.jpg" alt="使徒行者2：谍影行动" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../30423193/@from=subject-page" class="" >使徒行者2：谍影行动</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27114416/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2554020294.jpg" alt="廉政风云" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27114416/@from=subject-page" class="" >廉政风云</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26796665/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2560169035.jpg" alt="九龙不败" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26796665/@from=subject-page" class="" >九龙不败</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26899146/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2554545271.jpg" alt="雪暴" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26899146/@from=subject-page" class="" >雪暴</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26816076/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2544988187.jpg" alt="“大”人物" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26816076/@from=subject-page" class="" >“大”人物</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26748673/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2465858820.jpg" alt="拆弹专家" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26748673/@from=subject-page" class="" >拆弹专家</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27069427/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2535191502.jpg" alt="黄金兄弟" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27069427/@from=subject-page" class="" >黄金兄弟</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27195080/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2524686290.jpg" alt="泄密者" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27195080/@from=subject-page" class="" >泄密者</a>
+            </dd>
+        </dl>
+    </div>
+
+    </div>
+
+
+
+        
+
+
+<script type="text/x-handlebar-tmpl" id="comment-tmpl">
+    <div class="dummy-fold">
+        {{#each comments}}
+        <div class="comment-item" data-cid="id">
+            <div class="comment">
+                <h3>
+                    <span class="comment-vote">
+                            <span class="votes">{{votes}}</span>
+                        <input value="{{id}}" type="hidden"/>
+                        <a href="javascript:;" class="j {{#if ../if_logined}}a_vote_comment{{else}}a_show_login{{/if}}">有用</a>
+                    </span>
+                    <span class="comment-info">
+                        <a href="{{user.path}}" class="">{{user.name}}</a>
+                        {{#if rating}}
+                        <span class="allstar{{rating}}0 rating" title="{{rating_word}}"></span>
+                        {{/if}}
+                        <span>
+                            {{time}}
+                        </span>
+                        <p> {{content_tmpl content}} </p>
+                    </span>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <div id="comments-section">
+        <div class="mod-hd">
+            
+        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">
+            <span>我要写短评</span>
+        </a>
+
+            
+            
+    <h2>
+        <i class="">追龙Ⅱ的短评</i>
+             ······
+            <span class="pl">
+            (
+                <a href="comments@status=P">全部 11927 条</a>
+            )
+            </span>
+    </h2>
+
+        </div>
+        <div class="mod-bd">
+                
+    <div class="tab-hd">
+        <a id="hot-comments-tab" href="comments" data-id="hot" class="on">热门</a>&nbsp;/&nbsp;
+            <a id="new-comments-tab" href="comments@sort=time" data-id="new">最新</a>&nbsp;/&nbsp;
+        <a id="following-comments-tab" href="follows_comments" data-id="following"  class="j a_show_login">好友</a>
+    </div>
+
+    <div class="tab-bd">
+        <div id="hot-comments" class="tab">
+            
+    
+        
+        <div class="comment-item" data-cid="1811937430">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">795</span>
+                <input value="1811937430" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/44457357/default.htm" class="">黑狗成</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2019-06-06 02:18:24">
+                    2019-06-06
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">请从短评首页找出谁是卧底。</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1802378768">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">678</span>
+                <input value="1802378768" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/volantisff/default.htm" class="">skaz</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-05-28 16:47:08">
+                    2019-05-28
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">就因为反派姓龙所以叫追龙</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1812933864">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">332</span>
+                <input value="1812933864" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/qijiuzhiyue/default.htm" class="">桃桃淘电影</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-06-06 23:43:49">
+                    2019-06-06
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">7分，其实更该叫《拆弹专家2》，古天乐那场眼泪戏倒是难得的紧张。影片在美术上还不错，复古感和角色的疯癫状态，还是有些怀旧味的。包括后面的反转也多少有些意外。归根到底，还是人心的贪。个人观感甚至好过上一部，不过豆瓣正相反，有意思。</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1813812984">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">315</span>
+                <input value="1813812984" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/diewithme/default.htm" class="">王大根</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-06-07 19:11:26">
+                    2019-06-07
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">除了最后一幕依稀还有点第一部的余韵，整个基本就是《反贪风暴5》了。越来越喜欢林家栋，好想看他演个苦涩中年男同性恋角色啊！大概是这种感觉：某某署警司林家栋，沉默寡言，工作勤勉，但其实二十年来一直爱着同事古天乐。两人是警校同学，毕业那天喝醉发生了关系，醒来后都决定不再提起。古冲在一线，屡屡升职，风光无限；林则藏在幕后，为他做技术支援。古很快结婚生子，林却长年独身，旁人问起，他只笑笑，看一眼古，然后低头...</span>
+                <span class="hide-item full">除了最后一幕依稀还有点第一部的余韵，整个基本就是《反贪风暴5》了。越来越喜欢林家栋，好想看他演个苦涩中年男同性恋角色啊！大概是这种感觉：某某署警司林家栋，沉默寡言，工作勤勉，但其实二十年来一直爱着同事古天乐。两人是警校同学，毕业那天喝醉发生了关系，醒来后都决定不再提起。古冲在一线，屡屡升职，风光无限；林则藏在幕后，为他做技术支援。古很快结婚生子，林却长年独身，旁人问起，他只笑笑，看一眼古，然后低头喝酒。两人用眼神撕扯了二十年，最后出任务，林为古挡下子弹，躺在古怀里说：“其实我……”古哭着：“我知，我知……”然后林家栋就心满意足地笑着，闭上了眼睛……</span>
+                <span class="expand">(<a href="javascript:;">展开</a>)</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1811971152">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">186</span>
+                <input value="1811971152" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/136871398/default.htm" class="">黄青海</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-06-06 04:03:41">
+                    2019-06-06
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">《追龙2》从片名来看，王晶很明显地在蹭自己前作《追龙》的热度。影片开头，闪回一些《追龙》的片段，然后就用一句时势造英雄，来强行连接新的故事，说在香港回归前也有一个枭雄。之后，故事就完全与前作没有关系了。
+这部片虽然用的是香港导演和香港演员，用的也是粤语，但它发生地不在香港了，改去了澳门，而且事件起因还是广东省公安香港警察帮忙，所以我觉得这不算港片吧。
+人物上，梁家辉演的龙志强人狠话不多，属于有勇有...</span>
+                <span class="hide-item full">《追龙2》从片名来看，王晶很明显地在蹭自己前作《追龙》的热度。影片开头，闪回一些《追龙》的片段，然后就用一句时势造英雄，来强行连接新的故事，说在香港回归前也有一个枭雄。之后，故事就完全与前作没有关系了。
+这部片虽然用的是香港导演和香港演员，用的也是粤语，但它发生地不在香港了，改去了澳门，而且事件起因还是广东省公安香港警察帮忙，所以我觉得这不算港片吧。
+人物上，梁家辉演的龙志强人狠话不多，属于有勇有谋的，林家栋演的博士前面隐忍，后面操纵局势，也是一个狠角色，古天乐演的卧底何天沉着冷静，有两次落泪，一次被人打耳光大哭，一次在拆炸弹。
+剧情方面有点弱，反派没杀过人，最后还是要让广东公安来抓，主旋律呀</span>
+                <span class="expand">(<a href="javascript:;">展开</a>)</span>
+        </p>
+    </div>
+
+        </div>
+
+
+
+                
+                &gt; <a href="comments@sort=new_score&status=P" >更多短评11927条</a>
+        </div>
+        <div id="new-comments" class="tab">
+            <div id="normal">
+            </div>
+            <div class="fold-hd hide">
+                <a class="qa" href="../../help/opinion#t2-q0" target="_blank">为什么被折叠？</a>
+                <a class="btn-unfold" href="#">有一些短评被折叠了</a>
+                <div class="qa-tip">
+                    评论被折叠，是因为发布这条评论的帐号行为异常。评论仍可以被展开阅读，对发布人的账号不造成其他影响。如果认为有问题，可以<a href="../../../https@help.douban.com/help/ask@category=movie">联系</a>豆瓣电影。
+                </div>
+            </div>
+            <div class="fold-bd">
+            </div>
+            <span id="total-num"></span>
+        </div>
+        <div id="following-comments" class="tab">
+            
+    
+
+
+        <div class="comment-item">
+            你关注的人还没写过短评
+        </div>
+
+        </div>
+    </div>
+
+
+            
+            
+        </div>
+    </div>
+
+
+
+        
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/5b893040c800d5cd.css">
+
+<section class="topics mod">
+    <header>
+        <h2>
+            追龙Ⅱ的话题 · · · · · ·
+            <span class="pl">( <span class="gallery_topics">全部 <span id="topic-count"></span> 条</span> )</span>
+        </h2>
+    </header>
+
+    
+
+
+
+
+<section class="subject-topics">
+    <div class="topic-guide" id="topic-guide">
+        <img class="ic_question" src="../../../https@img3.doubanio.com/f/ithildin/b1a3edea3d04805f899e9d77c0bfc0d158df10d5/pics/export/icon_question.png">
+        <div class="tip_content">
+            <div class="tip_title">什么是话题</div>
+            <div class="tip_desc">
+                <div>无论是一部作品、一个人，还是一件事，都往往可以衍生出许多不同的话题。将这些话题细分出来，分别进行讨论，会有更多收获。</div>
+            </div>
+        </div>
+        <img class="ic_guide" src="../../../https@img3.doubanio.com/f/ithildin/529f46d86bc08f55cd0b1843d0492242ebbd22de/pics/export/icon_guide_arrow.png">
+        <img class="ic_close" id="topic-guide-close" src="../../../https@img3.doubanio.com/f/ithildin/2eb4ad488cb0854644b23f20b6fa312404429589/pics/export/close_403x.png">
+    </div>
+
+    <div id="topic-items"></div>
+
+    <script>
+        window.subject_id = 30175306;
+        window.join_label_text = '写影评参与';
+
+        window.topic_display_count = 4;
+        window.topic_item_display_count = 1;
+        window.no_content_fun_call_name = "no_topic";
+
+        window.guideNode = document.getElementById('topic-guide');
+        window.guideNodeClose = document.getElementById('topic-guide-close');
+    </script>
+    
+        <link rel="stylesheet" href="../../../https@img3.doubanio.com/f/ithildin/f731c9ea474da58c516290b3a6b1dd1237c07c5e/css/export/subject_topics.css">
+        <script src="../../../https@img3.doubanio.com/f/ithildin/d3590fc6ac47b33c804037a1aa7eec49075428c8/js/export/moment-with-locales-only-zh.js"></script>
+        <script src="../../../https@img3.doubanio.com/f/ithildin/c600fdbe69e3ffa5a3919c81ae8c8b4140e99a3e/js/export/subject_topics.js"></script>
+
+</section>
+
+    <script>
+        function no_topic(){
+            $('#content .topics').remove();
+        }
+    </script>
+</section>
+
+<section class="reviews mod movie-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review comment_btn "
+            data-isverify="False"
+            data-verify-url="../../../https@www.douban.com/accounts/phone/verify@redir=http_3A_2F_2Fmovie.douban.com_2Fsubject_2F30175306_2Fnew_review">
+            <span>我要写影评</span>
+        </a>
+        <h2>
+            追龙Ⅱ的影评 · · · · · ·
+            <span class="pl">( <a href="reviews">全部 266 条</a> )</span>
+        </h2>
+    </header>
+
+    
+
+<style>
+#gallery-topics-selection {
+  position: fixed;
+  width: 595px;
+  padding: 40px 40px 33px 40px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.2);
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+#gallery-topics-selection h1 {
+  font-size: 18px;
+  color: #007722;
+  margin-bottom: 36px;
+  padding: 0;
+  line-height: 28px;
+  font-weight: normal;
+}
+#gallery-topics-selection .gl_topics {
+  border-bottom: 1px solid #dfdfdf;
+  max-height: 298px;
+  overflow-y: scroll;
+}
+#gallery-topics-selection .topic {
+  margin-bottom: 24px;
+}
+#gallery-topics-selection .topic_name {
+  font-size: 15px;
+  color: #333;
+  margin: 0;
+  line-height: inherit;
+}
+#gallery-topics-selection .topic_meta {
+  font-size: 13px;
+  color: #999;
+}
+#gallery-topics-selection .topics_skip {
+  display: block;
+  cursor: pointer;
+  font-size: 16px;
+  color: #3377AA;
+  text-align: center;
+  margin-top: 33px;
+}
+#gallery-topics-selection .topics_skip:hover {
+  background: transparent;
+}
+#gallery-topics-selection .close_selection {
+  position: absolute;
+  width: 30px;
+  height: 20px;
+  top: 46px;
+  right: 40px;
+  background: #fff;
+  color: #999;
+  text-align: right;
+}
+#gallery-topics-selection .close_selection:hover{
+  background: #fff;
+  color: #999;
+}
+</style>
+
+
+
+
+        <div class="review_filter">
+            <a href="javascript:;;" class="cur" data-sort="">热门</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="time">最新</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="follow">好友</a href="javascript:;;">
+            
+        </div>
+
+
+        
+
+
+
+<div class="review-list  ">
+        
+    
+
+        
+    
+    <div data-cid="10225499">
+        <div class="main review-item" id="10225499">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/134527565/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u134527565-16.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/134527565/default.htm" class="name">优优飞扬</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2019-06-06" class="main-meta">2019-06-06 19:29:50</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10225499/default.htm">王晶，你谈钱的样子像网红脸一样谄媚</a></h2>
+
+                <div id="review_10225499_short" class="review-short" data-rid="10225499">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        《追龙》中，雷洛问伍世豪 ， 时势造英雄，一个时代，怎么可以没有一两个枭雄出现呢？是吧？ 和王晶的澳门风云系列不同，《追龙》的口碑挺不错，尝到胜利果实的王晶再接再厉，拍出了《追龙2》。 《追龙2》的主角不再是跛豪和雷洛，变成了龙志强——原型人物是悍匪张子强。 挂羊...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10225499-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10225499_full" class="hidden">
+                    <div id="review_10225499_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10225499" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10225499">
+                                129
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10225499" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10225499">
+                                20
+                        </span>
+                    </a>
+                    <a href="../../review/10225499/#comments" class="reply ">67回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10224713">
+        <div class="main review-item" id="10224713">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/2797131/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u2797131-5.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/2797131/default.htm" class="name">下一秒治好懒病</a>
+
+
+        <span content="2019-06-06" class="main-meta">2019-06-06 11:30:47</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10224713/default.htm">专访梁家辉：我也是努力那么多年才有今天，不然早就被淘汰</a></h2>
+
+                <div id="review_10224713_short" class="review-short" data-rid="10224713">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        此采访作于《追龙II》上映前。 每个人都说梁家辉是“影帝中的影帝”，只要主演名字是他的电影，给观众的第一印象就是“演技肯定没话说”。能做到这一步的演员，纵观整个华语电影圈，应该也不超过十个。 从业三十多年，他扮演的角色起码有快两百个，也把能拿的奖全都拿了好几次...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10224713-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10224713_full" class="hidden">
+                    <div id="review_10224713_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10224713" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10224713">
+                                51
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10224713" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10224713">
+                                3
+                        </span>
+                    </a>
+                    <a href="../../review/10224713/#comments" class="reply ">16回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10223391">
+        <div class="main review-item" id="10223391">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/nothingkitsch/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/u51931810-18.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/nothingkitsch/default.htm" class="name">nothing纳森</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2019-06-05" class="main-meta">2019-06-05 16:34:13</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10223391/default.htm">老酒一口闷</a></h2>
+
+                <div id="review_10223391_short" class="review-short" data-rid="10223391">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        人们常说：电影源于生活，但往往那些个聚集了各类高尖技术与影像的作品，也抵不上日常生活中那些个真实的故事，惊鸿一瞥让人难以忘记。在你我的日常左右，其实有着千万种不同的人生与剧情，而香港黑帮的故事，总是港片说不完的话题之一，作为香港最著名的绑匪，人称“世纪悍匪...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10223391-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10223391_full" class="hidden">
+                    <div id="review_10223391_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10223391" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10223391">
+                                58
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10223391" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10223391">
+                                13
+                        </span>
+                    </a>
+                    <a href="../../review/10223391/#comments" class="reply ">9回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10228615">
+        <div class="main review-item" id="10228615">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/154504197/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u154504197-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/154504197/default.htm" class="name">电影头条</a>
+
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2019-06-08" class="main-meta">2019-06-08 10:48:23</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10228615/default.htm">《追龙2》烂泥王晶扶不上墙</a></h2>
+
+                <div id="review_10228615_short" class="review-short" data-rid="10228615">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        6月6日，三部新片上映。 开分就约好了一起烂，就连掉分都掉得无比雷同。 《黑凤凰》，狠狠伤透条姐的心。 《追龙2》呢？ 王晶就是这种人，在你觉得他还不错的时候，他猝不及防给你一巴掌，又一巴掌，又一巴掌，一边打还一边骂： “说我不拍捞钱烂片了，你什么意思？！” 条姐看...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10228615-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10228615_full" class="hidden">
+                    <div id="review_10228615_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10228615" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10228615">
+                                60
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10228615" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10228615">
+                                7
+                        </span>
+                    </a>
+                    <a href="../../review/10228615/#comments" class="reply ">26回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10226411">
+        <div class="main review-item" id="10226411">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/2018008/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/u2018008-399.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/2018008/default.htm" class="name">今天小熊不吃糖</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-06-07" class="main-meta">2019-06-07 09:21:04</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10226411/default.htm">作为他的影迷，真心觉得：只要有他，就值得</a></h2>
+
+                <div id="review_10226411_short" class="review-short" data-rid="10226411">
+                    <div class="short-content">
+
+                        前两天看了《追龙Ⅱ》的首映，影片结束后，导演关智耀、梁家辉、林家栋等主创也来到现场了。 不得不说，梁家辉实在太有亲和力了，一进场就主动客串了主持人的岗位，贵为影帝的他满场飞，主动跑去给提问互动的影迷举话筒。 与偶像零距离的影迷因为太激动而语无伦次，甚至几次说...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10226411-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10226411_full" class="hidden">
+                    <div id="review_10226411_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10226411" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10226411">
+                                42
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10226411" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10226411">
+                                7
+                        </span>
+                    </a>
+                    <a href="../../review/10226411/#comments" class="reply ">11回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10228928">
+        <div class="main review-item" id="10228928">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/63760364/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u63760364-22.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/63760364/default.htm" class="name">阿卓</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-06-08" class="main-meta">2019-06-08 13:59:48</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10228928/default.htm">每个心生大志向的男人，心底都有一条追不到的龙</a></h2>
+
+                <div id="review_10228928_short" class="review-short" data-rid="10228928">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        不知道你听没听过这么一句话： 男人永远长不大，永远是男孩，只是他的玩具在变化。 是啊，男人好像就是看似坚强，实则脆弱的生物，他们喜欢的、追求的永远不能让女人们理解，甚至有时候偏执到自己都不理解，这种情况放到电影《追龙II》中再适合不过。 刚打开豆瓣电影介绍的时候...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10228928-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10228928_full" class="hidden">
+                    <div id="review_10228928_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10228928" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10228928">
+                                11
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10228928" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10228928">
+                                2
+                        </span>
+                    </a>
+                    <a href="../../review/10228928/#comments" class="reply ">2回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10227534">
+        <div class="main review-item" id="10227534">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/jundle/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u2206329-131.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/jundle/default.htm" class="name">盲忙</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-06-07" class="main-meta">2019-06-07 20:19:43</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10227534/default.htm">是时候追一条新龙了！</a></h2>
+
+                <div id="review_10227534_short" class="review-short" data-rid="10227534">
+                    <div class="short-content">
+
+                        走出电影院后，我赶快查看了一下这部片子的一些评论，因为实在是很好奇，这样一部制作水准完全在线，主要演员又大放异彩的片子，为何会面对评分如此大幅度下滑的悲惨遭遇？ 仔细看了一圈后发现，大部分差评几乎是如出一辙：都来自对于第一部的怀念。其实同样作为第一部的粉丝，...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10227534-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10227534_full" class="hidden">
+                    <div id="review_10227534_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10227534" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10227534">
+                                20
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10227534" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10227534">
+                                12
+                        </span>
+                    </a>
+                    <a href="../../review/10227534/#comments" class="reply ">8回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10225545">
+        <div class="main review-item" id="10225545">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/172587004/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u172587004-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/172587004/default.htm" class="name">老孙</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-06-06" class="main-meta">2019-06-06 20:14:00</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10225545/default.htm">追龙2粗品不过瘾，细品不能想，因为逻辑漏铜太大太多太糙。</a></h2>
+
+                <div id="review_10225545_short" class="review-short" data-rid="10225545">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        本文涉及主要剧透，请留意。 因为对追龙1的好感，所以在6月6日便看了追龙2，但虽然影片的主角大咖较1只多不少，给心灵带来的震撼却少了许多，乍一看风生水起，细一想乱七八糟，哎，王胖子果然不能值得太信任。 故事的主线，就是古天乐作为卧底，被警察上级任达华安排进大贼梁家...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10225545-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10225545_full" class="hidden">
+                    <div id="review_10225545_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10225545" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10225545">
+                                26
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10225545" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10225545">
+                                9
+                        </span>
+                    </a>
+                    <a href="../../review/10225545/#comments" class="reply ">34回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10224286">
+        <div class="main review-item" id="10224286">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/153490416/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u153490416-3.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/153490416/default.htm" class="name">庭槐</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2019-06-06" class="main-meta">2019-06-06 02:09:46</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10224286/default.htm">追龙II 一出政经大戏的古惑风</a></h2>
+
+                <div id="review_10224286_short" class="review-short" data-rid="10224286">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        欢迎关注电影评论公众号：“庭槐看电影”， 从不一样的角度解读电影 1. 蔡志雄 1991年11月，深圳，一个名叫蔡志雄的香港居民被人枪杀。至今他的死因，未有公开资料可查。 坊间传闻，他是香港O记（三合会和有组织犯罪调查科）卧底香港“大富豪”绑匪集团的线人。 杀他的人，叫叶...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10224286-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10224286_full" class="hidden">
+                    <div id="review_10224286_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10224286" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10224286">
+                                35
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10224286" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10224286">
+                                2
+                        </span>
+                    </a>
+                    <a href="../../review/10224286/#comments" class="reply ">8回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10236435">
+        <div class="main review-item" id="10236435">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/qsxiao/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u1170656-2.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/qsxiao/default.htm" class="name">萧秋水</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-06-11" class="main-meta">2019-06-11 13:44:01</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10236435/default.htm">以为追的是龙，结果是一条猪</a></h2>
+
+                <div id="review_10236435_short" class="review-short" data-rid="10236435">
+                    <div class="short-content">
+
+                        王晶真是位神人。当观众以为“烂片王”标签再也撕不掉的时候，他“Chua”的一下，甩出一部《追龙》，观众虽然被啪啪打脸，但还挺开心，然后当观众以为，王晶从此翻身了，他“Chua”的一下，甩出一部《追龙2》，那意思明摆了就是“我就是烂片王，你别不服气！” 烂片就烂片，但...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10236435-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10236435_full" class="hidden">
+                    <div id="review_10236435_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10236435" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10236435">
+                                13
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10236435" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10236435">
+                                1
+                        </span>
+                    </a>
+                    <a href="../../review/10236435/#comments" class="reply ">1回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    
+
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/4ddad84ff153836a.js"></script>
+    <!-- COLLECTED CSS -->
+</div>
+
+
+
+
+
+
+
+
+            <p class="pl">
+                &gt;
+                <a href="reviews">
+                    更多影评266篇
+                </a>
+            </p>
+</section>
+
+<!-- COLLECTED JS -->
+
+    <br/>
+
+        <div class="section-discussion">
+                
+                <div class="mod-hd">
+                        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow"><span>添加新讨论</span></a>
+                    
+    <h2>
+        讨论区
+         ······
+    </h2>
+
+                </div>
+                
+  <table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616362767/default.htm" title="预测波梁家辉金像影帝">预测波梁家辉金像影帝</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/167748520/default.htm">我可以我可以</a></td>
+          <td class="pl"><span></span></td>
+          <td class="pl"><span>2019-07-11</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616304263/default.htm" title="“说王晶必烂片”能体现优越感？">“说王晶必烂片”能体现优越感？</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/163334657/default.htm">秋水</a></td>
+          <td class="pl"><span>72 回应</span></td>
+          <td class="pl"><span>2019-07-10</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616359678/default.htm" title="龙志飞的人是谁？">龙志飞的人是谁？</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/158061091/default.htm">爱你3000次</a></td>
+          <td class="pl"><span></span></td>
+          <td class="pl"><span>2019-07-08</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616345726/default.htm" title="梁家辉安排他们吃榴莲的戏码没有呼应呢？">梁家辉安排他们吃榴莲的戏码没有呼应呢？</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/xf1127/default.htm">小风-男♂</a></td>
+          <td class="pl"><span>8 回应</span></td>
+          <td class="pl"><span>2019-07-05</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616332155/default.htm" title="关于剧情的几个疑问">关于剧情的几个疑问</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/133557246/default.htm">刚好经过</a></td>
+          <td class="pl"><span>10 回应</span></td>
+          <td class="pl"><span>2019-07-05</span></td>
+        </tr>
+  </table>
+
+                <p class="pl" align="right">
+                    <a href="discussion/default.htm" rel="nofollow">
+                        &gt; 去这部影片的讨论区（全部187条）
+                    </a>
+                </p>
+        </div>
+
+        
+    
+        
+                
+
+
+
+
+
+<div id="askmatrix">
+    <div class="mod-hd">
+        <h2>
+            关于《追龙Ⅱ》的问题
+            · · · · · ·
+            <span class="pl">
+                (<a href='questions/@from=subject'>
+                    全部3个
+                </a>)
+            </span>
+        </h2>
+
+
+        
+    
+    <a class='j a_show_login comment_btn'
+        href='questions/ask/@from=subject'>我来提问</a>
+
+    </div>
+
+    <div class="mod-bd">
+        <ul class="">
+            <li class="">
+                <span class="tit">
+                    <a href="questions/837331/@from=subject" class="">
+                            影片最后，何天明明有能力，为什么不直接抓了阿大？
+                    </a>
+                </span>
+                <span class="meta">
+                    1人回答
+                </span>
+            </li>
+            <li class="">
+                <span class="tit">
+                    <a href="questions/837354/@from=subject" class="">
+                            哪里能看啊？
+                    </a>
+                </span>
+                <span class="meta">
+                    0人回答
+                </span>
+            </li>
+        </ul>
+
+        <p>&gt;
+            <a href='questions/@from=subject'>
+                全部3个问题
+            </a>
+        </p>
+
+    </div>
+</div>
+
+
+
+            
+
+
+    <script type="text/javascript">
+        $(function(){if($.browser.msie && $.browser.version == 6.0){
+            var $info = $('#info'),
+                maxWidth = parseInt($info.css('max-width'));
+            if($info.width() > maxWidth) {
+                $info.width(maxWidth);
+            }
+        }});
+    </script>
+
+
+            </div>
+            <div class="aside">
+                
+
+
+    
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+<div class="ticket">
+        <a class="ticket-btn" href="../../ticket/redirect/@url=https_253A_252F_252Fm.maoyan.com_252Fcinema_252Fmovie_252F1218215_253F_v__253Dyes%26merCode_253D1000011">购票</a>
+</div>
+
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_top_right"></div>
+    <div id="dale_movie_subject_top_middle"></div>
+    <!-- douban ad end -->
+
+    
+
+
+
+<style type="text/css">
+    .m4 {margin-bottom:8px; padding-bottom:8px;}
+    .movieOnline {background:#FFF6ED; padding:10px; margin-bottom:20px;}
+    .movieOnline h2 {margin:0 0 5px;}
+    .movieOnline .sitename {line-height:2em; width:160px;}
+    .movieOnline td,.movieOnline td a:link,.movieOnline td a:visited{color:#666;}
+    .movieOnline td a:hover {color:#fff;}
+    .link-bt:link,
+    .link-bt:visited,
+    .link-bt:hover,
+    .link-bt:active {margin:5px 0 0; padding:2px 8px; background:#a8c598; color:#fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; display:inline-block;}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+    
+    <div class="tags">
+        
+        
+    <h2>
+        <i class="">豆瓣成员常用的标签</i>
+             ······
+    </h2>
+
+        <div class="tags-body">
+                <a href="../../tag/_25E9_25A6_2599_25E6_25B8_25AF" class="">香港</a>
+                <a href="../../tag/_25E7_258A_25AF_25E7_25BD_25AA" class="">犯罪</a>
+                <a href="../../tag/_25E8_25AD_25A6_25E5_258C_25AA" class="">警匪</a>
+                <a href="../../tag/2019" class="">2019</a>
+                <a href="../../tag/_25E5_258A_25A8_25E4_25BD_259C" class="">动作</a>
+                <a href="../../tag/_25E9_25BB_2591_25E5_25B8_25AE" class="">黑帮</a>
+                <a href="../../tag/_25E5_2589_25A7_25E6_2583_2585" class="">剧情</a>
+                <a href="../../tag/_25E6_2582_25AC_25E7_2596_2591" class="">悬疑</a>
+        </div>
+    </div>
+
+
+    <div id="dale_movie_review_right_guess_you_like"></div>
+    <div id="dale_movie_subject_inner_middle"></div>
+    <div id="dale_movie_subject_download_middle"></div>
+        
+
+
+
+
+
+
+
+
+<div id="subject-doulist">
+    
+    
+    <h2>
+        <i class="">以下豆列推荐</i>
+             ······
+            <span class="pl">
+            (
+                <a href="doulists">全部</a>
+            )
+            </span>
+    </h2>
+
+
+    
+    <ul>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/1434921/default.htm" target="_blank">2019—2021值得关注的华语电影</a>
+                <span>(closer)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/45651535/default.htm" target="_blank">烂片大全</a>
+                <span>(liubinyan)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/1712634/default.htm" target="_blank">一定要看</a>
+                <span>(老杜)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/43811080/default.htm" target="_blank">2019年观影计划</a>
+                <span>(隐身的包包)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/3398910/default.htm" target="_blank">从2014到2019，我都看了些什么</a>
+                <span>(10)</span>
+            </li>
+    </ul>
+
+</div>
+
+            
+
+
+
+
+
+
+
+
+<div id="subject-others-interests">
+    
+    
+    <h2>
+        <i class="">谁在看这部电影</i>
+             ······
+    </h2>
+
+    
+    <ul class="">
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/197933678/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u197933678-1.jpg" class="pil" alt="疯宝宝">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/197933678/default.htm" class="">疯宝宝</a>
+                    <div class="">
+                        4分钟前
+                        看过
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/197933065/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u197933065-1.jpg" class="pil" alt="我是凹凸曼">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/197933065/default.htm" class="">我是凹凸曼</a>
+                    <div class="">
+                        4分钟前
+                        看过
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/138705667/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u138705667-1.jpg" class="pil" alt="Handsome臭臭">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/138705667/default.htm" class="">Handsome臭臭</a>
+                    <div class="">
+                        6分钟前
+                        想看
+                        
+                    </div>
+                </div>
+            </li>
+    </ul>
+
+    
+    <div class="subject-others-interests-ft">
+        
+            <a href="collections">36692人看过</a>
+                &nbsp;/&nbsp;
+            <a href="wishes">23149人想看</a>
+    </div>
+
+</div>
+
+
+
+    
+    
+
+<!-- douban ad begin -->
+<div id="dale_movie_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+
+    <br/>
+
+    
+<p class="pl">订阅追龙Ⅱ的评论: <br/><span class="feed">
+    <a href="../../feed/subject/30175306/reviews"> feed: rss 2.0</a></span></p>
+
+
+            </div>
+            <div class="extra">
+                
+    
+<!-- douban ad begin -->
+<div id="dale_movie_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2019 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="../../../https@www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="../../../https@www.douban.com/about">关于豆瓣</a>
+    · <a href="../../../https@www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="../../../https@www.douban.com/about@topic=contactus">联系我们</a>
+    · <a href="../../../https@www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="../../../https@help.douban.com/@app=movie" target="_blank">帮助中心</a>
+    · <a href="../../../https@www.douban.com/doubanapp/default.htm">移动应用</a>
+    · <a href="../../../https@www.douban.com/partner/default.htm">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/288d73d666add9c6.js"></script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/movie/4aca95d66d37ec0712b3d19973b5d8feb75f2f05/css/movie/mod/reg_login_pop.css" />
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB='../../../https@www.douban.com';
+var account_pop={open:function(o,e){e?referrer="@referrer="+encodeURIComponent(e):referrer="@referrer="+window.location.href;var n="",i="",t=448;n="用户登录",i="../../../https@accounts.douban.com/passport/login_popup@source=movie";var r=document.location.protocol+"//"+document.location.hostname,a=dui.Dialog({width:340,title:n,height:t,cls:"account_pop",isHideTitle:!0,modal:!0,content:"<iframe scrolling='no' frameborder='0' width='340' height='"+t+"' src='"+i+"' name='"+r+"'></iframe>"},!0),c=a.node;if(c.undelegate(),c.delegate(".dui-dialog-close","click",function(){var o=$("body");o.find("#login_msk").hide(),o.find(".account_pop").remove()}),$(window).width()<478){var d="";"reg"===o?d=HTTPS_DB+"/accounts/register"+referrer:"login"===o&&(d=HTTPS_DB+"/accounts/login"+referrer),window.location.href=d}else a.open();$(window).bind("message",function(o){"https://accounts.douban.com"===o.originalEvent.origin&&(c.find("iframe").css("height",o.originalEvent.data),c.height(o.originalEvent.data),a.update())})}};Douban&&Douban.init_show_login&&(Douban.init_show_login=function(o){var e=$(o);e.click(function(){var o=e.data("ref")||"";return account_pop.open("login",o),!1})}),Do(function(){$("body").delegate(".pop_register","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("reg",e),!1}),$("body").delegate(".pop_login","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("login",e),!1})});
+    </script>
+
+    
+    
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '../../../https@erebor.douban.com/default.htm',
+            userId = '',
+            browserId = 'Ez1QlPiK8rc',
+            criteria = '7:王敏德|7:犯罪|7:秦煌|7:动作|7:暴力|7:叶项明|7:剧情|7:关智耀|7:黑帮|7:王晶|7:旧时代|7:杜江|7:2019|7:林家栋|7:警匪|7:黄竣锋|7:邱意浓|7:陈伟雄|7:余安安|7:王宝葆|7:悬疑|7:任达华|7:罗永昌|7:韦家雄|7:古天乐|7:梁家辉|7:香港|3_3A/subject/30175306/@from=showing',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_top_icon', 'dale_movie_subject_top_right', 'dale_movie_subject_top_middle', 'dale_movie_subject_inner_middle', 'dale_movie_subject_download_middle', 'dale_movie_review_right_guess_you_like'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '../../../https@img3.doubanio.com/f/adjs/5ec0e90cac83524d8c3e7f7bf95260c9c1875bca/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'_3A//img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? '../../../https@ssl' : '../../../www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+      
+    
+
+    <!-- brand30-docker-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+

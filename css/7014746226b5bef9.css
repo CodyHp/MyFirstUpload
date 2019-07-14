@@ -1,0 +1,37 @@
+
+    .icon-on-air{
+        font-size:12px;
+        margin-left:15px;
+        background-color:#71B5DE;
+        color:#fff;
+        padding:3px 5px;
+        border-radius:3px;
+        white-space: nowrap;
+    }
+
+      html .pl { white-space: normal; }
+    
+    .types {
+        margin-bottom: 20px
+    }
+    .types span {
+        display: inline-block;
+        margin: 5px 10px 5px 0;
+        min-width: 36px;
+    }
+  
+        .box_chart_num {
+            font-size: 11px;
+            color: #494949;
+        }
+    
+        .movie_top ul li div.name { width: 240px; }
+    
+    .mobile-app-entrance{margin-bottom:25px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}.mobile-app-entrance .entrance-link{display:block;height:80px;margin-top:20px;outline:none;color:#4e4e4e;background:#fafafa;overflow:hidden}.mobile-app-entrance .entrance-qrcode{float:left}.mobile-app-entrance .app-icon{width:77px;height:96px;float:left;margin-right:3px;background:url(../../f/movie/42fcc5d1dffcfb74f8cbcb5001e022ca0fa70c98/pics/movie/douban_app_ad/logo.png) no-repeat;background-size:contain;margin-top:-5px}.mobile-app-entrance .main-title,.mobile-app-entrance .sub-title{display:block;font-size:14px;padding-top:2px}.mobile-app-entrance .main-title{color:#111;font-size:18px;font-weight:bold;line-height:1;padding-top:20px;font-weight:400}.mobile-app-entrance .main-title span{color:#888;font-weight:100;margin-left:5px}
+
+
+        #douban-top250 h2 span{font-size:12px;margin-left:12px;}
+        #douban-top250 .douban-top250-bd{font-size:0;letter-spacing:-0.31em;*letter-spacing:normal;}
+        #douban-top250 dl{font-size:13px;display:inline-block;*display:inline;zoom:1;letter-spacing:normal;text-align:center;width:75px;overflow:hidden;vertical-align:top;margin:0 0 10px 0;}
+        #douban-top250 dt{width:65px;margin:0 auto 8px;height:100px;overflow:hidden;}
+    

@@ -1,0 +1,3017 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ie10">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+        超时空同居 (豆瓣)
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+    <link rel="apple-touch-icon" href="../../../https@img3.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="../../../https@img3.doubanio.com/f/shire/52c9997d6d42db58eab418e976a14d5f3eff981e/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/shire/ae3f5a3e3085968370b1fc63afcecb22d3284848/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/movie/8864d3756094f5272d3c93e30ee2e324665855b0/css/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/0495cb173e298c28593766009c7b0a953246c5b5/js/movie/lib/jquery.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/1316664523258f7b8b536e4ce45afc9cb37b8963/js/douban.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/0efdc63b77f895eaf85281fb0e44d435c6239a3f/js/separation/_all.js"></script>
+    
+    <meta name="keywords" content="超时空同居,超时空同居,超时空同居影评,剧情介绍,电影图片,预告片,影讯,在线购票,论坛">
+    <meta name="description" content="超时空同居电影简介和剧情介绍,超时空同居影评、图片、预告片、影讯、论坛、在线购票">
+    <meta name="mobile-agent" content="format=html5; url=../../../m.douban.com/movie/subject/27133303/default.htm"/>
+    <link rel="alternate" href="android-app_3A//com.douban.movie/doubanmovie/subject/27133303/default.htm" />
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/dae/cdnlib/libs/LikeButton/1.0.5/style.min.css">
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript">
+      Do.add('dialog', {path: '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js', type: 'js'});
+      Do.add('dialog-css', {path: '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css', type: 'css'});
+      Do.add('handlebarsjs', {path: '../../../https@img3.doubanio.com/f/movie/3d4f8e4a8918718256450eb6e57ec8e1f7a2e14b/js/movie/lib/handlebars.current.js', type: 'js'});
+    </script>
+    
+  <script type='text/javascript'>
+  var _vwo_code = (function() {
+    var account_id = 249272,
+      settings_tolerance = 0,
+      library_tolerance = 2500,
+      use_existing_jquery = false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('../../../https@dev.visualwebsiteoptimizer.com/j.php@a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());
+
+  +function () {
+    var bindEvent = function (el, type, handler) {
+        var $ = window.jQuery || window.Zepto || window.$
+       if ($ && $.fn && $.fn.on) {
+           $(el).on(type, handler)
+       } else if($ && $.fn && $.fn.bind) {
+           $(el).bind(type, handler)
+       } else if (el.addEventListener){
+         el.addEventListener(type, handler, false);
+       } else if (el.attachEvent){
+         el.attachEvent("on" + type, handler);
+       } else {
+         el["on" + type] = handler;
+       }
+     }
+
+    var _origin_load = _vwo_code.load
+    _vwo_code.load = function () {
+      var args = [].slice.call(arguments)
+      bindEvent(window, 'load', function () {
+        _origin_load.apply(_vwo_code, args)
+      })
+    }
+  }()
+
+  _vwo_settings_timer = _vwo_code.init();
+  </script>
+
+
+    
+
+
+<script type="application/ld+json">
+{
+  "@context": "../../../schema.org",
+  "name": "超时空同居",
+  "url": "default.htm",
+  "image": "../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2520331478.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1331887/default.htm",
+      "name": "苏伦 Lun Su"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1331887/default.htm",
+      "name": "苏伦 Lun Su"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1352301/default.htm",
+      "name": "刘迟 Chi Liu"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1312940/default.htm",
+      "name": "雷佳音 Jiayin Lei"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1275756/default.htm",
+      "name": "佟丽娅 Liya Tong"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1325751/default.htm",
+      "name": "张衣 Yi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1313742/default.htm",
+      "name": "于和伟 Hewei Yu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1394280/default.htm",
+      "name": "王正佳 Zhengjia Wang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1015199/default.htm",
+      "name": "陶虹 Hong Tao"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1274508/default.htm",
+      "name": "李念 Nian Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1275178/default.htm",
+      "name": "李光洁 Guangjie Li"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1321825/default.htm",
+      "name": "杨玏 Le Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1274655/default.htm",
+      "name": "范明 Ming Fan"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1274297/default.htm",
+      "name": "徐峥 Zheng Xu"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1317329/default.htm",
+      "name": "杨迪 Di Yang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1350679/default.htm",
+      "name": "方龄 Ling Fang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1391980/default.htm",
+      "name": "陈昊 Hao Chen"
+    }
+  ]
+,
+  "datePublished": "2018-05-18",
+  "genre": ["\u559c\u5267", "\u7231\u60c5", "\u5947\u5e7b"],
+  "duration": "PT1H41M",
+  "description": "生活在2018年的大龄女青年谷小焦（佟丽娅 饰），梦想能够嫁一个能买得起她幼时豪宅的有钱人，却屡屡受挫，只能蜗居在一栋老居民楼里。生活在1999年的陆鸣（雷佳音 饰）手握着自己设计的宏伟蓝图，却始终找...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "370233",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.9"
+  }
+}
+</script>
+
+
+    <style type="text/css">
+  
+</style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/3ec890df550a76f7.css">
+
+    <link rel="shortcut icon" href="../../../https@img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="../../../https@accounts.douban.com/passport/login@source=movie" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="../../../https@www.douban.com/doubanapp/app@channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="../../../https@www.douban.com/doubanapp/app@channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="../../../https@www.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="../../../https@book.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="../../default.htm"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="../../../https@music.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="../../../https@read.douban.com/@dcs=top-nav&dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="../../../https@douban.fm/@from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="../../../https@time.douban.com/@dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="../../../https@market.douban.com/@utm_campaign=douban_top_nav&utm_source=douban&utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="../../../https@ypy.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "../../../https@www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https_3A//movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;movie.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="../../cinema/nowplaying/default.htm"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="../../explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="../../tv/default.htm"
+     >电视剧</a>
+    </li>
+    <li    ><a href="../../chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="../../tag/default.htm"
+     >分类</a>
+    </li>
+    <li    ><a href="../../review/best/default.htm"
+     >影评</a>
+    </li>
+    <li    ><a href="../../annual/2018@source=navigation"
+     >2018年度榜单</a>
+    </li>
+    <li    ><a href="../../../https@www.douban.com/standbyme/2018@source=navigation"
+     >2018书影音报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="../../annual/2018@source=movie_navigation" class="movieannual2018"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+
+    <div id="dale_movie_subject_top_icon"></div>
+    <h1>
+        <span property="v:itemreviewed">超时空同居</span>
+            <span class="year">(2018)</span>
+    </h1>
+
+        <div class="grid-16-8 clearfix">
+            
+
+            
+            <div class="article">
+                
+    
+
+    
+
+
+
+
+
+        <div class="indent clearfix">
+            <div class="subjectwrap clearfix">
+                <div class="subject clearfix">
+                    
+
+
+
+<div id="mainpic" class="">
+    <a class="nbgnbg" href="photos@type=R" title="点击看更多海报">
+        <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2520331478.jpg" title="点击看更多海报" alt="超时空同居" rel="v:image" />
+   </a>
+</div>
+
+                    
+
+
+<div id="info">
+        <span ><span class='pl'>导演</span>: <span class='attrs'><a href="../../celebrity/1331887/default.htm" rel="v:directedBy">苏伦</a></span></span><br/>
+        <span ><span class='pl'>编剧</span>: <span class='attrs'><a href="../../celebrity/1331887/default.htm">苏伦</a></span></span><br/>
+        <span class="actor"><span class='pl'>主演</span>: <span class='attrs'><a href="../../celebrity/1312940/default.htm" rel="v:starring">雷佳音</a> / <a href="../../celebrity/1275756/default.htm" rel="v:starring">佟丽娅</a> / <a href="../../celebrity/1325751/default.htm" rel="v:starring">张衣</a> / <a href="../../celebrity/1313742/default.htm" rel="v:starring">于和伟</a> / <a href="../../celebrity/1394280/default.htm" rel="v:starring">王正佳</a> / <a href="../../celebrity/1015199/default.htm" rel="v:starring">陶虹</a> / <a href="../../celebrity/1274508/default.htm" rel="v:starring">李念</a> / <a href="../../celebrity/1275178/default.htm" rel="v:starring">李光洁</a> / <a href="../../celebrity/1321825/default.htm" rel="v:starring">杨玏</a> / <a href="../../celebrity/1274655/default.htm" rel="v:starring">范明</a> / <a href="../../celebrity/1274297/default.htm" rel="v:starring">徐峥</a> / <a href="../../celebrity/1317329/default.htm" rel="v:starring">杨迪</a> / <a href="../../celebrity/1350679/default.htm" rel="v:starring">方龄</a> / <a href="../../celebrity/1391980/default.htm" rel="v:starring">陈昊</a></span></span><br/>
+        <span class="pl">类型:</span> <span property="v:genre">喜剧</span> / <span property="v:genre">爱情</span> / <span property="v:genre">奇幻</span><br/>
+        
+        <span class="pl">制片国家/地区:</span> 中国大陆<br/>
+        <span class="pl">语言:</span> 汉语普通话<br/>
+        <span class="pl">上映日期:</span> <span property="v:initialReleaseDate" content="2018-05-18(中国大陆)">2018-05-18(中国大陆)</span><br/>
+        <span class="pl">片长:</span> <span property="v:runtime" content="101">101分钟</span><br/>
+        <span class="pl">又名:</span> 口袋宇宙 / How Long Will I Love U<br/>
+        <span class="pl">IMDb链接:</span> <a href="../../../www.imdb.com/title/tt8404272" target="_blank" rel="nofollow">tt8404272</a><br>
+
+</div>
+
+
+
+
+                </div>
+                    
+
+
+<div id="interest_sectl">
+    <div class="rating_wrap clearbox" rel="v_3Arating">
+        <div class="clearfix">
+          <div class="rating_logo ll">豆瓣评分</div>
+          <div class="output-btn-wrap rr" style="display:none">
+            <img src="../../../https@img3.doubanio.com/f/movie/692e86756648f29457847c5cc5e161d6f6b8aaac/pics/movie/reference.png" />
+            <a class="download-output-image" href="#">引用</a>
+          </div>
+          
+          
+        </div>
+        
+
+
+
+<div class="rating_self clearfix" typeof="v:Rating">
+    <strong class="ll rating_num" property="v:average">6.9</strong>
+    <span property="v:best" content="10.0"></span>
+    <div class="rating_right ">
+        <div class="ll bigstar bigstar35"></div>
+        <div class="rating_sum">
+                <a href="collections" class="rating_people">
+                    <span property="v:votes">370234</span>人评价
+                </a>
+        </div>
+    </div>
+</div>
+<div class="ratings-on-weight">
+    
+        <div class="item">
+        
+        <span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+        <div class="power" style="width:11px"></div>
+        <span class="rating_per">8.2%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+        <div class="power" style="width:48px"></div>
+        <span class="rating_per">36.0%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars3 starstop" title="还行">
+            3星
+        </span>
+        <div class="power" style="width:64px"></div>
+        <span class="rating_per">47.1%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars2 starstop" title="较差">
+            2星
+        </span>
+        <div class="power" style="width:10px"></div>
+        <span class="rating_per">7.6%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars1 starstop" title="很差">
+            1星
+        </span>
+        <div class="power" style="width:1px"></div>
+        <span class="rating_per">1.1%</span>
+        <br />
+        </div>
+</div>
+
+    </div>
+        <div class="rating_betterthan">
+            好于 <a href="../../typerank@type_name=_25E5_2596_259C_25E5_2589_25A7&type=24&interval_id=55_3A45&action=">51% 喜剧片</a><br/>
+            好于 <a href="../../typerank@type_name=_25E7_2588_25B1_25E6_2583_2585&type=13&interval_id=50_3A40&action=">47% 爱情片</a><br/>
+        </div>
+</div>
+
+
+                
+            </div>
+                
+
+
+
+
+<div id="interest_sect_level" class="clearfix">
+        
+            <a href="../../../https@www.douban.com/reason=collectwish&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-27133303-wish">
+                <span>想看</span>
+            </a>
+            <a href="../../../https@www.douban.com/reason=collectcollect&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-27133303-collect">
+                <span>看过</span>
+            </a>
+        <div class="ll j a_stars">
+            
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="../../../https@img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="../../../https@img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover_402x.png" data-hollow-2x="../../../https@img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover_402x.png">
+
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-27133303-1">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-27133303-2">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-27133303-3">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-27133303-4">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-27133303-5">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+        </div>
+    
+
+</div>
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        
+    
+        
+                <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/cc03d0fcf32b7ce3af7b160a0b85e5e66b47cc42/pics/short-comment.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_cmnt_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写短评</a>
+ </li>
+                    <li> 
+    
+    <img src="../../../https@img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_rv_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写影评</a>
+ </li>
+                    <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/61cc48ba7c40e0272d46bb93fe0dc514f3b71ec5/pics/add-doulist.gif" />&nbsp;
+    <a class="" href="questions/ask@from=subject_top">提问题</a>
+ </li>
+                <li> 
+    
+
+
+
+ </li>
+                <li> 
+   
+
+   
+    
+    <span class="rec" id="电影-27133303">
+    <a href= "#"
+        data-type="电影"
+        data-url="default.htm"
+        data-desc="电影《超时空同居》 (来自豆瓣) "
+        data-title="电影《超时空同居》 (来自豆瓣) "
+        data-pic="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520331478.jpeg"
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </span>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = '../../../https@img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('../../../https@img3.doubanio.com/f/movie/32be6727ed3ad8f6c4a417d8a086355c3e7d1d27/js/movie/lib/sharebutton.js');
+    </script>
+
+
+  </li>
+            
+
+    </ul>
+
+    <script type="text/javascript">
+        $(function(){
+            $(".ul_subject_menu li.rec .bn-sharing").bind("click", function(){
+                $.get("../../blank@sbj_page_click=bn_sharing");
+            });
+            $(".ul_subject_menu .create_from_menu").bind("click", function(e){
+                e.preventDefault();
+                var $el = $(this);
+                var glRoot = document.getElementById('gallery-topics-selection');
+                if (window.has_gallery_topics && glRoot) {
+                    // 判断是否有话题
+                    glRoot.style.display = 'block';
+                } else {
+                    location.href = $el.attr('href');
+                }
+            });
+        });
+    </script>
+</div>
+
+
+
+
+                
+
+
+
+
+
+<div class="rec-sec">
+<span class="rec">
+    <script id="movie-share" type="text/x-html-snippet">
+        
+    <form class="movie-share" action="../../j/share" method="POST">
+        <div class="clearfix form-bd">
+            <div class="input-area">
+                <textarea name="text" class="share-text" cols="72" data-mention-api="https://api.douban.com/shuo/in/complete?alt=xd&amp;callback=?"></textarea>
+                <input type="hidden" name="target-id" value="27133303">
+                <input type="hidden" name="target-type" value="0">
+                <input type="hidden" name="title" value="超时空同居‎ (2018)">
+                <input type="hidden" name="desc" value="导演 苏伦 主演 雷佳音 / 佟丽娅 / 中国大陆 / 6.9分(370234评价)">
+                <input type="hidden" name="redir" value=""/>
+                <div class="mentioned-highlighter"></div>
+            </div>
+
+            <div class="info-area">
+                    <img class="media" src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2520331478.jpg" />
+                <strong>超时空同居‎ (2018)</strong>
+                <p>导演 苏伦 主演 雷佳音 / 佟丽娅 / 中国大陆 / 6.9分(370234评价)</p>
+                <p class="error server-error">&nbsp;</p>
+            </div>
+        </div>
+        <div class="form-ft">
+            <div class="form-ft-inner">
+                
+
+
+
+                <span class="avail-num-indicator">140</span>
+                <span class="bn-flat">
+                    <input type="submit" value="推荐" />
+                </span>
+            </div>
+        </div>
+    </form>
+    
+    <div id="suggest-mention-tmpl" style="display:none;">
+        <ul>
+            {{#users}}
+            <li id="{{uid}}">
+              <img src="{{avatar}}">{{{username}}}&nbsp;<span>({{{uid}}})</span>
+            </li>
+            {{/users}}
+        </ul>
+    </div>
+
+
+    </script>
+
+        
+        <a href="../../accounts/register@reason=recommend"  class="j a_show_login lnk-sharing" share-id="27133303" data-mode="plain" data-name="超时空同居‎ (2018)" data-type="movie" data-desc="导演 苏伦 主演 雷佳音 / 佟丽娅 / 中国大陆 / 6.9分(370234评价)" data-href="https://movie.douban.com/subject/27133303/" data-image="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520331478.jpg" data-properties="{}" data-redir="" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1002" data-object_id="27133303" data-target_type="rec" data-target_action="0" data-action_props="{&#34;subject_url&#34;:&#34;https:\/\/movie.douban.com\/subject\/27133303\/&#34;,&#34;subject_title&#34;:&#34;超时空同居‎ (2018)&#34;}">推荐</a>
+</span>
+
+
+</div>
+
+
+
+
+
+
+            <script type="text/javascript">
+                $(function() {
+                    $('.collect_btn', '#interest_sect_level').each(function() {
+                        Douban.init_collect_btn(this);
+                    });
+                    $('html').delegate(".indent .rec-sec .lnk-sharing", "click", function() {
+                        moreurl(this, {
+                            from : 'mv_sbj_db_share'
+                        });
+                    });
+                });
+            </script>
+        </div>
+            
+
+
+    <div id="collect_form_27133303"></div>
+
+
+        
+
+
+
+<div class="related-info" style="margin-bottom:-10px;">
+    <a name="intro"></a>
+    
+        
+            
+            
+    <h2>
+        <i class="">超时空同居的剧情简介</i>
+             ······
+    </h2>
+
+            <div class="indent" id="link-report">
+                    
+                        <span property="v:summary" class="">
+                                　　生活在2018年的大龄女青年谷小焦（佟丽娅 饰），梦想能够嫁一个能买得起她幼时豪宅的有钱人，却屡屡受挫，只能蜗居在一栋老居民楼里。生活在1999年的陆鸣（雷佳音 饰）手握着自己设计的宏伟蓝图，却始终找不到投资人，同时也面临重大的事业危机。奇怪的时刻来临了，失意的两个人回到家中居然发生了惊人的一幕，同一扇门关上后居然是两个时空的交汇点，两个不同时空的人相遇了，为了拯救自己的未来，两人共商大计，开启了幻想一夜暴富的一系列措施，引发了啼笑皆非的连锁反应。而他们不知道的是，两个时空的重叠是人为的操控，他们每走一步都会引发不可预知的结果，更要命的事，本来只是视对方为赚钱拍档的两人引发了爱的火花……
+                        </span>
+                        <span class="pl"><a href="../../help/movie#t0-qs">&copy;豆瓣</a></span>
+            </div>
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+<div id="celebrities" class="celebrities related-celebrities">
+
+  
+    <h2>
+        <i class="">超时空同居的演职员</i>
+             ······
+            <span class="pl">
+            (
+                <a href="celebrities">全部 20</a>
+            )
+            </span>
+    </h2>
+
+
+  <ul class="celebrities-list from-subject __oneline">
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1331887/default.htm" title="苏伦 Lun Su" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1520837465.56.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1331887/default.htm" title="苏伦 Lun Su" class="name">苏伦</a></span>
+
+      <span class="role" title="导演">导演</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1312940/default.htm" title="雷佳音 Jiayin Lei" class="has-account">
+      <div class="avatar has-account" style="background-image: url(../../../https@img3.doubanio.com/f/movie/14960825e118267b5857fc0ae9f306ef8c74da8f/pics/movie/has_douban_402x.png), url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503986232.61.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1312940/default.htm" title="雷佳音 Jiayin Lei" class="name">雷佳音</a></span>
+
+      <span class="role" title="饰 陆鸣 / 陆石屹">饰 陆鸣 / 陆石屹</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1275756/default.htm" title="佟丽娅 Liya Tong" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1367210981.95.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1275756/default.htm" title="佟丽娅 Liya Tong" class="name">佟丽娅</a></span>
+
+      <span class="role" title="饰 谷小焦">饰 谷小焦</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1325751/default.htm" title="张衣 Yi Zhang" class="">
+      <div class="avatar" style="background-image: url(../../../https@img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1499435823.67.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1325751/default.htm" title="张衣 Yi Zhang" class="name">张衣</a></span>
+
+      <span class="role" title="饰 赵俊以">饰 赵俊以</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1313742/default.htm" title="于和伟 Hewei Yu" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1365451897.03.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1313742/default.htm" title="于和伟 Hewei Yu" class="name">于和伟</a></span>
+
+      <span class="role" title="饰 博士">饰 博士</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1394280/default.htm" title="王正佳 Zhengjia Wang" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/prGKuanH-X2Qcel_avatar_uploaded1527477291.23.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1394280/default.htm" title="王正佳 Zhengjia Wang" class="name">王正佳</a></span>
+
+      <span class="role" title="饰 谷琪祥">饰 谷琪祥</span>
+
+    </div>
+  </li>
+
+
+  </ul>
+</div>
+
+
+    
+
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/f/verify/16c7e943aee3b1dc6d65f600fcc0f6d62db7dfb4/entry_creator/dist/author_subject/style.css">
+<div id="author_subject" class="author-wrapper">
+    <div class="loading"></div>
+</div>
+<script type="text/javascript">
+    var answerObj = {
+      ISALL: 'False',
+      TYPE: 'movie',
+      SUBJECT_ID: '27133303',
+      USER_ID: 'None'
+    }
+</script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/61252f2f9b35f08b37f69d17dfe48310dd295347/js/movie/lib/react/15.4/bundle.js"></script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/verify/ac140ef86262b845d2be7b859e352d8196f3f6d4/entry_creator/dist/author_subject/index.js"></script>
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    <div id="related-pic" class="related-pic">
+        
+    
+    
+    <h2>
+        <i class="">超时空同居的视频和图片</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="trailer#trailer">预告片19</a>&nbsp;|&nbsp;<a href="trailer#short_video">视频评论1</a>&nbsp;·&nbsp;<a href="../../video/create@subject_id=27133303">添加</a>&nbsp;|&nbsp;<a href="all_photos">图片548</a>&nbsp;·&nbsp;<a href="mupload">添加</a>
+            )
+            </span>
+    </h2>
+
+
+        <ul class="related-pic-bd  wide_videos">
+                <li class="label-trailer">
+                    <a class="related-pic-video" href="../../trailer/231093/#content" title="预告片" style="background-image:url(../../../https@img1.doubanio.com/img/trailer/medium/2522332957.jpg@)">
+                    </a>
+                </li>
+                
+                <li class="label-short-video">
+                    <a class="related-pic-video" href="../../video/100628/default.htm" title="视频评论" style="background-image:url(../../../https@img3.doubanio.com/view/photo/photo/public/p2527727840.jpg@)">
+                    </a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2518233127/default.htm"><img src="../../../https@img1.doubanio.com/view/photo/sqxs/public/p2518233127.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2522329854/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2522329854.jpg" alt="图片" /></a>
+                </li>
+        </ul>
+    </div>
+
+
+
+
+    
+    
+
+
+
+<style type="text/css">
+.award li { display: inline; margin-right: 5px }
+.awards { margin-bottom: 20px }
+.awards h2 { background: none; color: #000; font-size: 14px; padding-bottom: 5px; margin-bottom: 8px; border-bottom: 1px dashed #dddddd }
+.awards .year { color: #666666; margin-left: -5px }
+.mod { margin-bottom: 25px }
+.mod .hd { margin-bottom: 10px }
+.mod .hd h2 {margin:24px 0 3px 0}
+</style>
+
+
+<div class="mod">
+    <div class="hd">
+        
+    <h2>
+        <i class="">超时空同居的获奖情况</i>
+             ······
+            <span class="pl">
+            (
+                <a href="awards/default.htm">全部</a>
+            )
+            </span>
+    </h2>
+
+    </div>
+        
+        <ul class="award">
+            <li>
+                <a href="../../awards/siff/21/default.htm">第21届上海国际电影节</a>
+            </li>
+            <li>电影频道传媒大奖 最受传媒关注女主角</li>
+            <li><a href='../../celebrity/1275756/default.htm' target='_blank'>佟丽娅</a></li>
+        </ul>
+        
+        <ul class="award">
+            <li>
+                <a href="../../awards/huabiao/17/default.htm">第17届中国电影华表奖</a>
+            </li>
+            <li>优秀女演员奖(提名)</li>
+            <li><a href='../../celebrity/1275756/default.htm' target='_blank'>佟丽娅</a></li>
+        </ul>
+        
+        <ul class="award">
+            <li>
+                <a href="../../awards/bcsff/26/default.htm">第26届北京大学生电影节</a>
+            </li>
+            <li>最佳编剧奖</li>
+            <li><a href='../../celebrity/1331887/default.htm' target='_blank'>苏伦</a></li>
+        </ul>
+</div>
+
+    
+
+
+
+
+
+
+
+
+    <div id="recommendations" class="">
+        
+        
+    <h2>
+        <i class="">喜欢这部电影的人也喜欢</i>
+             ······
+    </h2>
+
+        
+    
+    <div class="recommendations-bd">
+        <dl class="">
+            <dt>
+                <a href="../27038183/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2499793218.jpg" alt="羞羞的铁拳" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27038183/@from=subject-page" class="" >羞羞的铁拳</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27605698/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2529206747.jpg" alt="西虹市首富" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27605698/@from=subject-page" class="" >西虹市首富</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../25964071/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2264377763.jpg" alt="夏洛特烦恼" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../25964071/@from=subject-page" class="" >夏洛特烦恼</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26816383/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2456180253.jpg" alt="喜欢你" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26816383/@from=subject-page" class="" >喜欢你</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../10574622/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p1793720172.jpg" alt="人再囧途之泰囧" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../10574622/@from=subject-page" class="" >人再囧途之泰囧</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26698897/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2511355624.jpg" alt="唐人街探案2" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26698897/@from=subject-page" class="" >唐人街探案2</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../25717233/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2199268153.jpg" alt="心花路放" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../25717233/@from=subject-page" class="" >心花路放</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../4237879/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p500548437.jpg" alt="人在囧途" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../4237879/@from=subject-page" class="" >人在囧途</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../25870084/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2216353367.jpg" alt="重返20岁" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../25870084/@from=subject-page" class="" >重返20岁</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../30163509/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2542973862.jpg" alt="飞驰人生" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../30163509/@from=subject-page" class="" >飞驰人生</a>
+            </dd>
+        </dl>
+    </div>
+
+    </div>
+
+
+
+        
+
+
+<script type="text/x-handlebar-tmpl" id="comment-tmpl">
+    <div class="dummy-fold">
+        {{#each comments}}
+        <div class="comment-item" data-cid="id">
+            <div class="comment">
+                <h3>
+                    <span class="comment-vote">
+                            <span class="votes">{{votes}}</span>
+                        <input value="{{id}}" type="hidden"/>
+                        <a href="javascript:;" class="j {{#if ../if_logined}}a_vote_comment{{else}}a_show_login{{/if}}">有用</a>
+                    </span>
+                    <span class="comment-info">
+                        <a href="{{user.path}}" class="">{{user.name}}</a>
+                        {{#if rating}}
+                        <span class="allstar{{rating}}0 rating" title="{{rating_word}}"></span>
+                        {{/if}}
+                        <span>
+                            {{time}}
+                        </span>
+                        <p> {{content_tmpl content}} </p>
+                    </span>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <div id="comments-section">
+        <div class="mod-hd">
+            
+        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">
+            <span>我要写短评</span>
+        </a>
+
+            
+            
+    <h2>
+        <i class="">超时空同居的短评</i>
+             ······
+            <span class="pl">
+            (
+                <a href="comments@status=P">全部 109520 条</a>
+            )
+            </span>
+    </h2>
+
+        </div>
+        <div class="mod-bd">
+                
+    <div class="tab-hd">
+        <a id="hot-comments-tab" href="comments" data-id="hot" class="on">热门</a>&nbsp;/&nbsp;
+            <a id="new-comments-tab" href="comments@sort=time" data-id="new">最新</a>&nbsp;/&nbsp;
+        <a id="following-comments-tab" href="follows_comments" data-id="following"  class="j a_show_login">好友</a>
+    </div>
+
+    <div class="tab-bd">
+        <div id="hot-comments" class="tab">
+            
+    
+        
+        <div class="comment-item" data-cid="1374029498">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2624</span>
+                <input value="1374029498" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/zhangzongqian/default.htm" class="">亵渎电影</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2018-05-15 18:28:39">
+                    2018-05-15
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">和预期差不多，是一个完成度不错的类型片，只是没想到编剧在类型片的写作技巧和结构方面能做的这么优秀，细节铺垫上水准很高。从父女关系，邓丽君的磁带，父亲的钥匙扣，死亡原因到不撕标签的西装，被雨伞堵住关不上的门，或者是男主角当年如何掘到的第一桶金等等，一看就知道编剧是个会讲故事的人！</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1351984406">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2362</span>
+                <input value="1351984406" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/joearde/default.htm" class="">阿德</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2018-05-10 20:55:06">
+                    2018-05-10
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">难得不尬的国产爱情喜剧，雷佳音负责搞笑，佟丽娅负责颜值，结尾居然被感动到....ps：对《甜蜜蜜》的致敬好赞。</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1371382346">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1194</span>
+                <input value="1371382346" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/lephemera/default.htm" class="">蜉蝣</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2018-05-10 18:05:11">
+                    2018-05-10
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">抛开可笑的奇幻逻辑架构，爱情的部分还挺好看的。两个演员讨喜舒服，自然而然的甜，居然还看哭了0.1秒。听工作人员说导演原本是想拍两个人同居的过程中日久生情的，雷佳音说：“不是啊，直男看到那么漂亮的女孩肯定是一秒就喜欢了啊。”哈哈哈哈。</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1374159998">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">818</span>
+                <input value="1374159998" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/155602014/default.htm" class="">穆子衿</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2018-05-15 23:12:17">
+                    2018-05-15
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">当做一部纯粹的喜剧来看也是非常的爆笑了，只是各种跨越时空的逻辑上的漏洞还是比较明显。另外雷佳音真是举手投足间全是笑点。</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1376823083">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">174</span>
+                <input value="1376823083" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/xzfd/default.htm" class="">张小北</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2018-05-20 23:11:26">
+                    2018-05-20
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">新导演处女作加1星。创意不错，类型准确。中段故事略疲软，怀疑是后期剪辑时动了结构……结尾也略显仓促。但在国产爱情喜剧里是非常不错的成色了。</span>
+        </p>
+    </div>
+
+        </div>
+
+
+
+                
+                &gt; <a href="comments@sort=new_score&status=P" >更多短评109520条</a>
+        </div>
+        <div id="new-comments" class="tab">
+            <div id="normal">
+            </div>
+            <div class="fold-hd hide">
+                <a class="qa" href="../../help/opinion#t2-q0" target="_blank">为什么被折叠？</a>
+                <a class="btn-unfold" href="#">有一些短评被折叠了</a>
+                <div class="qa-tip">
+                    评论被折叠，是因为发布这条评论的帐号行为异常。评论仍可以被展开阅读，对发布人的账号不造成其他影响。如果认为有问题，可以<a href="../../../https@help.douban.com/help/ask@category=movie">联系</a>豆瓣电影。
+                </div>
+            </div>
+            <div class="fold-bd">
+            </div>
+            <span id="total-num"></span>
+        </div>
+        <div id="following-comments" class="tab">
+            
+    
+
+
+        <div class="comment-item">
+            你关注的人还没写过短评
+        </div>
+
+        </div>
+    </div>
+
+
+            
+            
+        </div>
+    </div>
+
+
+
+        
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/5b893040c800d5cd.css">
+
+<section class="topics mod">
+    <header>
+        <h2>
+            超时空同居的话题 · · · · · ·
+            <span class="pl">( <span class="gallery_topics">全部 <span id="topic-count"></span> 条</span> )</span>
+        </h2>
+    </header>
+
+    
+
+
+
+
+<section class="subject-topics">
+    <div class="topic-guide" id="topic-guide">
+        <img class="ic_question" src="../../../https@img3.doubanio.com/f/ithildin/b1a3edea3d04805f899e9d77c0bfc0d158df10d5/pics/export/icon_question.png">
+        <div class="tip_content">
+            <div class="tip_title">什么是话题</div>
+            <div class="tip_desc">
+                <div>无论是一部作品、一个人，还是一件事，都往往可以衍生出许多不同的话题。将这些话题细分出来，分别进行讨论，会有更多收获。</div>
+            </div>
+        </div>
+        <img class="ic_guide" src="../../../https@img3.doubanio.com/f/ithildin/529f46d86bc08f55cd0b1843d0492242ebbd22de/pics/export/icon_guide_arrow.png">
+        <img class="ic_close" id="topic-guide-close" src="../../../https@img3.doubanio.com/f/ithildin/2eb4ad488cb0854644b23f20b6fa312404429589/pics/export/close_403x.png">
+    </div>
+
+    <div id="topic-items"></div>
+
+    <script>
+        window.subject_id = 27133303;
+        window.join_label_text = '写影评参与';
+
+        window.topic_display_count = 4;
+        window.topic_item_display_count = 1;
+        window.no_content_fun_call_name = "no_topic";
+
+        window.guideNode = document.getElementById('topic-guide');
+        window.guideNodeClose = document.getElementById('topic-guide-close');
+    </script>
+    
+        <link rel="stylesheet" href="../../../https@img3.doubanio.com/f/ithildin/f731c9ea474da58c516290b3a6b1dd1237c07c5e/css/export/subject_topics.css">
+        <script src="../../../https@img3.doubanio.com/f/ithildin/d3590fc6ac47b33c804037a1aa7eec49075428c8/js/export/moment-with-locales-only-zh.js"></script>
+        <script src="../../../https@img3.doubanio.com/f/ithildin/c600fdbe69e3ffa5a3919c81ae8c8b4140e99a3e/js/export/subject_topics.js"></script>
+
+</section>
+
+    <script>
+        function no_topic(){
+            $('#content .topics').remove();
+        }
+    </script>
+</section>
+
+<section class="reviews mod movie-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review comment_btn "
+            data-isverify="False"
+            data-verify-url="../../../https@www.douban.com/accounts/phone/verify@redir=http_3A_2F_2Fmovie.douban.com_2Fsubject_2F27133303_2Fnew_review">
+            <span>我要写影评</span>
+        </a>
+        <h2>
+            超时空同居的影评 · · · · · ·
+            <span class="pl">( <a href="reviews">全部 1894 条</a> )</span>
+        </h2>
+    </header>
+
+    
+
+<style>
+#gallery-topics-selection {
+  position: fixed;
+  width: 595px;
+  padding: 40px 40px 33px 40px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.2);
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+#gallery-topics-selection h1 {
+  font-size: 18px;
+  color: #007722;
+  margin-bottom: 36px;
+  padding: 0;
+  line-height: 28px;
+  font-weight: normal;
+}
+#gallery-topics-selection .gl_topics {
+  border-bottom: 1px solid #dfdfdf;
+  max-height: 298px;
+  overflow-y: scroll;
+}
+#gallery-topics-selection .topic {
+  margin-bottom: 24px;
+}
+#gallery-topics-selection .topic_name {
+  font-size: 15px;
+  color: #333;
+  margin: 0;
+  line-height: inherit;
+}
+#gallery-topics-selection .topic_meta {
+  font-size: 13px;
+  color: #999;
+}
+#gallery-topics-selection .topics_skip {
+  display: block;
+  cursor: pointer;
+  font-size: 16px;
+  color: #3377AA;
+  text-align: center;
+  margin-top: 33px;
+}
+#gallery-topics-selection .topics_skip:hover {
+  background: transparent;
+}
+#gallery-topics-selection .close_selection {
+  position: absolute;
+  width: 30px;
+  height: 20px;
+  top: 46px;
+  right: 40px;
+  background: #fff;
+  color: #999;
+  text-align: right;
+}
+#gallery-topics-selection .close_selection:hover{
+  background: #fff;
+  color: #999;
+}
+</style>
+
+
+
+
+        <div class="review_filter">
+            <a href="javascript:;;" class="cur" data-sort="">热门</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="time">最新</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="follow">好友</a href="javascript:;;">
+            
+        </div>
+
+
+        
+
+
+
+<div class="review-list  ">
+        
+    
+
+        
+    
+    <div data-cid="9432126">
+        <div class="main review-item" id="9432126">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/27041117/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/u27041117-17.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/27041117/default.htm" class="name">[已注销]</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2018-06-14" class="main-meta">2018-06-14 11:04:26</span>
+
+            <a class="rel-topic" target="_blank" href="../../../https@www.douban.com/gallery/topic/_25E5_25A6_2582_25E4_25BD_2595_25E7_259C_258B_25E5_25BE_2585_25E3_2580_258A_25E8_25B6_2585_25E6_259704CEB18640">#如何看待《超时空同居》结尾小焦的选择？</a>
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9432126/default.htm">发现好多人没看明白《超时空同居》的结尾，来理一下。</a></h2>
+
+                <div id="review_9432126_short" class="review-short" data-rid="9432126">
+                    <div class="short-content">
+
+                        发现很多人没看懂结局或者遗漏了很多细节。于是决定写个List点明一些我认为的重点。 从后半段开始写： 1.小焦选择搬离陆鸣，是因为陆石屹告诉她，如果陆鸣不按照过去的轨迹走这个人生，如果小焦不离开陆鸣，陆鸣会“被吞噬”、“会死”。小焦当然不舍得这样的事情发生，所以选...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9432126-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9432126_full" class="hidden">
+                    <div id="review_9432126_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9432126" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9432126">
+                                2081
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9432126" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9432126">
+                                140
+                        </span>
+                    </a>
+                    <a href="../../review/9432126/#comments" class="reply ">305回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9370986">
+        <div class="main review-item" id="9370986">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/dreamfox/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u2297669-12.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/dreamfox/default.htm" class="name">乌鸦火堂</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2018-05-16" class="main-meta">2018-05-16 01:57:17</span>
+
+            <a class="rel-topic" target="_blank" href="../../../https@www.douban.com/gallery/topic/_25E3_2580_258A_25E8_25B6_2585_25E6_2597_25B6_25E7_25A9_25BA_25E5_2590_258C_25E5_25B1_2585_25E3_25800B4DC8B636">#《超时空同居》中雷佳音和佟丽娅等几位主演的表演如何？</a>
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9370986/default.htm">“在我们相爱的时候，你可能还没有认识我。”</a></h2>
+
+                <div id="review_9370986_short" class="review-short" data-rid="9370986">
+                    <div class="short-content">
+
+                        看完这部电影，一直在琢磨一个问题： 1999年的陆鸣，74年生人，属虎，当年25岁。1999年的谷小焦，当年12岁。当时空重叠，2018年的谷小焦（31岁）遇到了99年的陆铭（25岁），那么两人该如何面对各自的年龄问题，究竟是“我的老婆未满十八岁”，还是“我的男友比我小6岁”？ 但两...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9370986-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9370986_full" class="hidden">
+                    <div id="review_9370986_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9370986" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9370986">
+                                1921
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9370986" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9370986">
+                                434
+                        </span>
+                    </a>
+                    <a href="../../review/9370986/#comments" class="reply ">107回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9390083">
+        <div class="main review-item" id="9390083">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/119972013/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u119972013-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/119972013/default.htm" class="name">唯美主义</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2018-05-24" class="main-meta">2018-05-24 09:32:36</span>
+
+            <a class="rel-topic" target="_blank" href="../../../https@www.douban.com/gallery/topic/_25E5_25A6_2582_25E4_25BD_2595_25E7_259C_258B_25E5_25BE_2585_25E3_2580_258A_25E8_25B6_2585_25E6_259704CEB18640">#如何看待《超时空同居》结尾小焦的选择？</a>
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9390083/default.htm">如何看待《超时空同居》结尾小焦的选择？</a></h2>
+
+                <div id="review_9390083_short" class="review-short" data-rid="9390083">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        看完整部电影，小焦的选择，我多多少少能够理解一些。小焦爱的是99年的陆鸣，而不是事业有成额陆石屹，导演在影片中表现的很明确，观众应该也都没有异议，但是，面对陆鸣费尽心血完成的图纸，小焦感受到了陆鸣的心情，与其说小焦的选择是为了让陆鸣成为房产大亨，不如说，是为...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9390083-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9390083_full" class="hidden">
+                    <div id="review_9390083_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9390083" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9390083">
+                                670
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9390083" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9390083">
+                                115
+                        </span>
+                    </a>
+                    <a href="../../review/9390083/#comments" class="reply ">91回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9378079">
+        <div class="main review-item" id="9378079">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/169542229/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u169542229-16.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/169542229/default.htm" class="name">Navetek</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2018-05-19" class="main-meta">2018-05-19 01:49:30</span>
+
+            <a class="rel-topic" target="_blank" href="../../../https@www.douban.com/gallery/topic/_25E3_2580_258A_25E8_25B6_2585_25E6_2597_25B6_25E7_25A9_25BA_25E5_2590_258C_25E5_25B1_2585_25E3_25800811A716ED">#《超时空同居》中奇幻部分的设定如何？</a>
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9378079/default.htm">《超时空同居》：隐藏于科幻设定中的悲剧内核</a></h2>
+
+                <div id="review_9378079_short" class="review-short" data-rid="9378079">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        喜剧应有悲剧内核，而这一部的悲剧性隐藏于其科幻设定中。 任何作品，凡涉及对历史的修改，都几乎绕不过「祖母悖论」或与之类似的伦理困惑。如果你回到过去，杀死了自己的祖母，那么不复存在的你是如何在一开始回到过去的呢？ 针对这一悖论，有如下的解释：历史是被无数次修改...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9378079-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9378079_full" class="hidden">
+                    <div id="review_9378079_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9378079" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9378079">
+                                583
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9378079" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9378079">
+                                71
+                        </span>
+                    </a>
+                    <a href="../../review/9378079/#comments" class="reply ">89回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9374768">
+        <div class="main review-item" id="9374768">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/ydyie/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/u2126832-179.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/ydyie/default.htm" class="name">时间之葬</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2018-05-17" class="main-meta">2018-05-17 20:22:47</span>
+
+            <a class="rel-topic" target="_blank" href="../../../https@www.douban.com/gallery/topic/_25E3_2580_258A_25E8_25B6_2585_25E6_2597_25B6_25E7_25A9_25BA_25E5_2590_258C_25E5_25B1_2585_25E3_258008C81E46CA">#《超时空同居》中哪些片段或细节打动了你？</a>
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9374768/default.htm">终于，爱情成为了爱情片的万能解药</a></h2>
+
+                <div id="review_9374768_short" class="review-short" data-rid="9374768">
+                    <div class="short-content">
+
+                        《超时空同居》的好，首先当然是源于意外。而意外则是因为，过去这么多年来国产爱情片每每交出的答卷实在是让人意兴阑珊——我们的爱情片，往往连爱情的边都摸不着，就在一堆浮华虚饰的人物和故事拼贴中草草收场。而《超时空同居》这个片名加上“穿越”这个题材，更是让人往雷...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9374768-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9374768_full" class="hidden">
+                    <div id="review_9374768_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9374768" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9374768">
+                                522
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9374768" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9374768">
+                                115
+                        </span>
+                    </a>
+                    <a href="../../review/9374768/#comments" class="reply ">27回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9376567">
+        <div class="main review-item" id="9376567">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/nothingkitsch/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/u51931810-18.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/nothingkitsch/default.htm" class="name">nothing纳森</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2018-05-18" class="main-meta">2018-05-18 14:13:17</span>
+
+            <a class="rel-topic" target="_blank" href="../../../https@www.douban.com/gallery/topic/_25E3_2580_258A_25E8_25B6_2585_25E6_2597_25B6_25E7_25A9_25BA_25E5_2590_258C_25E5_25B1_2585_25E3_258008C81E46CA">#《超时空同居》中哪些片段或细节打动了你？</a>
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9376567/default.htm">土味情话影中存，来生还做社会人</a></h2>
+
+                <div id="review_9376567_short" class="review-short" data-rid="9376567">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        有段时间会在网上到处看到佟丽娅与雷佳音的消息，不论是“头围”大爆料，还是红毯“竞走”大赛，狂轰滥炸的宣传之中，总给人一种不温不火的期待。说期待是总觉得两位演员加上徐峥的保驾护航，总该对这种所谓的都市爱情电影，来点不一样的东西了，但又总会下意识的将国内这种爱...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9376567-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9376567_full" class="hidden">
+                    <div id="review_9376567_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9376567" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9376567">
+                                572
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9376567" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9376567">
+                                165
+                        </span>
+                    </a>
+                    <a href="../../review/9376567/#comments" class="reply ">23回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9466226">
+        <div class="main review-item" id="9466226">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/64313448/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u64313448-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/64313448/default.htm" class="name">╰芊芊三木╮</a>
+
+
+        <span content="2018-06-26" class="main-meta">2018-06-26 08:13:33</span>
+
+            <a class="rel-topic" target="_blank" href="../../../https@www.douban.com/gallery/topic/_25E3_2580_258A_25E8_25B6_2585_25E6_2597_25B6_25E7_25A9_25BA_25E5_2590_258C_25E5_25B1_2585_25E3_25800E1B2686C4">#《超时空同居》里陆石屹爱谷小焦吗？</a>
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9466226/default.htm">《超时空同居》里陆石屹爱谷小焦吗？</a></h2>
+
+                <div id="review_9466226_short" class="review-short" data-rid="9466226">
+                    <div class="short-content">
+
+                        当然不爱了，你没搞清楚剧情，你先抛开谷小焦和陆鸣这条线，先看看陆十亿的故事。。。 陆十亿当初是没有遇见谷小焦的，他在谷总死后，接受了陈俊以的钱，在之后成了一个奸商。。。他找到一个会开时间隧道的博士，想去2037年预知未来的世界，赚更多的钱，但是他开错了，开成了19...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9466226-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9466226_full" class="hidden">
+                    <div id="review_9466226_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9466226" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9466226">
+                                248
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9466226" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9466226">
+                                46
+                        </span>
+                    </a>
+                    <a href="../../review/9466226/#comments" class="reply ">17回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9381960">
+        <div class="main review-item" id="9381960">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/60599665/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u60599665-40.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/60599665/default.htm" class="name">肖恩恩恩恩肖</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2018-05-20" class="main-meta">2018-05-20 20:04:08</span>
+
+            <a class="rel-topic" target="_blank" href="../../../https@www.douban.com/gallery/topic/_25E3_2580_258A_25E8_25B6_2585_25E6_2597_25B6_25E7_25A9_25BA_25E5_2590_258C_25E5_25B1_2585_25E3_258008C81E46CA">#《超时空同居》中哪些片段或细节打动了你？</a>
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9381960/default.htm">千万别在捧着一颗真心的时候，误以为自己一无所有</a></h2>
+
+                <div id="review_9381960_short" class="review-short" data-rid="9381960">
+                    <div class="short-content">
+
+                        爱情电影一向是少女心和催泪弹齐飞，但自从绝症车祸这一套不流行了以后，催泪的重任就落在了“怀念前任”这个主题上。 怀念前任这一题材作为超安全的煽情灵药，给了每一个现代人一个无压力释放款款深情的机会。有人说前任已经成了一种国民情结，此言不虚。怎么一夜之间，前任比...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9381960-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9381960_full" class="hidden">
+                    <div id="review_9381960_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9381960" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9381960">
+                                344
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9381960" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9381960">
+                                50
+                        </span>
+                    </a>
+                    <a href="../../review/9381960/#comments" class="reply ">25回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9371524">
+        <div class="main review-item" id="9371524">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/xiaomao58/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u2576473-1416.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/xiaomao58/default.htm" class="name">毛香菇</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2018-05-16" class="main-meta">2018-05-16 12:01:01</span>
+
+            <a class="rel-topic" target="_blank" href="../../../https@www.douban.com/gallery/topic/_25E3_2580_258A_25E8_25B6_2585_25E6_2597_25B6_25E7_25A9_25BA_25E5_2590_258C_25E5_25B1_2585_25E3_258008C81E46CA">#《超时空同居》中哪些片段或细节打动了你？</a>
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9371524/default.htm">你确定未来的我是你想要的吗？</a></h2>
+
+                <div id="review_9371524_short" class="review-short" data-rid="9371524">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        很久没有看国产爱情电影了，之前的爆款《后来的我们》、《前任攻略》统统都没有看，但这部之前从没有期待的《超时空同居》却给了我意外的惊喜。 故事很简单，生活在2018年的女主角谷小焦（佟丽娅）和生活在1999年的男主角陆鸣（雷佳音）所居住的房子因为时空交错发生重叠而住到...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9371524-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9371524_full" class="hidden">
+                    <div id="review_9371524_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9371524" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9371524">
+                                291
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9371524" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9371524">
+                                61
+                        </span>
+                    </a>
+                    <a href="../../review/9371524/#comments" class="reply ">11回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9378051">
+        <div class="main review-item" id="9378051">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/172036880/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u172036880-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/172036880/default.htm" class="name">Penina</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2018-05-19" class="main-meta">2018-05-19 01:31:16</span>
+
+            <a class="rel-topic" target="_blank" href="../../../https@www.douban.com/gallery/topic/_25E3_2580_258A_25E8_25B6_2585_25E6_2597_25B6_25E7_25A9_25BA_25E5_2590_258C_25E5_25B1_2585_25E3_258008C81E46CA">#《超时空同居》中哪些片段或细节打动了你？</a>
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9378051/default.htm">《超时空同居》中哪些片段或细节打动了你？</a></h2>
+
+                <div id="review_9378051_short" class="review-short" data-rid="9378051">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        首先从阵容上来说，它已经给我吃了一颗镇定药丸，佟丽娅、雷佳音主演，配角则有徐峥、陶虹、李光洁、范明等等演技派助力。 虽然说是一部爱情轻喜剧，但是我依然对它充满了期待。 ＂老娘天下最美＂，或许只有佟丽娅说出来让别人无法反驳。 即使是在今天上映的这部爱情轻喜剧中，...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9378051-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9378051_full" class="hidden">
+                    <div id="review_9378051_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9378051" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9378051">
+                                372
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9378051" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9378051">
+                                82
+                        </span>
+                    </a>
+                    <a href="../../review/9378051/#comments" class="reply ">30回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    
+
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/6fd5a1ab8ff65bcd.js"></script>
+    <!-- COLLECTED CSS -->
+</div>
+
+
+
+
+
+
+
+
+            <p class="pl">
+                &gt;
+                <a href="reviews">
+                    更多影评1894篇
+                </a>
+            </p>
+</section>
+
+<!-- COLLECTED JS -->
+
+    <br/>
+
+        <div class="section-discussion">
+                
+                <div class="mod-hd">
+                        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow"><span>添加新讨论</span></a>
+                    
+    <h2>
+        讨论区
+         ······
+    </h2>
+
+                </div>
+                
+  <table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/615709203/default.htm" title="关于结局，评论的时候才想明白！">关于结局，评论的时候才想明白！</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/Xhyn/default.htm">小胖</a></td>
+          <td class="pl"><span>2 回应</span></td>
+          <td class="pl"><span>2019-07-07</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/615776611/default.htm" title="不是太理解怎么雷佳音在2018年能接到1999年的电话？">不是太理解怎么雷佳音在2018年能接到1999年的电话？</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/135698554/default.htm">大眼睛</a></td>
+          <td class="pl"><span>3 回应</span></td>
+          <td class="pl"><span>2019-07-07</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/615665660/default.htm" title="关于女主角年龄的bug">关于女主角年龄的bug</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/jackass/default.htm">蜘蛛猴面包</a></td>
+          <td class="pl"><span>15 回应</span></td>
+          <td class="pl"><span>2019-07-07</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/615868613/default.htm" title="雷佳音的演技太好了">雷佳音的演技太好了</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/187128563/default.htm">豆友187128563</a></td>
+          <td class="pl"><span>3 回应</span></td>
+          <td class="pl"><span>2019-07-07</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/615619061/default.htm" title="为啥雷佳音救了谷爸爸的命，却没有被许配女儿">为啥雷佳音救了谷爸爸的命，却没有被许配女儿</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/3729461/default.htm">everstar</a></td>
+          <td class="pl"><span>29 回应</span></td>
+          <td class="pl"><span>2019-06-19</span></td>
+        </tr>
+  </table>
+
+                <p class="pl" align="right">
+                    <a href="discussion/default.htm" rel="nofollow">
+                        &gt; 去这部影片的讨论区（全部411条）
+                    </a>
+                </p>
+        </div>
+
+        
+    
+        
+                
+
+
+
+
+
+<div id="askmatrix">
+    <div class="mod-hd">
+        <h2>
+            关于《超时空同居》的问题
+            · · · · · ·
+            <span class="pl">
+                (<a href='questions/@from=subject'>
+                    全部24个
+                </a>)
+            </span>
+        </h2>
+
+
+        
+    
+    <a class='j a_show_login comment_btn'
+        href='questions/ask/@from=subject'>我来提问</a>
+
+    </div>
+
+    <div class="mod-bd">
+        <ul class="">
+            <li class="">
+                <span class="tit">
+                    <a href="questions/803995/@from=subject" class="">
+                            请问有知道片中的取景在哪吗？
+                    </a>
+                </span>
+                <span class="meta">
+                    3人回答
+                </span>
+            </li>
+            <li class="">
+                <span class="tit">
+                    <a href="questions/804130/@from=subject" class="">
+                            如果陆鸣知道救99年小焦爸爸会导致18年小焦，他还会救吗？
+                    </a>
+                </span>
+                <span class="meta">
+                    4人回答
+                </span>
+            </li>
+        </ul>
+
+        <p>&gt;
+            <a href='questions/@from=subject'>
+                全部24个问题
+            </a>
+        </p>
+
+    </div>
+</div>
+
+
+
+            
+
+
+    <script type="text/javascript">
+        $(function(){if($.browser.msie && $.browser.version == 6.0){
+            var $info = $('#info'),
+                maxWidth = parseInt($info.css('max-width'));
+            if($info.width() > maxWidth) {
+                $info.width(maxWidth);
+            }
+        }});
+    </script>
+
+
+            </div>
+            <div class="aside">
+                
+
+
+    
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+    
+
+<script id="episode-tmpl" type="text/x-jsrender">
+<div id="tv-play-source" class="play-source">
+    <div class="cross">
+        <span style="color:#494949; font-size:16px">{{:cn}}</span>
+        <span style="cursor:pointer">✕</span>
+    </div>
+    <div class="episode-list">
+        {{for playlist}}
+            <a href="{{:play_link}}&episode={{:ep}}" target="_blank">{{:ep}}集</a>
+        {{/for}}
+     <div>
+ </div>
+</script>
+
+<div class="gray_ad">
+    
+    <h2>
+        在哪儿看这部电影
+            ······
+    </h2>
+
+    
+    <ul class="bs">
+                <li>
+                        <a class="playBtn" data-cn="哔哩哔哩" href="../../../https@www.douban.com/link2/@url=https_253A_252F_252Fwww.bilibili.com_252Fbangumi_252Fplay_252Fss25780_253Fbsource_253Ddouban&subtype=8&type=online-video&link2key=a8d8fb706c" target="_blank">
+                            哔哩哔哩
+                        </a>
+                    <span class="buylink-price"><span>
+                        VIP免费观看
+                    </span></span>
+                </li>
+                <li>
+                        <a class="playBtn" data-cn="爱奇艺视频" href="../../../https@www.douban.com/link2/@url=http_253A_252F_252Fwww.iqiyi.com_252Fv_19rrcd03uk.html_253Fvfm_253Dm_331_dbdy%26fv_253D4904d94982104144a1548dd9040df241&subtype=9&type=online-video" target="_blank">
+                            爱奇艺视频
+                        </a>
+                    <span class="buylink-price"><span>
+                        VIP免费观看
+                    </span></span>
+                </li>
+                <li>
+                        <a class="playBtn" data-cn="优酷视频" href="../../../https@www.douban.com/link2/@url=http_253A_252F_252Fv.youku.com_252Fv_show_252Fid_XMzgxOTU3NjAyNA_253D_253D.html_253Ftpa_253DdW5pb25fa0D6D16DFDF" target="_blank">
+                            优酷视频
+                        </a>
+                    <span class="buylink-price"><span>
+                        VIP免费观看
+                    </span></span>
+                </li>
+                <li>
+                        <a class="playBtn" data-cn="腾讯视频" href="../../../https@www.douban.com/link2/@url=http_253A_252F_252Fv.qq.com_252Fx_252Fcover_252Ffnvl4okkiqycmyj.html_253Fptag_253Ddouban.movie&subtype=1&type=online-video" target="_blank">
+                            腾讯视频
+                        </a>
+                    <span class="buylink-price"><span>
+                        VIP免费观看
+                    </span></span>
+                </li>
+
+    </ul>
+</div>
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_top_right"></div>
+    <div id="dale_movie_subject_top_middle"></div>
+    <!-- douban ad end -->
+
+    
+
+
+
+<style type="text/css">
+    .m4 {margin-bottom:8px; padding-bottom:8px;}
+    .movieOnline {background:#FFF6ED; padding:10px; margin-bottom:20px;}
+    .movieOnline h2 {margin:0 0 5px;}
+    .movieOnline .sitename {line-height:2em; width:160px;}
+    .movieOnline td,.movieOnline td a:link,.movieOnline td a:visited{color:#666;}
+    .movieOnline td a:hover {color:#fff;}
+    .link-bt:link,
+    .link-bt:visited,
+    .link-bt:hover,
+    .link-bt:active {margin:5px 0 0; padding:2px 8px; background:#a8c598; color:#fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; display:inline-block;}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+    
+    <div class="tags">
+        
+        
+    <h2>
+        <i class="">豆瓣成员常用的标签</i>
+             ······
+    </h2>
+
+        <div class="tags-body">
+                <a href="../../tag/_25E7_2588_25B1_25E6_2583_2585" class="">爱情</a>
+                <a href="../../tag/_25E5_2596_259C_25E5_2589_25A7" class="">喜剧</a>
+                <a href="../../tag/_25E6_2590_259E_25E7_25AC_2591" class="">搞笑</a>
+                <a href="../../tag/_25E5_259B_25BD_25E4_25BA_25A7" class="">国产</a>
+                <a href="../../tag/_25E5_25A5_2587_25E5_25B9_25BB" class="">奇幻</a>
+                <a href="../../tag/2018" class="">2018</a>
+                <a href="../../tag/_25E7_25A9_25BF_25E8_25B6_258A" class="">穿越</a>
+                <a href="../../tag/_25E4_25B8_25AD_25E5_259B_25BD_25E5_25A4_25A7_25E9_2599_2586" class="">中国大陆</a>
+        </div>
+    </div>
+
+
+    <div id="dale_movie_review_right_guess_you_like"></div>
+    <div id="dale_movie_subject_inner_middle"></div>
+    <div id="dale_movie_subject_download_middle"></div>
+        
+
+
+
+
+
+
+
+
+<div id="subject-doulist">
+    
+    
+    <h2>
+        <i class="">以下豆列推荐</i>
+             ······
+            <span class="pl">
+            (
+                <a href="doulists">全部</a>
+            )
+            </span>
+    </h2>
+
+
+    
+    <ul>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/13712178/default.htm" target="_blank">评价人数超过十万的电影（按人数排序）</a>
+                <span>(依然饭特稀)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/158351/default.htm" target="_blank">都是奇怪的好电影</a>
+                <span>(乱骂2分之1)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/46212623/default.htm" target="_blank">2018第二十一届上海国际电影节影片大全</a>
+                <span>(妖灵妖)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/43556971/default.htm" target="_blank">始终会看的电影</a>
+                <span>(可可)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/1373331/default.htm" target="_blank">奇幻的人生不需要解释</a>
+                <span>(乌鸦火堂)</span>
+            </li>
+    </ul>
+
+</div>
+
+            
+
+
+
+
+
+
+
+
+<div id="subject-others-interests">
+    
+    
+    <h2>
+        <i class="">谁在看这部电影</i>
+             ······
+    </h2>
+
+    
+    <ul class="">
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/190853405/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u190853405-1.jpg" class="pil" alt="洛萧">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/190853405/default.htm" class="">洛萧</a>
+                    <div class="">
+                        刚刚
+                        看过
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/184238877/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u184238877-4.jpg" class="pil" alt="超大只怪兽🦔">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/184238877/default.htm" class="">超大只怪兽🦔</a>
+                    <div class="">
+                        2分钟前
+                        看过
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/197933065/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u197933065-1.jpg" class="pil" alt="我是凹凸曼">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/197933065/default.htm" class="">我是凹凸曼</a>
+                    <div class="">
+                        4分钟前
+                        看过
+                        
+                    </div>
+                </div>
+            </li>
+    </ul>
+
+    
+    <div class="subject-others-interests-ft">
+        
+            <a href="collections">710836人看过</a>
+                &nbsp;/&nbsp;
+            <a href="wishes">67625人想看</a>
+    </div>
+
+</div>
+
+
+
+    
+    
+
+<!-- douban ad begin -->
+<div id="dale_movie_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+
+    <br/>
+
+    
+<p class="pl">订阅超时空同居的评论: <br/><span class="feed">
+    <a href="../../feed/subject/27133303/reviews"> feed: rss 2.0</a></span></p>
+
+
+            </div>
+            <div class="extra">
+                
+    
+<!-- douban ad begin -->
+<div id="dale_movie_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2019 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="../../../https@www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="../../../https@www.douban.com/about">关于豆瓣</a>
+    · <a href="../../../https@www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="../../../https@www.douban.com/about@topic=contactus">联系我们</a>
+    · <a href="../../../https@www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="../../../https@help.douban.com/@app=movie" target="_blank">帮助中心</a>
+    · <a href="../../../https@www.douban.com/doubanapp/default.htm">移动应用</a>
+    · <a href="../../../https@www.douban.com/partner/default.htm">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/10ce2fdb330fd843.js"></script><script type="text/javascript">
+        if (!Do.ready) {
+            !function(){var t,e,n=document,r=window,i=window.__external_files_loaded=window.__external_files_loaded||{},o=window.__external_files_loading=window.__external_files_loading||{},a=function(t){return t.constructor===Array},s={autoLoad:!0,coreLib:["../../../https@img3.doubanio.com/js/jquery.min.js"],mods:{}},c=n.getElementsByTagName("script"),d=c[c.length-1],u=[],l=!1,f=[],h=function(t,e,r,a,s){var d=c[0];if(t){if(i[t])return o[t]=!1,void(a&&a(t,s));if(o[t])return void setTimeout(function(){h(t,e,r,a,s)},1);o[t]=!0;var u,l=e||t.toLowerCase().split(/\./).pop().replace(/[\?#].*/,"");if("js"===l?(u=n.createElement("script"),u.setAttribute("type","text/javascript"),u.setAttribute("src",t),u.setAttribute("async",!0)):"css"===l&&(u=n.createElement("link"),u.setAttribute("type","text/css"),u.setAttribute("rel","stylesheet"),u.setAttribute("href",t),i[t]=!0),u){if(r&&(u.charset=r),"css"===l)return d.parentNode.insertBefore(u,d),void(a&&a(t,s));u.onload=u.onreadystatechange=function(){this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState||(i[this.getAttribute("src")]=!0,a&&a(this.getAttribute("src"),s),u.onload=u.onreadystatechange=null)},d.parentNode.insertBefore(u,d)}}},p=function(t){if(t&&a(t)){for(var e,n=0,r=[],i=s.mods,o=[],c={},d=function(t){var e,n,r=0;if(c[t])return o;if(c[t]=!0,i[t].requires){for(n=i[t].requires;"undefined"!=typeof(e=n[r++]);)i[e]?(d(e),o.push(e)):o.push(e);return o}return o};"undefined"!=typeof(e=t[n++]);)i[e]&&i[e].requires&&i[e].requires[0]&&(o=[],c={},r=r.concat(d(e))),r.push(e);return r}},y=function(){l=!0,u.length>0&&(e.apply(this,u),u=[])},m=function(){n.addEventListener?n.removeEventListener("DOMContentLoaded",m,!1):n.attachEvent&&n.detachEvent("onreadystatechange",m),y()},v=function(){if(!l){try{n.documentElement.doScroll("left")}catch(t){return r.setTimeout(v,1)}y()}},g=function(){if("complete"===n.readyState)return r.setTimeout(y,1);var t=!1;if(n.addEventListener)n.addEventListener("DOMContentLoaded",m,!1),r.addEventListener("load",y,!1);else if(n.attachEvent){n.attachEvent("onreadystatechange",m),r.attachEvent("onload",y);try{t=null===r.frameElement}catch(t){}document.documentElement.doScroll&&t&&v()}},E=function(t){t&&a(t)&&(this.queue=t,this.current=null)};E.prototype={_interval:10,start:function(){return this.current=this.next(),this.current?void this.run():void(this.end=!0)},run:function(){var t,e=this,n=this.current;return"function"==typeof n?(n(),void this.start()):void("string"==typeof n&&(s.mods[n]?(t=s.mods[n],h(t.path,t.type,t.charset,function(t){e.start()},e)):/\.js|\.css/i.test(n)?h(n,"","",function(t,e){e.start()},e):this.start()))},next:function(){return this.queue.shift()}},t=d.getAttribute("data-cfg-autoload"),"string"==typeof t&&(s.autoLoad="true"===t.toLowerCase()),t=d.getAttribute("data-cfg-corelib"),"string"==typeof t&&(s.coreLib=t.split(",")),e=function(){var t,e=[].slice.call(arguments);f.length>0&&(e=f.concat(e)),s.autoLoad&&(e=s.coreLib.concat(e)),t=new E(p(e)),t.start()},e.add=function(t,e){t&&e&&e.path&&(s.mods[t]=e)},e.delay=function(){var t=[].slice.call(arguments),n=t.shift();r.setTimeout(function(){e.apply(this,t)},n)},e.global=function(){var t=[].slice.call(arguments);f=f.concat(t)},e.ready=function(){var t=[].slice.call(arguments);return l?e.apply(this,t):void(u=u.concat(t))},e.css=function(t){var e=n.getElementById("do-inline-css");e||(e=n.createElement("style"),e.type="text/css",e.id="do-inline-css",n.getElementsByTagName("head")[0].appendChild(e)),e.styleSheet?e.styleSheet.cssText=e.styleSheet.cssText+t:e.appendChild(n.createTextNode(t))},s.autoLoad&&e(s.coreLib),e.define=e.add,e._config=s,e._mods=s.mods,this.Do=e,g()}();
+
+        }
+        Do.ready(
+            '../../../https@img3.doubanio.com/f/movie/b2a06a0332fc1526f4caaf8c76c2717d24da408d/js/movie/lib/jsrender.min.js',
+            function(){
+                $(document).on('click', '.cross span', function(e) {
+                    var $this = $(this);
+                    var $dialog = $this.parents('#tv-play-source');
+                    $dialog.remove();
+                });
+                $('body').bind('click', function(e) {
+                    var $this = $(e.target),
+                        $source = $('.play-source');
+                    if (!$this.is('.playBtn') && !$this.parents('.play-source').length) {
+                        $source.remove();
+                    }
+                });
+                var sources = {};
+                sources[8] = [
+                            {play_link: "../../../https@www.douban.com/link2/@url=https_253A_252F_252Fwww.bilibili.com_252Fbangumi_252Fplay_252Fss25780%3Fbsource%3Ddouban&subtype=8&type=online-video&link2key=a8d8fb706c", ep: "1"},
+                ];
+                sources[9] = [
+                            {play_link: "../../../https@www.douban.com/link2/@url=http_253A_252F_252Fwww.iqiyi.com_252Fv_19rrcd03uk.html%3Fvfm%3Dm_331_dbdy%26fv%3D4904d94982104144a1548dd9040df241&subtype=9&type=online-video", ep: "1"},
+                ];
+                sources[3] = [
+                            {play_link: "../../../https@www.douban.com/link2/@url=http_253A_252F_252Fv.youku.com_252Fv_show_252Fid_XMzgxOTU3NjAyNA%3D%3D.html%3Ftpa%3DdW5pb25faWQ9MzAwMDA4XzEwM05723D5FFD", ep: "1"},
+                ];
+                sources[1] = [
+                            {play_link: "../../../https@www.douban.com/link2/@url=http_253A_252F_252Fv.qq.com_252Fx_252Fcover_252Ffnvl4okkiqycmyj.html%3Fptag%3Ddouban.movie&subtype=1&type=online-video", ep: "1"},
+                ];
+                $('.playBtn').click(function(e){
+                    $('.play-source').remove();
+
+                    var height, width, tmpl, cn, source;
+                    var $dialog = $('#tv-play-source');
+                    var $this = $(this);
+                    source = $this.data('source');
+                    if(!source)return;
+                    cn = $this.data('cn');
+
+                    tmpl = $.templates('#episode-tmpl');
+                    $dialog = $(tmpl.render({playlist: sources[source], cn: cn}));
+
+                    $dialog.hide();
+                    $('body').append($dialog);
+                    width = $dialog.outerWidth();
+
+                    $dialog.css({
+                        marginLeft: -width / 2,
+                        top: $this.offset().top + $this.outerHeight()
+                    }).show();
+                });
+            });
+    </script><script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/1a3f45ec454a7eed.js"></script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/movie/4aca95d66d37ec0712b3d19973b5d8feb75f2f05/css/movie/mod/reg_login_pop.css" />
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB='../../../https@www.douban.com';
+var account_pop={open:function(o,e){e?referrer="@referrer="+encodeURIComponent(e):referrer="@referrer="+window.location.href;var n="",i="",t=448;n="用户登录",i="../../../https@accounts.douban.com/passport/login_popup@source=movie";var r=document.location.protocol+"//"+document.location.hostname,a=dui.Dialog({width:340,title:n,height:t,cls:"account_pop",isHideTitle:!0,modal:!0,content:"<iframe scrolling='no' frameborder='0' width='340' height='"+t+"' src='"+i+"' name='"+r+"'></iframe>"},!0),c=a.node;if(c.undelegate(),c.delegate(".dui-dialog-close","click",function(){var o=$("body");o.find("#login_msk").hide(),o.find(".account_pop").remove()}),$(window).width()<478){var d="";"reg"===o?d=HTTPS_DB+"/accounts/register"+referrer:"login"===o&&(d=HTTPS_DB+"/accounts/login"+referrer),window.location.href=d}else a.open();$(window).bind("message",function(o){"https://accounts.douban.com"===o.originalEvent.origin&&(c.find("iframe").css("height",o.originalEvent.data),c.height(o.originalEvent.data),a.update())})}};Douban&&Douban.init_show_login&&(Douban.init_show_login=function(o){var e=$(o);e.click(function(){var o=e.data("ref")||"";return account_pop.open("login",o),!1})}),Do(function(){$("body").delegate(".pop_register","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("reg",e),!1}),$("body").delegate(".pop_login","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("login",e),!1})});
+    </script>
+
+    
+    
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '../../../https@erebor.douban.com/default.htm',
+            userId = '',
+            browserId = 'Ez1QlPiK8rc',
+            criteria = '7:李念|7:苏伦|7:陈昊|7:杨迪|7:搞笑|7:中国大陆|7:李光洁|7:王正佳|7:佟丽娅|7:国产|7:范明|7:2018|7:方龄|7:雷佳音|7:杨玏|7:陶虹|7:温情|7:爱情|7:奇幻|7:科幻|7:徐峥|7:穿越|7:于和伟|7:喜剧|7:张衣|3_3A/subject/27133303/@from=reviews',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_top_icon', 'dale_movie_subject_top_right', 'dale_movie_subject_top_middle', 'dale_movie_subject_inner_middle', 'dale_movie_subject_download_middle', 'dale_movie_review_right_guess_you_like'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '../../../https@img3.doubanio.com/f/adjs/5ec0e90cac83524d8c3e7f7bf95260c9c1875bca/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'_3A//img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? '../../../https@ssl' : '../../../www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+      
+    
+
+    <!-- anson86-docker-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+

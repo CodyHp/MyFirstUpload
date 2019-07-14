@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html >
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<!--<meta charset="UTF-8">-->
+<title>登录/注册</title>
+<link rel="stylesheet" href="css/style_regist.css">
+<script type="text/javascript" src="js/common/jquery-1.11.3.min.js"></script>
+<!--	<script type="text/javascript" src="js/regist_ajax.js"></script>-->
+	<script type="text/javascript">
+		//登录
+		$(function(){
+			$('#login').click(function () {
+				var userName = $("#loginname").val();
+		        var userPassword = $("#loginpassword").val();
+		        
+						$.ajax({
+						url:"/user/login",
+						type:"get",
+						data:{"userName":userName,"userPassword":userPassword},
+						dataType:"json",
+						success:function(data){
+							if(data.status==200){
+								window.location.href="movie_index.html";
+							}else{
+								alert("登录失败");
+							}
+						},
+						error:function(){
+							alert("请求失败!");
+							}
+						});
+					
+			})
+		});
+		
+		//注册
+		$(function(){
+			$("input[name=username]").blur(
+				function() {
+					var userName = $(this).val();
+						$.ajax({
+							url:"/user/checkUserName",
+							type:"post",
+							data:{"userName":userName},
+							dataType:"json",					
+							success:function(result){
+								if (result.status!=200) {
+									alert("用户名已存在");
+									//$("#username_msg").html("用户名已存在");
+								}
+								
+							},
+							error:function(){
+								
+								alert("请求失败！");
+							}
+						});
+					
+				});
+			$(function(){
+				var flag=true;
+			$('#regist').click(function(){
+				
+				var userName = $("#name").val();
+		        var userPassword = $("#password").val();
+		        var userEmail = $("#email").val();
+		        var userAddress = $("#address").val();
+		        flag=formObj.checkForm(); 
+		        	$.ajax({
+							url:"/user/checkUserName",
+							type:"post",
+							data:{"userName":userName},
+							dataType:"json",					
+							success:function(result){
+								if (result.status!=200) {
+									alert("用户名已存在");
+									
+									//$("#username_msg").html("用户名已存在");
+								}else{
+								$.ajax({
+									url:"/user/save",
+									type:"get",
+									data:{"userName":userName,"userPassword":userPassword,"userEmail":userEmail,"userAddress":userAddress},
+									dataType:"json",
+									success:function(result){
+										if(result.status==200){
+											alert("注册成功");
+											window.location.href="movie_index.html";
+										}else{
+											alert("注册失败");
+										}
+									},
+									error:function(){
+										alert("请求失败!");
+										}
+									});
+												
+											}
+											
+										},
+										error:function(){
+											
+											alert("请求失败！");
+										}
+							
+						});
+		      
+					/*if(flag){
+						$.ajax({
+						url:"http://localhost:8888/user/manage/save",
+						type:"get",
+						data:{"userName":userName,"userPassword":userPassword,"userEmail":userEmail},
+						dataType:"json",
+						success:function(result){
+							if(result.status==200){
+							}else{
+								alert("登录失败");
+							}
+						},
+						error:function(){
+							alert("请求失败!");
+							}
+						});
+					}else{
+						return false;
+					}*/
+				})
+			});
+        var formObj = {
+			checkForm : function() {
+				var flag = true;
+				// 非空验证
+				flag = this.checkNull("username", "用户名不能为空!");
+				flag = this.checkNull("password", "密码不能为空") && flag;
+				flag = this.checkNull("password2", "确认密码不能为空") && flag;
+				flag = this.checkNull("email", "邮箱不能为空") && flag;
+				flag = this.checkNull("address", "地址不能为空") && flag;
+				// 两次输入的密码是否相同
+				flag = this.checkPassword("password", "两次密码不相同") && flag;
+				// 邮箱格式
+				flag = this.checkEmail("email", "邮箱格式不正确") && flag;
+				// 返回flag
+				return flag;
+			},
+			checkNull : function(name, msg) {
+				var value = $("input[name=" + name + "]").val();
+				if ($.trim(value) == "") {
+					this.setMsg(name, msg);
+					return false;
+				}
+				return true;
+			},
+			checkPassword : function(name, msg) {
+				var pwd = $("input[name=" + name + "]").val();
+				var pwd2 = $("input[name=" + name + "2]").val();
+				if ($.trim(pwd) != "" && $.trim(pwd2) != "") {
+					if (pwd != pwd2) {
+						this.setMsg(name, msg);
+						return false;
+					}
+				}
+				return true;
+			},
+			checkEmail : function(name, msg) {
+				var value = $("input[name=" + name + "]").val();
+				var reg = /^\w+@\w+(\.\w+)+$/;
+				if (!reg.test(value)) {
+					this.setMsg(name, msg);
+					return false;
+				}
+				return true;
+			},
+			setMsg : function(name, msg) {
+				alert(msg);
+			}
+		}
+		});
+		
+		</script>
+</head>
+
+<body>
+<div class="cotn_principal">
+  <div class="cont_centrar">
+    <div class="cont_login">
+      <div class="cont_info_log_sign_up">
+        <div class="col_md_login">
+          <div class="cont_ba_opcitiy">
+            <h2>登录</h2>
+            <p>欢迎来到豆角的世界！</p>
+            <button class="btn_login" onClick="cambiar_login()">登录</button>
+          </div>
+        </div>
+        <div class="col_md_sign_up">
+          <div class="cont_ba_opcitiy">
+            <h2>注册</h2>
+            <p>豆角，开启新世界！</p>
+            <button class="btn_sign_up" onClick="cambiar_sign_up()">注册</button>
+          </div>
+        </div>
+      </div>
+      <div class="cont_back_info">
+        <div class="cont_img_back_grey"> <img src="jpg/po.jpg" alt="" /> </div>
+      </div>
+      <div class="cont_forms" >
+        <div class="cont_img_back_"> <img src="jpg/po.jpg" alt="" /> </div>
+        <div class="cont_form_login"> <a href="#" onClick="ocultar_login_sign_up()" ><i class="material-icons">&#xE5C4;</i></a>
+			<h2></h2>
+          <input type="text" placeholder="用户名" name="loginemail" id="loginname"/>
+          <input type="password" placeholder="密码" name="loginpassword" id="loginpassword"/>
+          <button id="login" class="btn_login" >登录</button>
+        </div>
+        <div class="cont_form_sign_up"> <a href="#" onClick="ocultar_login_sign_up()"><i class="material-icons">&#xE5C4;</i></a>
+          <input type="text" placeholder="用户名"  id="name" name="username"/>
+          <input type="password" placeholder="密码" id="password" name="password"/>
+          <input type="password" placeholder="确认密码" id="password2" name="password2"/>
+          <input type="text" placeholder="邮箱地址" id="email" name="email"/>
+          <input type="address" placeholder="地址" id="address" name="address"/>
+          <button id="regist" class="btn_sign_up" >注册</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="js/index.js"></script>
+<!--<script type="text/javascript" src="js/regist_ajax.js"></script>-->
+
+</body>
+</html>

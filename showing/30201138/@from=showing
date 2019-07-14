@@ -1,0 +1,2696 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ie10">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+        机动战士高达NT (豆瓣)
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+    <link rel="apple-touch-icon" href="../../../https@img3.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="../../../https@img3.doubanio.com/f/shire/52c9997d6d42db58eab418e976a14d5f3eff981e/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/shire/ae3f5a3e3085968370b1fc63afcecb22d3284848/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/movie/8864d3756094f5272d3c93e30ee2e324665855b0/css/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/0495cb173e298c28593766009c7b0a953246c5b5/js/movie/lib/jquery.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/1316664523258f7b8b536e4ce45afc9cb37b8963/js/douban.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/0efdc63b77f895eaf85281fb0e44d435c6239a3f/js/separation/_all.js"></script>
+    
+    <meta name="keywords" content="机动战士高达NT,機動戦士ガンダム NT（ナラティブ）,机动战士高达NT影评,剧情介绍,电影图片,预告片,影讯,在线购票,论坛">
+    <meta name="description" content="机动战士高达NT电影简介和剧情介绍,机动战士高达NT影评、图片、预告片、影讯、论坛、在线购票">
+    <meta name="mobile-agent" content="format=html5; url=../../../m.douban.com/movie/subject/30201138/default.htm"/>
+    <link rel="alternate" href="android-app_3A//com.douban.movie/doubanmovie/subject/30201138/default.htm" />
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/dae/cdnlib/libs/LikeButton/1.0.5/style.min.css">
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript">
+      Do.add('dialog', {path: '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js', type: 'js'});
+      Do.add('dialog-css', {path: '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css', type: 'css'});
+      Do.add('handlebarsjs', {path: '../../../https@img3.doubanio.com/f/movie/3d4f8e4a8918718256450eb6e57ec8e1f7a2e14b/js/movie/lib/handlebars.current.js', type: 'js'});
+    </script>
+    
+  <script type='text/javascript'>
+  var _vwo_code = (function() {
+    var account_id = 249272,
+      settings_tolerance = 0,
+      library_tolerance = 2500,
+      use_existing_jquery = false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('../../../https@dev.visualwebsiteoptimizer.com/j.php@a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());
+
+  +function () {
+    var bindEvent = function (el, type, handler) {
+        var $ = window.jQuery || window.Zepto || window.$
+       if ($ && $.fn && $.fn.on) {
+           $(el).on(type, handler)
+       } else if($ && $.fn && $.fn.bind) {
+           $(el).bind(type, handler)
+       } else if (el.addEventListener){
+         el.addEventListener(type, handler, false);
+       } else if (el.attachEvent){
+         el.attachEvent("on" + type, handler);
+       } else {
+         el["on" + type] = handler;
+       }
+     }
+
+    var _origin_load = _vwo_code.load
+    _vwo_code.load = function () {
+      var args = [].slice.call(arguments)
+      bindEvent(window, 'load', function () {
+        _origin_load.apply(_vwo_code, args)
+      })
+    }
+  }()
+
+  _vwo_settings_timer = _vwo_code.init();
+  </script>
+
+
+    
+
+
+<script type="application/ld+json">
+{
+  "@context": "../../../schema.org",
+  "name": "机动战士高达NT 機動戦士ガンダム NT（ナラティブ）",
+  "url": "default.htm",
+  "image": "../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2558661806.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1419223/default.htm",
+      "name": "吉泽俊一 Shun&#39;ichi Yoshizawa"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1419225/default.htm",
+      "name": "福井晴敏 Harutoshi Fukui"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1042523/default.htm",
+      "name": "富野由悠季 Yoshiyuki Tomino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1321127/default.htm",
+      "name": "矢立肇 Hajime Yatate"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1378653/default.htm",
+      "name": "榎木淳弥 Junya Enoki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1409158/default.htm",
+      "name": "村中知 Muranaka Tomo"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1319428/default.htm",
+      "name": "松浦爱弓 Ayu Matsuura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1347605/default.htm",
+      "name": "梅原裕一郎 Yuichiro Umehara"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1052148/default.htm",
+      "name": "藤村步 Ayumi Fujimura"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1348459/default.htm",
+      "name": "古川慎 Makoto Furukawa"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1419226/default.htm",
+      "name": "盐田朋子 Tomoko Shiota"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1208805/default.htm",
+      "name": "寺杣昌纪 Masaki Terasoma"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1037337/default.htm",
+      "name": "中井和哉 Kazuya Nakai"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1360165/default.htm",
+      "name": "山路和弘 Kazuhiro Yamaji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1376229/default.htm",
+      "name": "星野贵纪 Takanori Hoshino"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1406178/default.htm",
+      "name": "佐藤节二 Sato Setsuji"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1409719/default.htm",
+      "name": "驹田航 Komada Wataru"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1419227/default.htm",
+      "name": "荒井勇树 Arai Yuki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1419228/default.htm",
+      "name": "岛田岳洋 Shimada Takahiro"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1409725/default.htm",
+      "name": "玉野井直树 Tamanoi Naoki"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1419229/default.htm",
+      "name": "中村文德 Nakamura Buntoku"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1379582/default.htm",
+      "name": "横沟菜帆 Naho Yokomizo"
+    }
+  ]
+,
+  "datePublished": "2018-11-30",
+  "genre": ["\u6218\u4e89", "\u79d1\u5e7b", "\u52a8\u753b"],
+  "duration": "PT1H30M",
+  "description": "U. C.0097时期，“拉普拉斯事变”的纷争终结后，2架独角兽高达被秘密封印，新吉翁残党“袖章”也随之瓦解。就在人类逐渐走出战争带来的阴影之时，失踪两年的独角兽三号机“凤凰”突然现身，拥有颠覆世界秩...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "968",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "5.9"
+  }
+}
+</script>
+
+
+    <style type="text/css">
+  
+</style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/4fcdc48d56f21ca7.css">
+
+    <link rel="shortcut icon" href="../../../https@img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="../../../https@accounts.douban.com/passport/login@source=movie" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="../../../https@www.douban.com/doubanapp/app@channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="../../../https@www.douban.com/doubanapp/app@channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="../../../https@www.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="../../../https@book.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="../../default.htm"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="../../../https@music.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="../../../https@read.douban.com/@dcs=top-nav&dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="../../../https@douban.fm/@from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="../../../https@time.douban.com/@dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="../../../https@market.douban.com/@utm_campaign=douban_top_nav&utm_source=douban&utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="../../../https@ypy.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "../../../https@www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https_3A//movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;movie.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="../../cinema/nowplaying/default.htm"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="../../explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="../../tv/default.htm"
+     >电视剧</a>
+    </li>
+    <li    ><a href="../../chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="../../tag/default.htm"
+     >分类</a>
+    </li>
+    <li    ><a href="../../review/best/default.htm"
+     >影评</a>
+    </li>
+    <li    ><a href="../../annual/2018@source=navigation"
+     >2018年度榜单</a>
+    </li>
+    <li    ><a href="../../../https@www.douban.com/standbyme/2018@source=navigation"
+     >2018书影音报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="../../annual/2018@source=movie_navigation" class="movieannual2018"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+
+    <div id="dale_movie_subject_top_icon"></div>
+    <h1>
+        <span property="v:itemreviewed">机动战士高达NT 機動戦士ガンダム NT（ナラティブ）</span>
+            <span class="year">(2018)</span>
+    </h1>
+
+        <div class="grid-16-8 clearfix">
+            
+
+            
+            <div class="article">
+                
+    
+
+    
+
+
+
+
+
+        <div class="indent clearfix">
+            <div class="subjectwrap clearfix">
+                <div class="subject clearfix">
+                    
+
+
+
+<div id="mainpic" class="">
+    <a class="nbgnbg" href="photos@type=R" title="点击看更多海报">
+        <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2558661806.jpg" title="点击看更多海报" alt="機動戦士ガンダム NT（ナラティブ）" rel="v:image" />
+   </a>
+</div>
+
+                    
+
+
+<div id="info">
+        <span ><span class='pl'>导演</span>: <span class='attrs'><a href="../../celebrity/1419223/default.htm" rel="v:directedBy">吉泽俊一</a></span></span><br/>
+        <span ><span class='pl'>编剧</span>: <span class='attrs'><a href="../../celebrity/1419225/default.htm">福井晴敏</a> / <a href="../../celebrity/1042523/default.htm">富野由悠季</a> / <a href="../../celebrity/1321127/default.htm">矢立肇</a></span></span><br/>
+        <span class="actor"><span class='pl'>主演</span>: <span class='attrs'><a href="../../celebrity/1378653/default.htm" rel="v:starring">榎木淳弥</a> / <a href="../../celebrity/1409158/default.htm" rel="v:starring">村中知</a> / <a href="../../celebrity/1319428/default.htm" rel="v:starring">松浦爱弓</a> / <a href="../../celebrity/1347605/default.htm" rel="v:starring">梅原裕一郎</a> / <a href="../../celebrity/1052148/default.htm" rel="v:starring">藤村步</a> / <a href="../../celebrity/1348459/default.htm" rel="v:starring">古川慎</a> / <a href="../../celebrity/1419226/default.htm" rel="v:starring">盐田朋子</a> / <a href="../../celebrity/1208805/default.htm" rel="v:starring">寺杣昌纪</a> / <a href="../../celebrity/1037337/default.htm" rel="v:starring">中井和哉</a> / <a href="../../celebrity/1360165/default.htm" rel="v:starring">山路和弘</a> / <a href="../../celebrity/1376229/default.htm" rel="v:starring">星野贵纪</a> / <a href="../../celebrity/1406178/default.htm" rel="v:starring">佐藤节二</a> / <a href="../../celebrity/1409719/default.htm" rel="v:starring">驹田航</a> / <a href="../../celebrity/1419227/default.htm" rel="v:starring">荒井勇树</a> / <a href="../../celebrity/1419228/default.htm" rel="v:starring">岛田岳洋</a> / <a href="../../celebrity/1409725/default.htm" rel="v:starring">玉野井直树</a> / <a href="../../celebrity/1419229/default.htm" rel="v:starring">中村文德</a> / <a href="../../celebrity/1379582/default.htm" rel="v:starring">横沟菜帆</a></span></span><br/>
+        <span class="pl">类型:</span> <span property="v:genre">科幻</span> / <span property="v:genre">动画</span> / <span property="v:genre">战争</span><br/>
+        <span class="pl">官方网站:</span> <a href="../../../gundam-nt.net/default.htm" rel="nofollow" target="_blank">gundam-nt.net</a><br/>
+        <span class="pl">制片国家/地区:</span> 日本<br/>
+        <span class="pl">语言:</span> 日语<br/>
+        <span class="pl">上映日期:</span> <span property="v:initialReleaseDate" content="2019-07-12(中国大陆)">2019-07-12(中国大陆)</span> / <span property="v:initialReleaseDate" content="2018-11-30(日本)">2018-11-30(日本)</span><br/>
+        <span class="pl">片长:</span> <span property="v:runtime" content="90">90分钟</span><br/>
+        <span class="pl">又名:</span> Mobile Suit Gundam NT (Narrative)<br/>
+        <span class="pl">IMDb链接:</span> <a href="../../../www.imdb.com/title/tt9497146" target="_blank" rel="nofollow">tt9497146</a><br>
+
+</div>
+
+
+
+
+                </div>
+                    
+
+
+<div id="interest_sectl">
+    <div class="rating_wrap clearbox" rel="v_3Arating">
+        <div class="clearfix">
+          <div class="rating_logo ll">豆瓣评分</div>
+          <div class="output-btn-wrap rr" style="display:none">
+            <img src="../../../https@img3.doubanio.com/f/movie/692e86756648f29457847c5cc5e161d6f6b8aaac/pics/movie/reference.png" />
+            <a class="download-output-image" href="#">引用</a>
+          </div>
+          
+          
+        </div>
+        
+
+
+
+<div class="rating_self clearfix" typeof="v:Rating">
+    <strong class="ll rating_num" property="v:average">5.9</strong>
+    <span property="v:best" content="10.0"></span>
+    <div class="rating_right ">
+        <div class="ll bigstar bigstar30"></div>
+        <div class="rating_sum">
+                <a href="collections" class="rating_people">
+                    <span property="v:votes">969</span>人评价
+                </a>
+        </div>
+    </div>
+</div>
+<div class="ratings-on-weight">
+    
+        <div class="item">
+        
+        <span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+        <div class="power" style="width:6px"></div>
+        <span class="rating_per">5.2%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+        <div class="power" style="width:25px"></div>
+        <span class="rating_per">19.6%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars3 starstop" title="还行">
+            3星
+        </span>
+        <div class="power" style="width:64px"></div>
+        <span class="rating_per">48.3%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars2 starstop" title="较差">
+            2星
+        </span>
+        <div class="power" style="width:26px"></div>
+        <span class="rating_per">20.0%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars1 starstop" title="很差">
+            1星
+        </span>
+        <div class="power" style="width:9px"></div>
+        <span class="rating_per">7.0%</span>
+        <br />
+        </div>
+</div>
+
+    </div>
+        <div class="rating_betterthan">
+            好于 <a href="../../typerank@type_name=_25E5_258A_25A8_25E7_2594_25BB&type=25&interval_id=15_3A5&action=">13% 动画片</a><br/>
+            好于 <a href="../../typerank@type_name=_25E7_25A7_2591_25E5_25B9_25BB&type=17&interval_id=30_3A20&action=">26% 科幻片</a><br/>
+        </div>
+</div>
+
+
+                
+            </div>
+                
+
+
+
+
+<div id="interest_sect_level" class="clearfix">
+        
+            <a href="../../../https@www.douban.com/reason=collectwish&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-30201138-wish">
+                <span>想看</span>
+            </a>
+            <a href="../../../https@www.douban.com/reason=collectcollect&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-30201138-collect">
+                <span>看过</span>
+            </a>
+        <div class="ll j a_stars">
+            
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="../../../https@img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="../../../https@img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover_402x.png" data-hollow-2x="../../../https@img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover_402x.png">
+
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-30201138-1">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-30201138-2">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-30201138-3">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-30201138-4">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-30201138-5">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+        </div>
+    
+
+</div>
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        
+    
+        
+                <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/cc03d0fcf32b7ce3af7b160a0b85e5e66b47cc42/pics/short-comment.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_cmnt_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写短评</a>
+ </li>
+                    <li> 
+    
+    <img src="../../../https@img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_rv_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写影评</a>
+ </li>
+                    <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/61cc48ba7c40e0272d46bb93fe0dc514f3b71ec5/pics/add-doulist.gif" />&nbsp;
+    <a class="" href="questions/ask@from=subject_top">提问题</a>
+ </li>
+                <li> 
+    
+
+
+
+ </li>
+                <li> 
+   
+
+   
+    
+    <span class="rec" id="电影-30201138">
+    <a href= "#"
+        data-type="电影"
+        data-url="default.htm"
+        data-desc="电影《机动战士高达NT 機動戦士ガンダム NT（ナラティブ）》 (来自豆瓣) "
+        data-title="电影《机动战士高达NT 機動戦士ガンダム NT（ナラティブ）》 (来自豆瓣) "
+        data-pic="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558661806.jpeg"
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </span>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = '../../../https@img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('../../../https@img3.doubanio.com/f/movie/32be6727ed3ad8f6c4a417d8a086355c3e7d1d27/js/movie/lib/sharebutton.js');
+    </script>
+
+
+  </li>
+            
+
+    </ul>
+
+    <script type="text/javascript">
+        $(function(){
+            $(".ul_subject_menu li.rec .bn-sharing").bind("click", function(){
+                $.get("../../blank@sbj_page_click=bn_sharing");
+            });
+            $(".ul_subject_menu .create_from_menu").bind("click", function(e){
+                e.preventDefault();
+                var $el = $(this);
+                var glRoot = document.getElementById('gallery-topics-selection');
+                if (window.has_gallery_topics && glRoot) {
+                    // 判断是否有话题
+                    glRoot.style.display = 'block';
+                } else {
+                    location.href = $el.attr('href');
+                }
+            });
+        });
+    </script>
+</div>
+
+
+
+
+                
+
+
+
+
+
+<div class="rec-sec">
+<span class="rec">
+    <script id="movie-share" type="text/x-html-snippet">
+        
+    <form class="movie-share" action="../../j/share" method="POST">
+        <div class="clearfix form-bd">
+            <div class="input-area">
+                <textarea name="text" class="share-text" cols="72" data-mention-api="https://api.douban.com/shuo/in/complete?alt=xd&amp;callback=?"></textarea>
+                <input type="hidden" name="target-id" value="30201138">
+                <input type="hidden" name="target-type" value="0">
+                <input type="hidden" name="title" value="机动战士高达NT 機動戦士ガンダム NT（ナラティブ）‎ (2018)">
+                <input type="hidden" name="desc" value="导演 吉泽俊一 主演 榎木淳弥 / 村中知 / 日本 / 5.9分(969评价)">
+                <input type="hidden" name="redir" value=""/>
+                <div class="mentioned-highlighter"></div>
+            </div>
+
+            <div class="info-area">
+                    <img class="media" src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2558661806.jpg" />
+                <strong>机动战士高达NT 機動戦士ガンダム NT（ナラティブ）‎ (2018)</strong>
+                <p>导演 吉泽俊一 主演 榎木淳弥 / 村中知 / 日本 / 5.9分(969评价)</p>
+                <p class="error server-error">&nbsp;</p>
+            </div>
+        </div>
+        <div class="form-ft">
+            <div class="form-ft-inner">
+                
+
+
+
+                <span class="avail-num-indicator">140</span>
+                <span class="bn-flat">
+                    <input type="submit" value="推荐" />
+                </span>
+            </div>
+        </div>
+    </form>
+    
+    <div id="suggest-mention-tmpl" style="display:none;">
+        <ul>
+            {{#users}}
+            <li id="{{uid}}">
+              <img src="{{avatar}}">{{{username}}}&nbsp;<span>({{{uid}}})</span>
+            </li>
+            {{/users}}
+        </ul>
+    </div>
+
+
+    </script>
+
+        
+        <a href="../../accounts/register@reason=recommend"  class="j a_show_login lnk-sharing" share-id="30201138" data-mode="plain" data-name="机动战士高达NT 機動戦士ガンダム NT（ナラティブ）‎ (2018)" data-type="movie" data-desc="导演 吉泽俊一 主演 榎木淳弥 / 村中知 / 日本 / 5.9分(969评价)" data-href="https://movie.douban.com/subject/30201138/" data-image="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2558661806.jpg" data-properties="{}" data-redir="" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1002" data-object_id="30201138" data-target_type="rec" data-target_action="0" data-action_props="{&#34;subject_url&#34;:&#34;https:\/\/movie.douban.com\/subject\/30201138\/&#34;,&#34;subject_title&#34;:&#34;机动战士高达NT 機動戦士ガンダム NT（ナラティブ）‎ (2018)&#34;}">推荐</a>
+</span>
+
+
+</div>
+
+
+
+
+
+
+            <script type="text/javascript">
+                $(function() {
+                    $('.collect_btn', '#interest_sect_level').each(function() {
+                        Douban.init_collect_btn(this);
+                    });
+                    $('html').delegate(".indent .rec-sec .lnk-sharing", "click", function() {
+                        moreurl(this, {
+                            from : 'mv_sbj_db_share'
+                        });
+                    });
+                });
+            </script>
+        </div>
+            
+
+
+    <div id="collect_form_30201138"></div>
+
+
+        
+
+
+
+<div class="related-info" style="margin-bottom:-10px;">
+    <a name="intro"></a>
+    
+        
+            
+            
+    <h2>
+        <i class="">机动战士高达NT的剧情简介</i>
+             ······
+    </h2>
+
+            <div class="indent" id="link-report">
+                    
+                        <span property="v:summary" class="">
+                                　　U. C.0097时期，“拉普拉斯事变”的纷争终结后，2架独角兽高达被秘密封印，新吉翁残党“袖章”也随之瓦解。就在人类逐渐走出战争带来的阴影之时，失踪两年的独角兽三号机“凤凰”突然现身，拥有颠覆世界秩序力量的它即刻引发了地球联邦军、吉翁袖章残党以及路欧商会三方势力的争夺狩猎，一场宇宙对决也即将拉开帷幕......
+                        </span>
+                        
+
+            </div>
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+<div id="celebrities" class="celebrities related-celebrities">
+
+  
+    <h2>
+        <i class="">机动战士高达NT的演职员</i>
+             ······
+            <span class="pl">
+            (
+                <a href="celebrities">全部 23</a>
+            )
+            </span>
+    </h2>
+
+
+  <ul class="celebrities-list from-subject __oneline">
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1419223/default.htm" title="吉泽俊一 Shun&#39;ichi Yoshizawa" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1419223/default.htm" title="吉泽俊一 Shun&#39;ichi Yoshizawa" class="name">吉泽俊一</a></span>
+
+      <span class="role" title="导演">导演</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1378653/default.htm" title="榎木淳弥 Junya Enoki" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1502244105.4.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1378653/default.htm" title="榎木淳弥 Junya Enoki" class="name">榎木淳弥</a></span>
+
+      <span class="role" title="配 乔纳·巴修塔 ヨナ・バシュタ">配 乔纳·巴修塔 ヨナ・バシュタ</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1409158/default.htm" title="村中知 Muranaka Tomo" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/pNZkDWpTYTsocel_avatar_uploaded1547469900.23.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1409158/default.htm" title="村中知 Muranaka Tomo" class="name">村中知</a></span>
+
+      <span class="role" title="配 米歇儿·卢欧 ミシェル・ルオ">配 米歇儿·卢欧 ミシェル・ルオ</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1319428/default.htm" title="松浦爱弓 Ayu Matsuura" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512268646.95.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1319428/default.htm" title="松浦爱弓 Ayu Matsuura" class="name">松浦爱弓</a></span>
+
+      <span class="role" title="配 莉塔·贝尔纳尔 リタ・ベルナル">配 莉塔·贝尔纳尔 リタ・ベルナル</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1347605/default.htm" title="梅原裕一郎 Yuichiro Umehara" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1FmT68N3S9Acel_avatar_uploaded1422491880.0.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1347605/default.htm" title="梅原裕一郎 Yuichiro Umehara" class="name">梅原裕一郎</a></span>
+
+      <span class="role" title="配 佐尔坦·亚卡年 ゾルタン・アッカネン">配 佐尔坦·亚卡年 ゾルタン・アッカネン</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1052148/default.htm" title="藤村步 Ayumi Fujimura" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1486091196.91.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1052148/default.htm" title="藤村步 Ayumi Fujimura" class="name">藤村步</a></span>
+
+      <span class="role" title="配 米妮瓦·拉欧·萨比 ミネバ・ラオ・ザビ">配 米妮瓦·拉欧·萨比 ミネバ・ラオ・ザビ</span>
+
+    </div>
+  </li>
+
+
+  </ul>
+</div>
+
+
+    
+
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/f/verify/16c7e943aee3b1dc6d65f600fcc0f6d62db7dfb4/entry_creator/dist/author_subject/style.css">
+<div id="author_subject" class="author-wrapper">
+    <div class="loading"></div>
+</div>
+<script type="text/javascript">
+    var answerObj = {
+      ISALL: 'False',
+      TYPE: 'movie',
+      SUBJECT_ID: '30201138',
+      USER_ID: 'None'
+    }
+</script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/61252f2f9b35f08b37f69d17dfe48310dd295347/js/movie/lib/react/15.4/bundle.js"></script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/verify/ac140ef86262b845d2be7b859e352d8196f3f6d4/entry_creator/dist/author_subject/index.js"></script>
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    <div id="related-pic" class="related-pic">
+        
+    
+    
+    <h2>
+        <i class="">机动战士高达NT的视频和图片</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="trailer#trailer">预告片5</a>&nbsp;|&nbsp;<a href="../../video/create@subject_id=30201138">添加视频评论</a>&nbsp;|&nbsp;<a href="all_photos">图片90</a>&nbsp;·&nbsp;<a href="mupload">添加</a>
+            )
+            </span>
+    </h2>
+
+
+        <ul class="related-pic-bd  ">
+                <li class="label-trailer">
+                    <a class="related-pic-video" href="../../trailer/249642/#content" title="预告片" style="background-image:url(../../../https@img3.doubanio.com/img/trailer/medium/2561808975.jpg@1562577788)">
+                    </a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2557140788/default.htm"><img src="../../../https@img1.doubanio.com/view/photo/sqxs/public/p2557140788.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2557140792/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2557140792.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2561547337/default.htm"><img src="../../../https@img1.doubanio.com/view/photo/sqxs/public/p2561547337.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2561547331/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2561547331.jpg" alt="图片" /></a>
+                </li>
+        </ul>
+    </div>
+
+
+
+
+    
+    
+
+
+
+<style type="text/css">
+.award li { display: inline; margin-right: 5px }
+.awards { margin-bottom: 20px }
+.awards h2 { background: none; color: #000; font-size: 14px; padding-bottom: 5px; margin-bottom: 8px; border-bottom: 1px dashed #dddddd }
+.awards .year { color: #666666; margin-left: -5px }
+.mod { margin-bottom: 25px }
+.mod .hd { margin-bottom: 10px }
+.mod .hd h2 {margin:24px 0 3px 0}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+
+    <div id="recommendations" class="">
+        
+        
+    <h2>
+        <i class="">喜欢这部电影的人也喜欢</i>
+             ······
+    </h2>
+
+        
+    
+    <div class="recommendations-bd">
+        <dl class="">
+            <dt>
+                <a href="../26827751/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2363626116.jpg" alt="机动战士高达 雷霆宙域 DECEMBER SKY" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26827751/@from=subject-page" class="" >机动战士高达 雷霆宙域 DECEM...</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27149654/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2557014291.jpg" alt="银河英雄传说 Die Neue These 星乱 第1章" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27149654/@from=subject-page" class="" >银河英雄传说 Die Neue These...</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27625671/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2559682451.jpg" alt="少女与战车：最终章 第2话" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27625671/@from=subject-page" class="" >少女与战车：最终章 第2话</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26358556/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2497274141.jpg" alt="高达创战者：GM的逆袭" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26358556/@from=subject-page" class="" >高达创战者：GM的逆袭</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../5501691/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2532176041.jpg" alt="总集篇 机动战士高达00 －天使们的轨迹－" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../5501691/@from=subject-page" class="" >总集篇 机动战士高达00 －天...</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26759819/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2561910374.jpg" alt="命运之夜——天之杯II ：迷失之蝶" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26759819/@from=subject-page" class="" >命运之夜——天之杯II ：迷失...</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../3811353/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p709249778.jpg" alt="剧场版 机动战士高达00 先驱者的觉醒" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../3811353/@from=subject-page" class="" >剧场版 机动战士高达00 先驱...</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../27145041/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2557907466.jpg" alt="全职高手之巅峰荣耀" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../27145041/@from=subject-page" class="" >全职高手之巅峰荣耀</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../4942944/@from=subject-page" >
+                    <img src="../../../https@img1.doubanio.com/view/photo/s_ratio_poster/public/p2517465217.jpg" alt="波特姆斯探寻者" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../4942944/@from=subject-page" class="" >波特姆斯探寻者</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26754064/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2561172763.jpg" alt="精灵小王子" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26754064/@from=subject-page" class="" >精灵小王子</a>
+            </dd>
+        </dl>
+    </div>
+
+    </div>
+
+
+
+        
+
+
+<script type="text/x-handlebar-tmpl" id="comment-tmpl">
+    <div class="dummy-fold">
+        {{#each comments}}
+        <div class="comment-item" data-cid="id">
+            <div class="comment">
+                <h3>
+                    <span class="comment-vote">
+                            <span class="votes">{{votes}}</span>
+                        <input value="{{id}}" type="hidden"/>
+                        <a href="javascript:;" class="j {{#if ../if_logined}}a_vote_comment{{else}}a_show_login{{/if}}">有用</a>
+                    </span>
+                    <span class="comment-info">
+                        <a href="{{user.path}}" class="">{{user.name}}</a>
+                        {{#if rating}}
+                        <span class="allstar{{rating}}0 rating" title="{{rating_word}}"></span>
+                        {{/if}}
+                        <span>
+                            {{time}}
+                        </span>
+                        <p> {{content_tmpl content}} </p>
+                    </span>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <div id="comments-section">
+        <div class="mod-hd">
+            
+        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">
+            <span>我要写短评</span>
+        </a>
+
+            
+            
+    <h2>
+        <i class="">机动战士高达NT的短评</i>
+             ······
+            <span class="pl">
+            (
+                <a href="comments@status=P">全部 393 条</a>
+            )
+            </span>
+    </h2>
+
+        </div>
+        <div class="mod-bd">
+                
+    <div class="tab-hd">
+        <a id="hot-comments-tab" href="comments" data-id="hot" class="on">热门</a>&nbsp;/&nbsp;
+            <a id="new-comments-tab" href="comments@sort=time" data-id="new">最新</a>&nbsp;/&nbsp;
+        <a id="following-comments-tab" href="follows_comments" data-id="following"  class="j a_show_login">好友</a>
+    </div>
+
+    <div class="tab-bd">
+        <div id="hot-comments" class="tab">
+            
+    
+        
+        <div class="comment-item" data-cid="1546705088">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">11</span>
+                <input value="1546705088" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/74204077/default.htm" class="">ymbaby</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2018-11-30 19:57:53">
+                    2018-11-30
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">打斗方面，紧张感方面还是不错的，对得起电影版的名头，但是人设刻画实在太简陋了，比比《雷霆宙域》再比比独角兽，有这两部打基础，再比比0083，个人心目中细节巅峰之作是0083，然后是0093（逆袭夏亚）和F91并列，然后是《雷霆宙域》，然后是《独角兽》，然后嗯……暂时排不到他</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1848733901">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">4</span>
+                <input value="1848733901" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/62345168/default.htm" class="">风中奇缘</a>
+                    <span>看过</span>
+                    <span class="allstar10 rating" title="很差"></span>
+                <span class="comment-time " title="2019-07-06 12:00:12">
+                    2019-07-06
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">甚至连高达系列的TV版动画都不如，人物角色和机甲设计画得太差劲，有些地方都崩坏了，剧情也是很迷，拒绝承认这是一部“高达”</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1546636190">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">12</span>
+                <input value="1546636190" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/EinLewi/default.htm" class="">二ノ猫EinLewi</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time " title="2018-11-30 19:11:41">
+                    2018-11-30
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">最令人欣慰的是在《不死鸟狩猎》基础上追加的原创角色戏份不仅丝毫不突兀，可以说对于突出NT这个概念起到相称的渲染作用。新吉恩侧反派佐尔坦短短几句台词就诉出了超常现象操控者乃至原作对于NT只作为现象而不被理解的苦衷。把屏幕外的“旧人类”、屏幕内的“新人类”对立出来。类似这些台词和表现细节，都可见整片在保留了UC基础格调（新人类核心）对超常现象做了的尽可能通俗化的功夫。对于UC中遗留的问题很多都在片中得...</span>
+                <span class="hide-item full">最令人欣慰的是在《不死鸟狩猎》基础上追加的原创角色戏份不仅丝毫不突兀，可以说对于突出NT这个概念起到相称的渲染作用。新吉恩侧反派佐尔坦短短几句台词就诉出了超常现象操控者乃至原作对于NT只作为现象而不被理解的苦衷。把屏幕外的“旧人类”、屏幕内的“新人类”对立出来。类似这些台词和表现细节，都可见整片在保留了UC基础格调（新人类核心）对超常现象做了的尽可能通俗化的功夫。对于UC中遗留的问题很多都在片中得到了补充说明。巴纳吉的登场真的是令人感动…</span>
+                <span class="expand">(<a href="javascript:;">展开</a>)</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1803997457">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">4</span>
+                <input value="1803997457" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/soultaker/default.htm" class="">90</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2019-05-30 02:22:46">
+                    2019-05-30
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">uc的后传，更多的像是逆袭的夏亚的延伸，三人之间的关系拿捏得不错。但是中后期剧情略显仓促，而且独角兽三号机的行动理由也有些牵强，这种类似世界守护灵的设定拿去fate系列看倒是挺正常，放高达系列里就有点魔幻了。战斗戏拿出来依然是很有看点的。对于uc系列了解的多的人可以看到很多对过去的致敬。</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1558648399">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">2</span>
+                <input value="1558648399" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/ngfeiyin/default.htm" class="">NgFeiyin</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-03-02 22:03:24">
+                    2019-03-02
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">總算回歸「反戰」主題，但內容越來越神棍，宇宙女鬼陣容越來越強大，這樣下去會變成高達志異的。悉尼又被炸，從1979年炸到2019年，4比3炸到4k越炸越高清。前半小時劇情挺緊湊的，然後剩下的一個月開始各種莫名其妙了。從片尾來看應該還會像uc那樣出幾部續集，畢竟巴納吉最後那部高達名字還沒說，湯小美也只有兩個鏡頭。想不到巴納吉會成為seed -d中基拉那種傳說級大神人物，現在看回uc真是覺得唏噓。這次澤...</span>
+                <span class="hide-item full">總算回歸「反戰」主題，但內容越來越神棍，宇宙女鬼陣容越來越強大，這樣下去會變成高達志異的。悉尼又被炸，從1979年炸到2019年，4比3炸到4k越炸越高清。前半小時劇情挺緊湊的，然後剩下的一個月開始各種莫名其妙了。從片尾來看應該還會像uc那樣出幾部續集，畢竟巴納吉最後那部高達名字還沒說，湯小美也只有兩個鏡頭。想不到巴納吉會成為seed -d中基拉那種傳說級大神人物，現在看回uc真是覺得唏噓。這次澤野大佬的配樂非常敷衍，除了捕鳥神曲、cage和片尾的narrative，其他的都很罐頭，甚至把uc的mad gun拿來改編，手頭項目多真是忙不過來了。</span>
+                <span class="expand">(<a href="javascript:;">展开</a>)</span>
+        </p>
+    </div>
+
+        </div>
+
+
+
+                
+                &gt; <a href="comments@sort=new_score&status=P" >更多短评393条</a>
+        </div>
+        <div id="new-comments" class="tab">
+            <div id="normal">
+            </div>
+            <div class="fold-hd hide">
+                <a class="qa" href="../../help/opinion#t2-q0" target="_blank">为什么被折叠？</a>
+                <a class="btn-unfold" href="#">有一些短评被折叠了</a>
+                <div class="qa-tip">
+                    评论被折叠，是因为发布这条评论的帐号行为异常。评论仍可以被展开阅读，对发布人的账号不造成其他影响。如果认为有问题，可以<a href="../../../https@help.douban.com/help/ask@category=movie">联系</a>豆瓣电影。
+                </div>
+            </div>
+            <div class="fold-bd">
+            </div>
+            <span id="total-num"></span>
+        </div>
+        <div id="following-comments" class="tab">
+            
+    
+
+
+        <div class="comment-item">
+            你关注的人还没写过短评
+        </div>
+
+        </div>
+    </div>
+
+
+            
+            
+        </div>
+    </div>
+
+
+
+        
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/5b893040c800d5cd.css">
+
+<section class="topics mod">
+    <header>
+        <h2>
+            机动战士高达NT的话题 · · · · · ·
+            <span class="pl">( <span class="gallery_topics">全部 <span id="topic-count"></span> 条</span> )</span>
+        </h2>
+    </header>
+
+    
+
+
+
+
+<section class="subject-topics">
+    <div class="topic-guide" id="topic-guide">
+        <img class="ic_question" src="../../../https@img3.doubanio.com/f/ithildin/b1a3edea3d04805f899e9d77c0bfc0d158df10d5/pics/export/icon_question.png">
+        <div class="tip_content">
+            <div class="tip_title">什么是话题</div>
+            <div class="tip_desc">
+                <div>无论是一部作品、一个人，还是一件事，都往往可以衍生出许多不同的话题。将这些话题细分出来，分别进行讨论，会有更多收获。</div>
+            </div>
+        </div>
+        <img class="ic_guide" src="../../../https@img3.doubanio.com/f/ithildin/529f46d86bc08f55cd0b1843d0492242ebbd22de/pics/export/icon_guide_arrow.png">
+        <img class="ic_close" id="topic-guide-close" src="../../../https@img3.doubanio.com/f/ithildin/2eb4ad488cb0854644b23f20b6fa312404429589/pics/export/close_403x.png">
+    </div>
+
+    <div id="topic-items"></div>
+
+    <script>
+        window.subject_id = 30201138;
+        window.join_label_text = '写影评参与';
+
+        window.topic_display_count = 4;
+        window.topic_item_display_count = 1;
+        window.no_content_fun_call_name = "no_topic";
+
+        window.guideNode = document.getElementById('topic-guide');
+        window.guideNodeClose = document.getElementById('topic-guide-close');
+    </script>
+    
+        <link rel="stylesheet" href="../../../https@img3.doubanio.com/f/ithildin/f731c9ea474da58c516290b3a6b1dd1237c07c5e/css/export/subject_topics.css">
+        <script src="../../../https@img3.doubanio.com/f/ithildin/d3590fc6ac47b33c804037a1aa7eec49075428c8/js/export/moment-with-locales-only-zh.js"></script>
+        <script src="../../../https@img3.doubanio.com/f/ithildin/c600fdbe69e3ffa5a3919c81ae8c8b4140e99a3e/js/export/subject_topics.js"></script>
+
+</section>
+
+    <script>
+        function no_topic(){
+            $('#content .topics').remove();
+        }
+    </script>
+</section>
+
+<section class="reviews mod movie-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review comment_btn "
+            data-isverify="False"
+            data-verify-url="../../../https@www.douban.com/accounts/phone/verify@redir=http_3A_2F_2Fmovie.douban.com_2Fsubject_2F30201138_2Fnew_review">
+            <span>我要写影评</span>
+        </a>
+        <h2>
+            机动战士高达NT的影评 · · · · · ·
+            <span class="pl">( <a href="reviews">全部 8 条</a> )</span>
+        </h2>
+    </header>
+
+    
+
+<style>
+#gallery-topics-selection {
+  position: fixed;
+  width: 595px;
+  padding: 40px 40px 33px 40px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.2);
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+#gallery-topics-selection h1 {
+  font-size: 18px;
+  color: #007722;
+  margin-bottom: 36px;
+  padding: 0;
+  line-height: 28px;
+  font-weight: normal;
+}
+#gallery-topics-selection .gl_topics {
+  border-bottom: 1px solid #dfdfdf;
+  max-height: 298px;
+  overflow-y: scroll;
+}
+#gallery-topics-selection .topic {
+  margin-bottom: 24px;
+}
+#gallery-topics-selection .topic_name {
+  font-size: 15px;
+  color: #333;
+  margin: 0;
+  line-height: inherit;
+}
+#gallery-topics-selection .topic_meta {
+  font-size: 13px;
+  color: #999;
+}
+#gallery-topics-selection .topics_skip {
+  display: block;
+  cursor: pointer;
+  font-size: 16px;
+  color: #3377AA;
+  text-align: center;
+  margin-top: 33px;
+}
+#gallery-topics-selection .topics_skip:hover {
+  background: transparent;
+}
+#gallery-topics-selection .close_selection {
+  position: absolute;
+  width: 30px;
+  height: 20px;
+  top: 46px;
+  right: 40px;
+  background: #fff;
+  color: #999;
+  text-align: right;
+}
+#gallery-topics-selection .close_selection:hover{
+  background: #fff;
+  color: #999;
+}
+</style>
+
+
+
+
+        <div class="review_filter">
+            <a href="javascript:;;" class="cur" data-sort="">热门</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="time">最新</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="follow">好友</a href="javascript:;;">
+            
+        </div>
+
+
+        
+
+
+
+<div class="review-list  ">
+        
+    
+
+        
+    
+    <div data-cid="10221303">
+        <div class="main review-item" id="10221303">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/47289809/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u47289809-4.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/47289809/default.htm" class="name">md2</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-06-04" class="main-meta">2019-06-04 11:48:00</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10221303/default.htm">优秀的剧本，0分的高达</a></h2>
+
+                <div id="review_10221303_short" class="review-short" data-rid="10221303">
+                    <div class="short-content">
+
+                        男人唱歌女人死。 我思考过，为什么会选择一个三角恋故事作为故事主题，还是最传统的单向三角恋。最后得出的结论是，想要在90分钟时间内讲完一个故事，还要让观众感动，这种套路是最方便的。 如果去掉一切与高达相关的设定，就只用“科幻战争”和“超能力”这些基础设计来组织...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10221303-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10221303_full" class="hidden">
+                    <div id="review_10221303_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10221303" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10221303">
+                                8
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10221303" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10221303">
+                                1
+                        </span>
+                    </a>
+                    <a href="../../review/10221303/#comments" class="reply ">5回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10182800">
+        <div class="main review-item" id="10182800">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/130925908/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u130925908-3.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/130925908/default.htm" class="name">胸口碎大饼</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-05-15" class="main-meta">2019-05-15 20:58:19</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10182800/default.htm">第一部引进大陆的高达，可惜不是光头的高达</a></h2>
+
+                <div id="review_10182800_short" class="review-short" data-rid="10182800">
+                    <div class="short-content">
+
+                        富野由悠季，高达之父。福井晴敏，大文豪，又称新高达之父，代表作高达独角兽，高达nt。 富野光头从高达始，历经z高达，zz高达，最后到cca（逆袭的夏亚）将uc纪元完美收尾。但高达这块招牌b社并不会舍得放下，高达30周年的时候宣布大文豪的小说高达UC（独角兽）动画化。然后到...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10182800-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10182800_full" class="hidden">
+                    <div id="review_10182800_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10182800" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10182800">
+                                13
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10182800" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10182800">
+                        </span>
+                    </a>
+                    <a href="../../review/10182800/#comments" class="reply ">3回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10223260">
+        <div class="main review-item" id="10223260">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/161799573/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u161799573-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/161799573/default.htm" class="name">红眼的黑龙</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2019-06-05" class="main-meta">2019-06-05 15:19:03</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10223260/default.htm">这很高达，也很不高达</a></h2>
+
+                <div id="review_10223260_short" class="review-short" data-rid="10223260">
+                    <div class="short-content">
+
+                        凤凰高达吃丽塔的设定不知为何让我想起eva里被初号机吃掉的碇唯，不同的是丽塔不但可以操纵凤凰高达而且还可以用精神骨架跟好朋友们各种神交。 一年战争里阿姆罗失手杀死了nt的拉拉于是两个人有那么一段闹鬼神交，之后nt的能力仅仅是让阿姆罗君感知能力变强了，然后开了一个心...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10223260-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10223260_full" class="hidden">
+                    <div id="review_10223260_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10223260" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10223260">
+                                1
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10223260" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10223260">
+                        </span>
+                    </a>
+                    <a href="../../review/10223260/#comments" class="reply ">2回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="9995055">
+        <div class="main review-item" id="9995055">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/191778131/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/user_normal.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/191778131/default.htm" class="name">橘斑猫</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-02-21" class="main-meta">2019-02-21 15:49:43</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/9995055/default.htm">神经病反派和毫无逻辑的超能力</a></h2>
+
+                <div id="review_9995055_short" class="review-short" data-rid="9995055">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        我是高达小白一枚，但从小就听说过这个机甲动画神作。秉着百闻不如一见的宗旨，我最近去电影院看了它最新的剧场版，高达NT，结果大失所望。 平心而论，高达NT里的打斗场面和背景音乐都做得还不错。但是，这电影的两大硬伤让我不吐不快：一个是神经病反派，另一个则是毫无逻辑的...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-9995055-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_9995055_full" class="hidden">
+                    <div id="review_9995055_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="9995055" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-9995055">
+                                5
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="9995055" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-9995055">
+                                4
+                        </span>
+                    </a>
+                    <a href="../../review/9995055/#comments" class="reply ">13回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10292152">
+        <div class="main review-item" id="10292152">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/196235994/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u196235994-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/196235994/default.htm" class="name">宁愿你是大海</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2019-07-07" class="main-meta">2019-07-07 13:43:08</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10292152/default.htm">机动战士</a></h2>
+
+                <div id="review_10292152_short" class="review-short" data-rid="10292152">
+                    <div class="short-content">
+
+                        终于，终于在大荧幕上看高达电影，因为以前十分痴迷高达SEED，对于高达系列也开始喜欢。这次终于有机会，而且是提前观看高达NT，十分的兴奋。高达NT秉承了一贯的高达理念，不光是机架间的战斗，更多的是人性和人类的发展，人类到底何去何从？新人类是否能够成为发展的方向？在...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10292152-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10292152_full" class="hidden">
+                    <div id="review_10292152_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10292152" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10292152">
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10292152" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10292152">
+                        </span>
+                    </a>
+                    <a href="../../review/10292152/#comments" class="reply ">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10245849">
+        <div class="main review-item" id="10245849">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/178566883/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/u178566883-7.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/178566883/default.htm" class="name">虚空行走</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2019-06-16" class="main-meta">2019-06-16 01:58:22</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10245849/default.htm">不是NT的我，只能把想对这部作品说的话写下来。</a></h2>
+
+                <div id="review_10245849_short" class="review-short" data-rid="10245849">
+                    <div class="short-content">
+
+                        看完心情很复杂，感觉就像本来能考清北的孩子考了个普通本科。 作为神作独角兽的后传，设定和剧情方面全部延续，一些独角兽里的关键人物也都有客串出演，更何况是顶着IP40周年纪念名义宣传的作品，理论上应该是十拿九稳不会翻车。结果与预期大大相反： 剧情方面滥用了新人类和...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10245849-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10245849_full" class="hidden">
+                    <div id="review_10245849_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10245849" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10245849">
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10245849" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10245849">
+                        </span>
+                    </a>
+                    <a href="../../review/10245849/#comments" class="reply ">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10237852">
+        <div class="main review-item" id="10237852">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/57878842/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u57878842-5.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/57878842/default.htm" class="name">麻辣列维奇</a>
+
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2019-06-12" class="main-meta">2019-06-12 01:40:28</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10237852/default.htm">钢铁的上帝已经降临</a></h2>
+
+                <div id="review_10237852_short" class="review-short" data-rid="10237852">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        当年看完独角兽后有一种略迷的感觉，nt将这种感觉放大，成了懵。 多年前，从元祖高达，到逆袭的夏亚，我对UC系高达的认识，一直是将其作为真实系的代表，高达是贯穿全剧的线索，真正讲的，是在历史的洪流中漂浮的个人命运。 在我看来，“新人类”这个设定，并不是一个生物学的...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10237852-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10237852_full" class="hidden">
+                    <div id="review_10237852_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10237852" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10237852">
+                                1
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10237852" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10237852">
+                        </span>
+                    </a>
+                    <a href="../../review/10237852/#comments" class="reply ">0回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10202214">
+        <div class="main review-item" id="10202214">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/155570573/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/user_normal.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/155570573/default.htm" class="name">Suhaos</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2019-05-25" class="main-meta">2019-05-25 21:39:55</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10202214/default.htm">还是赚钱最重要</a></h2>
+
+                <div id="review_10202214_short" class="review-short" data-rid="10202214">
+                    <div class="short-content">
+
+                        看完了，还可以，男主挺惨的，剧场版算过度或者补充，毕竟会去看剧场版除了粉以外还有路人，对于uc的设定有的人知道的多有的人知道的少… 虽说是剧场版，但作画水平和作画人数竟然都不如9年前的独角兽，不过看了下团队，有不少新人做主力，难道是试水？但制作剧场版应该算考试...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10202214-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10202214_full" class="hidden">
+                    <div id="review_10202214_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10202214" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10202214">
+                                1
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10202214" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10202214">
+                                4
+                        </span>
+                    </a>
+                    <a href="../../review/10202214/#comments" class="reply ">1回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    
+
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/48b39bb338d8cff5.js"></script>
+    <!-- COLLECTED CSS -->
+</div>
+
+
+
+
+
+
+
+
+            <p class="pl">
+                &gt;
+                <a href="reviews">
+                    更多影评8篇
+                </a>
+            </p>
+</section>
+
+<!-- COLLECTED JS -->
+
+    <br/>
+
+        <div class="section-discussion">
+                
+                <div class="mod-hd">
+                        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow"><span>添加新讨论</span></a>
+                    
+    <h2>
+        讨论区
+         ······
+    </h2>
+
+                </div>
+                
+  <table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616323546/default.htm" title="NT电影主要是为了UC第二季过渡用的。">NT电影主要是为了UC第二季过渡用的。</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/157053981/default.htm">达西</a></td>
+          <td class="pl"><span>3 回应</span></td>
+          <td class="pl"><span>2019-07-11</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616351063/default.htm" title="为啥MS的战斗，非要放在平民居住的殖民卫星。。。倒是见识到了商会的能量，还有莫名潜入的新吉翁。">为啥MS的战斗，非要放在平民居住的殖民卫星。。。...</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/155439215/default.htm">温 Steven</a></td>
+          <td class="pl"><span>1 回应</span></td>
+          <td class="pl"><span>2019-07-11</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616360331/default.htm" title="招募一起看高达NT，苏A">招募一起看高达NT，苏A</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/dearleafage/default.htm">子叶</a></td>
+          <td class="pl"><span>7 回应</span></td>
+          <td class="pl"><span>2019-07-09</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616358115/default.htm" title="我想看">我想看</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/199011067/default.htm">竭尽所能的爱你</a></td>
+          <td class="pl"><span>1 回应</span></td>
+          <td class="pl"><span>2019-07-08</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616358145/default.htm" title="五飞，告诉我，我还要看多少独角兽！！">五飞，告诉我，我还要看多少独角兽！！</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/148860881/default.htm">回忆与否之</a></td>
+          <td class="pl"><span></span></td>
+          <td class="pl"><span>2019-07-06</span></td>
+        </tr>
+  </table>
+
+                <p class="pl" align="right">
+                    <a href="discussion/default.htm" rel="nofollow">
+                        &gt; 去这部影片的讨论区（全部18条）
+                    </a>
+                </p>
+        </div>
+
+
+    <script type="text/javascript">
+        $(function(){if($.browser.msie && $.browser.version == 6.0){
+            var $info = $('#info'),
+                maxWidth = parseInt($info.css('max-width'));
+            if($info.width() > maxWidth) {
+                $info.width(maxWidth);
+            }
+        }});
+    </script>
+
+
+            </div>
+            <div class="aside">
+                
+
+
+    
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+<div class="ticket">
+        <a class="ticket-btn" href="default.htm">购票</a>
+</div>
+
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_top_right"></div>
+    <div id="dale_movie_subject_top_middle"></div>
+    <!-- douban ad end -->
+
+    
+
+
+
+<style type="text/css">
+    .m4 {margin-bottom:8px; padding-bottom:8px;}
+    .movieOnline {background:#FFF6ED; padding:10px; margin-bottom:20px;}
+    .movieOnline h2 {margin:0 0 5px;}
+    .movieOnline .sitename {line-height:2em; width:160px;}
+    .movieOnline td,.movieOnline td a:link,.movieOnline td a:visited{color:#666;}
+    .movieOnline td a:hover {color:#fff;}
+    .link-bt:link,
+    .link-bt:visited,
+    .link-bt:hover,
+    .link-bt:active {margin:5px 0 0; padding:2px 8px; background:#a8c598; color:#fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; display:inline-block;}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+    
+    <div class="tags">
+        
+        
+    <h2>
+        <i class="">豆瓣成员常用的标签</i>
+             ······
+    </h2>
+
+        <div class="tags-body">
+                <a href="../../tag/_25E6_2597_25A5_25E6_259C_25AC" class="">日本</a>
+                <a href="../../tag/_25E5_258A_25A8_25E7_2594_25BB" class="">动画</a>
+                <a href="../../tag/_25E6_259C_25BA_25E6_2588_2598" class="">机战</a>
+                <a href="../../tag/_25E7_25A7_2591_25E5_25B9_25BB" class="">科幻</a>
+                <a href="../../tag/_25E5_25AE_2587_25E5_25AE_2599_25E4_25B8_2596_25E7_25BA_25AA" class="">宇宙世纪</a>
+                <a href="../../tag/_25E5_258A_25A8_25E6_25BC_25AB" class="">动漫</a>
+                <a href="../../tag/2018" class="">2018</a>
+                <a href="../../tag/_25E6_2588_2598_25E4_25BA_2589" class="">战争</a>
+        </div>
+    </div>
+
+
+    <div id="dale_movie_review_right_guess_you_like"></div>
+    <div id="dale_movie_subject_inner_middle"></div>
+    <div id="dale_movie_subject_download_middle"></div>
+        
+
+
+
+
+
+
+
+
+<div id="subject-doulist">
+    
+    
+    <h2>
+        <i class="">以下豆列推荐</i>
+             ······
+            <span class="pl">
+            (
+                <a href="doulists">全部</a>
+            )
+            </span>
+    </h2>
+
+
+    
+    <ul>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/44033623/default.htm" target="_blank">中国内地引进的日影、合拍片汇总</a>
+                <span>(大奇特(Grinch))</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/1023073/default.htm" target="_blank">Gundam补完计划</a>
+                <span>(南條某葉)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/46194640/default.htm" target="_blank">2018秋アニメ</a>
+                <span>(不擅长)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/1427843/default.htm" target="_blank">Robot系列部分收录</a>
+                <span>(於~兮~)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/108879661/default.htm" target="_blank">众里等片千百度~~~2019</a>
+                <span>(HarperYug)</span>
+            </li>
+    </ul>
+
+</div>
+
+            
+
+
+
+
+
+
+
+
+<div id="subject-others-interests">
+    
+    
+    <h2>
+        <i class="">谁在看这部电影</i>
+             ······
+    </h2>
+
+    
+    <ul class="">
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/151692694/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u151692694-1.jpg" class="pil" alt="Shalkye Wayne">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/151692694/default.htm" class="">Shalkye Wayne</a>
+                    <div class="">
+                        6分钟前
+                        想看
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/198417640/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u198417640-1.jpg" class="pil" alt="箫声依旧">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/198417640/default.htm" class="">箫声依旧</a>
+                    <div class="">
+                        9分钟前
+                        想看
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/156797538/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u156797538-1.jpg" class="pil" alt="柯温杰">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/156797538/default.htm" class="">柯温杰</a>
+                    <div class="">
+                        12分钟前
+                        想看
+                        
+                    </div>
+                </div>
+            </li>
+    </ul>
+
+    
+    <div class="subject-others-interests-ft">
+        
+            <a href="collections">1106人看过</a>
+                &nbsp;/&nbsp;
+            <a href="wishes">3139人想看</a>
+    </div>
+
+</div>
+
+
+
+    
+    
+
+<!-- douban ad begin -->
+<div id="dale_movie_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+
+    <br/>
+
+    
+<p class="pl">订阅机动战士高达NT的评论: <br/><span class="feed">
+    <a href="../../feed/subject/30201138/reviews"> feed: rss 2.0</a></span></p>
+
+
+            </div>
+            <div class="extra">
+                
+    
+<!-- douban ad begin -->
+<div id="dale_movie_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2019 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="../../../https@www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="../../../https@www.douban.com/about">关于豆瓣</a>
+    · <a href="../../../https@www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="../../../https@www.douban.com/about@topic=contactus">联系我们</a>
+    · <a href="../../../https@www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="../../../https@help.douban.com/@app=movie" target="_blank">帮助中心</a>
+    · <a href="../../../https@www.douban.com/doubanapp/default.htm">移动应用</a>
+    · <a href="../../../https@www.douban.com/partner/default.htm">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/161fe50e1dd61964.js"></script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/movie/4aca95d66d37ec0712b3d19973b5d8feb75f2f05/css/movie/mod/reg_login_pop.css" />
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB='../../../https@www.douban.com';
+var account_pop={open:function(o,e){e?referrer="@referrer="+encodeURIComponent(e):referrer="@referrer="+window.location.href;var n="",i="",t=448;n="用户登录",i="../../../https@accounts.douban.com/passport/login_popup@source=movie";var r=document.location.protocol+"//"+document.location.hostname,a=dui.Dialog({width:340,title:n,height:t,cls:"account_pop",isHideTitle:!0,modal:!0,content:"<iframe scrolling='no' frameborder='0' width='340' height='"+t+"' src='"+i+"' name='"+r+"'></iframe>"},!0),c=a.node;if(c.undelegate(),c.delegate(".dui-dialog-close","click",function(){var o=$("body");o.find("#login_msk").hide(),o.find(".account_pop").remove()}),$(window).width()<478){var d="";"reg"===o?d=HTTPS_DB+"/accounts/register"+referrer:"login"===o&&(d=HTTPS_DB+"/accounts/login"+referrer),window.location.href=d}else a.open();$(window).bind("message",function(o){"https://accounts.douban.com"===o.originalEvent.origin&&(c.find("iframe").css("height",o.originalEvent.data),c.height(o.originalEvent.data),a.update())})}};Douban&&Douban.init_show_login&&(Douban.init_show_login=function(o){var e=$(o);e.click(function(){var o=e.data("ref")||"";return account_pop.open("login",o),!1})}),Do(function(){$("body").delegate(".pop_register","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("reg",e),!1}),$("body").delegate(".pop_login","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("login",e),!1})});
+    </script>
+
+    
+    
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '../../../https@erebor.douban.com/default.htm',
+            userId = '',
+            browserId = 'Ez1QlPiK8rc',
+            criteria = '7:中井和哉|7:动漫|7:玉野井直树|7:梅原裕一郎|7:热血|7:松浦爱弓|7:山路和弘|7:吉泽俊一|7:盐田朋子|7:佐藤节二|7:机战|7:荒井勇树|7:2018|7:战争|7:寺杣昌纪|7:横沟菜帆|7:中村文德|7:藤村步|7:星野贵纪|7:岛田岳洋|7:古川慎|7:宇宙世纪|7:科幻|7:机甲|7:村中知|7:榎木淳弥|7:日本|7:驹田航|7:动画|3_3A/subject/30201138/@from=showing',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_top_icon', 'dale_movie_subject_top_right', 'dale_movie_subject_top_middle', 'dale_movie_subject_inner_middle', 'dale_movie_subject_download_middle', 'dale_movie_review_right_guess_you_like'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '../../../https@img3.doubanio.com/f/adjs/5ec0e90cac83524d8c3e7f7bf95260c9c1875bca/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'_3A//img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? '../../../https@ssl' : '../../../www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+      
+    
+
+    <!-- anson44-docker-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+

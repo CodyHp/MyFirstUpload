@@ -1,0 +1,3060 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ie10">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+        哥斯拉2：怪兽之王 (豆瓣)
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+    <link rel="apple-touch-icon" href="../../../https@img3.doubanio.com/f/movie/d59b2715fdea4968a450ee5f6c95c7d7a2030065/pics/movie/apple-touch-icon.png">
+    <link href="../../../https@img3.doubanio.com/f/shire/52c9997d6d42db58eab418e976a14d5f3eff981e/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/shire/ae3f5a3e3085968370b1fc63afcecb22d3284848/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="../../../https@img3.doubanio.com/f/movie/8864d3756094f5272d3c93e30ee2e324665855b0/css/movie/base/init.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/0495cb173e298c28593766009c7b0a953246c5b5/js/movie/lib/jquery.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/1316664523258f7b8b536e4ce45afc9cb37b8963/js/douban.js"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/0efdc63b77f895eaf85281fb0e44d435c6239a3f/js/separation/_all.js"></script>
+    
+    <meta name="keywords" content="哥斯拉2：怪兽之王,Godzilla: King of the Monsters,哥斯拉2：怪兽之王影评,剧情介绍,电影图片,预告片,影讯,在线购票,论坛">
+    <meta name="description" content="哥斯拉2：怪兽之王电影简介和剧情介绍,哥斯拉2：怪兽之王影评、图片、预告片、影讯、论坛、在线购票">
+    <meta name="mobile-agent" content="format=html5; url=../../../m.douban.com/movie/subject/25890017/default.htm"/>
+    <link rel="alternate" href="android-app_3A//com.douban.movie/doubanmovie/subject/25890017/default.htm" />
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/dae/cdnlib/libs/LikeButton/1.0.5/style.min.css">
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript">
+      Do.add('dialog', {path: '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js', type: 'js'});
+      Do.add('dialog-css', {path: '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css', type: 'css'});
+      Do.add('handlebarsjs', {path: '../../../https@img3.doubanio.com/f/movie/3d4f8e4a8918718256450eb6e57ec8e1f7a2e14b/js/movie/lib/handlebars.current.js', type: 'js'});
+    </script>
+    
+  <script type='text/javascript'>
+  var _vwo_code = (function() {
+    var account_id = 249272,
+      settings_tolerance = 0,
+      library_tolerance = 2500,
+      use_existing_jquery = false,
+      // DO NOT EDIT BELOW THIS LINE
+      f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('../../../https@dev.visualwebsiteoptimizer.com/j.php@a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());
+
+  +function () {
+    var bindEvent = function (el, type, handler) {
+        var $ = window.jQuery || window.Zepto || window.$
+       if ($ && $.fn && $.fn.on) {
+           $(el).on(type, handler)
+       } else if($ && $.fn && $.fn.bind) {
+           $(el).bind(type, handler)
+       } else if (el.addEventListener){
+         el.addEventListener(type, handler, false);
+       } else if (el.attachEvent){
+         el.attachEvent("on" + type, handler);
+       } else {
+         el["on" + type] = handler;
+       }
+     }
+
+    var _origin_load = _vwo_code.load
+    _vwo_code.load = function () {
+      var args = [].slice.call(arguments)
+      bindEvent(window, 'load', function () {
+        _origin_load.apply(_vwo_code, args)
+      })
+    }
+  }()
+
+  _vwo_settings_timer = _vwo_code.init();
+  </script>
+
+
+    
+
+
+<script type="application/ld+json">
+{
+  "@context": "../../../schema.org",
+  "name": "哥斯拉2：怪兽之王 Godzilla: King of the Monsters",
+  "url": "default.htm",
+  "image": "../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2554370800.jpg",
+  "director": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1041313/default.htm",
+      "name": "迈克尔·道赫蒂 Michael Dougherty"
+    }
+  ]
+,
+  "author": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1041313/default.htm",
+      "name": "迈克尔·道赫蒂 Michael Dougherty"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1353331/default.htm",
+      "name": "扎克·希尔兹 Zach Shields"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1306812/default.htm",
+      "name": "麦克思·鲍伦斯坦 Max Borenstein"
+    }
+  ]
+,
+  "actor": 
+  [
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1049607/default.htm",
+      "name": "凯尔·钱德勒 Kyle Chandler"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1053584/default.htm",
+      "name": "维拉·法米加 Vera Farmiga"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1360134/default.htm",
+      "name": "米莉·波比·布朗 Millie Bobby Brown"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1041014/default.htm",
+      "name": "章子怡 Ziyi Zhang"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1027181/default.htm",
+      "name": "渡边谦 Ken Watanabe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1027158/default.htm",
+      "name": "布莱德利·惠特福德 Bradley Whitford"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1339676/default.htm",
+      "name": "托马斯·米德蒂奇 Thomas Middleditch"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1176767/default.htm",
+      "name": "艾莎·辛德斯 Aisha Hinds"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1044915/default.htm",
+      "name": "莎莉·霍金斯 Sally Hawkins"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1027299/default.htm",
+      "name": "查尔斯·丹斯 Charles Dance"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1007009/default.htm",
+      "name": "大卫·斯特雷泽恩 David Strathairn"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1347801/default.htm",
+      "name": "小奥谢拉·杰克逊 O&#39;Shea Jackson Jr."
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1013803/default.htm",
+      "name": "希·庞德 CCH Pounder"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1388489/default.htm",
+      "name": "安东尼·拉莫斯 Anthony Ramos"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1380780/default.htm",
+      "name": "杰森·莱尔斯 Jason Liles"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1319208/default.htm",
+      "name": "乔纳森·霍华德 Jonathan Howard"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1189587/default.htm",
+      "name": "莱尔·布罗卡托 Lyle Brocato"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1360135/default.htm",
+      "name": "兰德尔·P·海文斯 Randall P. Havens"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1400846/default.htm",
+      "name": "T·C·马特恩 T.C. Matherne"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1382505/default.htm",
+      "name": "吉米·冈萨雷斯 Jimmy Gonzales"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1142453/default.htm",
+      "name": "萨莎·里翁达 Sasha Rionda"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1385277/default.htm",
+      "name": "文斯·福斯特 Vince Foster"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1185471/default.htm",
+      "name": "贾斯蒂斯·利克 Justice Leak"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1379894/default.htm",
+      "name": "菲奥娜·哈丁汉姆 Fiona Hardingham"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1392778/default.htm",
+      "name": "露西·卡罗尔 Lucie Carroll"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1347610/default.htm",
+      "name": "约书亚·利瑞 Joshua Leary"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1392880/default.htm",
+      "name": "艾伦·马克森 Alan Maxson"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1405785/default.htm",
+      "name": "肯尼斯·以色列 Kenneth Israel"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1059635/default.htm",
+      "name": "阿尔·维森特 Al Vicente"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1383436/default.htm",
+      "name": "塞西尔·M·亨利 Cecil M. Henry"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1392749/default.htm",
+      "name": "迈克尔·大卫·育尔 Michael David Yuhl"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1392735/default.htm",
+      "name": "本杰明·韦弗 Benjamin Weaver"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1392731/default.htm",
+      "name": "卡梅伦·布鲁姆布罗 Cameron Brumbelow"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1395930/default.htm",
+      "name": "帕蒂·舍尔哈斯 Patti Schellhaas"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1393035/default.htm",
+      "name": "理查德·多顿 Richard Dorton"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1392753/default.htm",
+      "name": "詹姆斯·斯特林 James Sterling"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1392725/default.htm",
+      "name": "麦克斯威尔·海史密斯 Maxwell Highsmith"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1392733/default.htm",
+      "name": "贾斯汀·斯劳特 Justin Slaughter"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1392754/default.htm",
+      "name": "肖恩·索斯 Shawn South"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1360577/default.htm",
+      "name": "马科·查卡 Marko Caka"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1392730/default.htm",
+      "name": "蒂莫西·卡尔 Timothy Carr"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1415276/default.htm",
+      "name": "亚历珊德拉‧瑞秋·拉贝 Alexandra Rachael Rabe"
+    }
+    ,
+    {
+      "@type": "Person",
+      "url": "../../celebrity/1027892/default.htm",
+      "name": "乔·莫顿 Joe Morton"
+    }
+  ]
+,
+  "datePublished": "2019-05-25",
+  "genre": ["\u52a8\u4f5c", "\u79d1\u5e7b", "\u5192\u9669", "\u707e\u96be"],
+  "duration": "PT2H12M",
+  "description": "随着《哥斯拉》和《金刚：骷髅岛》在全球范围内取得成功，传奇影业和华纳兄弟影业联手开启了怪兽宇宙系列电影的新篇章—一部史诗级动作冒险巨制。在这部电影中，哥斯拉将和众多大家在流行文化中所熟知的怪兽展开较量...",
+  "@type": "Movie",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "138143",
+    "bestRating": "10",
+    "worstRating": "2",
+    "ratingValue": "6.4"
+  }
+}
+</script>
+
+
+    <style type="text/css">
+  
+</style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/59f798f5b75e51f0.css">
+
+    <link rel="shortcut icon" href="../../../https@img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="../../../https@accounts.douban.com/passport/login@source=movie" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="../../../https@www.douban.com/doubanapp/app@channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="../../../https@www.douban.com/doubanapp/app@channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="../../../https@www.douban.com/doubanapp/redirect@channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="../../../https@www.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="../../../https@book.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="../../default.htm"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="../../../https@music.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="../../../https@www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="../../../https@read.douban.com/@dcs=top-nav&dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="../../../https@douban.fm/@from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="../../../https@time.douban.com/@dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="../../../https@market.douban.com/@utm_campaign=douban_top_nav&utm_source=douban&utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="../../../https@ypy.douban.com/default.htm" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "../../../https@www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+
+    <link href="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https_3A//movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;movie.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="../../cinema/nowplaying/default.htm"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="../../explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="../../tv/default.htm"
+     >电视剧</a>
+    </li>
+    <li    ><a href="../../chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="../../tag/default.htm"
+     >分类</a>
+    </li>
+    <li    ><a href="../../review/best/default.htm"
+     >影评</a>
+    </li>
+    <li    ><a href="../../annual/2018@source=navigation"
+     >2018年度榜单</a>
+    </li>
+    <li    ><a href="../../../https@www.douban.com/standbyme/2018@source=navigation"
+     >2018书影音报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="../../annual/2018@source=movie_navigation" class="movieannual2018"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="../../../https@img3.doubanio.com/dae/accounts/resources/2f48733/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+
+    <div id="dale_movie_subject_top_icon"></div>
+    <h1>
+        <span property="v:itemreviewed">哥斯拉2：怪兽之王 Godzilla: King of the Monsters</span>
+            <span class="year">(2019)</span>
+    </h1>
+
+        <div class="grid-16-8 clearfix">
+            
+
+            
+            <div class="article">
+                
+    
+
+    
+
+
+
+
+
+        <div class="indent clearfix">
+            <div class="subjectwrap clearfix">
+                <div class="subject clearfix">
+                    
+
+
+
+<div id="mainpic" class="">
+    <a class="nbgnbg" href="photos@type=R" title="点击看更多海报">
+        <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2554370800.jpg" title="点击看更多海报" alt="Godzilla: King of the Monsters" rel="v:image" />
+   </a>
+</div>
+
+                    
+
+
+<div id="info">
+        <span ><span class='pl'>导演</span>: <span class='attrs'><a href="../../celebrity/1041313/default.htm" rel="v:directedBy">迈克尔·道赫蒂</a></span></span><br/>
+        <span ><span class='pl'>编剧</span>: <span class='attrs'><a href="../../celebrity/1041313/default.htm">迈克尔·道赫蒂</a> / <a href="../../celebrity/1353331/default.htm">扎克·希尔兹</a> / <a href="../../celebrity/1306812/default.htm">麦克思·鲍伦斯坦</a></span></span><br/>
+        <span class="actor"><span class='pl'>主演</span>: <span class='attrs'><a href="../../celebrity/1049607/default.htm" rel="v:starring">凯尔·钱德勒</a> / <a href="../../celebrity/1053584/default.htm" rel="v:starring">维拉·法米加</a> / <a href="../../celebrity/1360134/default.htm" rel="v:starring">米莉·波比·布朗</a> / <a href="../../celebrity/1041014/default.htm" rel="v:starring">章子怡</a> / <a href="../../celebrity/1027181/default.htm" rel="v:starring">渡边谦</a> / <a href="../../celebrity/1027158/default.htm" rel="v:starring">布莱德利·惠特福德</a> / <a href="../../celebrity/1339676/default.htm" rel="v:starring">托马斯·米德蒂奇</a> / <a href="../../celebrity/1176767/default.htm" rel="v:starring">艾莎·辛德斯</a> / <a href="../../celebrity/1044915/default.htm" rel="v:starring">莎莉·霍金斯</a> / <a href="../../celebrity/1027299/default.htm" rel="v:starring">查尔斯·丹斯</a> / <a href="../../celebrity/1007009/default.htm" rel="v:starring">大卫·斯特雷泽恩</a> / <a href="../../celebrity/1347801/default.htm" rel="v:starring">小奥谢拉·杰克逊</a> / <a href="../../celebrity/1013803/default.htm" rel="v:starring">希·庞德</a> / <a href="../../celebrity/1388489/default.htm" rel="v:starring">安东尼·拉莫斯</a> / <a href="../../celebrity/1380780/default.htm" rel="v:starring">杰森·莱尔斯</a> / <a href="../../celebrity/1319208/default.htm" rel="v:starring">乔纳森·霍华德</a> / <a href="../../celebrity/1189587/default.htm" rel="v:starring">莱尔·布罗卡托</a> / <a href="../../celebrity/1360135/default.htm" rel="v:starring">兰德尔·P·海文斯</a> / <a href="../../celebrity/1400846/default.htm" rel="v:starring">T·C·马特恩</a> / <a href="../../celebrity/1382505/default.htm" rel="v:starring">吉米·冈萨雷斯</a> / <a href="../../celebrity/1142453/default.htm" rel="v:starring">萨莎·里翁达</a> / <a href="../../celebrity/1385277/default.htm" rel="v:starring">文斯·福斯特</a> / <a href="../../celebrity/1185471/default.htm" rel="v:starring">贾斯蒂斯·利克</a> / <a href="../../celebrity/1379894/default.htm" rel="v:starring">菲奥娜·哈丁汉姆</a> / <a href="../../celebrity/1392778/default.htm" rel="v:starring">露西·卡罗尔</a> / <a href="../../celebrity/1347610/default.htm" rel="v:starring">约书亚·利瑞</a> / <a href="../../celebrity/1392880/default.htm" rel="v:starring">艾伦·马克森</a> / <a href="../../celebrity/1405785/default.htm" rel="v:starring">肯尼斯·以色列</a> / <a href="../../celebrity/1059635/default.htm" rel="v:starring">阿尔·维森特</a> / <a href="../../celebrity/1383436/default.htm" rel="v:starring">塞西尔·M·亨利</a> / <a href="../../celebrity/1392749/default.htm" rel="v:starring">迈克尔·大卫·育尔</a> / <a href="../../celebrity/1392735/default.htm" rel="v:starring">本杰明·韦弗</a> / <a href="../../celebrity/1392731/default.htm" rel="v:starring">卡梅伦·布鲁姆布罗</a> / <a href="../../celebrity/1395930/default.htm" rel="v:starring">帕蒂·舍尔哈斯</a> / <a href="../../celebrity/1393035/default.htm" rel="v:starring">理查德·多顿</a> / <a href="../../celebrity/1392753/default.htm" rel="v:starring">詹姆斯·斯特林</a> / <a href="../../celebrity/1392725/default.htm" rel="v:starring">麦克斯威尔·海史密斯</a> / <a href="../../celebrity/1392733/default.htm" rel="v:starring">贾斯汀·斯劳特</a> / <a href="../../celebrity/1392754/default.htm" rel="v:starring">肖恩·索斯</a> / <a href="../../celebrity/1360577/default.htm" rel="v:starring">马科·查卡</a> / <a href="../../celebrity/1392730/default.htm" rel="v:starring">蒂莫西·卡尔</a></span></span><br/>
+        <span class="pl">类型:</span> <span property="v:genre">动作</span> / <span property="v:genre">科幻</span> / <span property="v:genre">冒险</span> / <span property="v:genre">灾难</span><br/>
+        <span class="pl">官方网站:</span> <a href="../../../www.godzilla-movie.net/default.htm" rel="nofollow" target="_blank">www.godzilla-movie.net</a><br/>
+        <span class="pl">制片国家/地区:</span> 美国<br/>
+        <span class="pl">语言:</span> 英语<br/>
+        <span class="pl">上映日期:</span> <span property="v:initialReleaseDate" content="2019-05-31(中国大陆/美国)">2019-05-31(中国大陆/美国)</span> / <span property="v:initialReleaseDate" content="2019-05-25(大规模点映)">2019-05-25(大规模点映)</span><br/>
+        <span class="pl">片长:</span> <span property="v:runtime" content="132">132分钟</span><br/>
+        <span class="pl">又名:</span> 哥斯拉：怪兽之王 / 哥斯拉II: 王者巨兽(港) / 哥吉拉II怪兽之王(台) / 哥斯拉2 / 哥斯拉2018 / Godzilla 2<br/>
+        <span class="pl">IMDb链接:</span> <a href="../../../www.imdb.com/title/tt3741700" target="_blank" rel="nofollow">tt3741700</a><br>
+
+</div>
+
+
+
+
+                </div>
+                    
+
+
+<div id="interest_sectl">
+    <div class="rating_wrap clearbox" rel="v_3Arating">
+        <div class="clearfix">
+          <div class="rating_logo ll">豆瓣评分</div>
+          <div class="output-btn-wrap rr" style="display:none">
+            <img src="../../../https@img3.doubanio.com/f/movie/692e86756648f29457847c5cc5e161d6f6b8aaac/pics/movie/reference.png" />
+            <a class="download-output-image" href="#">引用</a>
+          </div>
+          
+          
+        </div>
+        
+
+
+
+<div class="rating_self clearfix" typeof="v:Rating">
+    <strong class="ll rating_num" property="v:average">6.4</strong>
+    <span property="v:best" content="10.0"></span>
+    <div class="rating_right ">
+        <div class="ll bigstar bigstar30"></div>
+        <div class="rating_sum">
+                <a href="collections" class="rating_people">
+                    <span property="v:votes">138144</span>人评价
+                </a>
+        </div>
+    </div>
+</div>
+<div class="ratings-on-weight">
+    
+        <div class="item">
+        
+        <span class="stars5 starstop" title="力荐">
+            5星
+        </span>
+        <div class="power" style="width:10px"></div>
+        <span class="rating_per">7.7%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars4 starstop" title="推荐">
+            4星
+        </span>
+        <div class="power" style="width:35px"></div>
+        <span class="rating_per">26.5%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars3 starstop" title="还行">
+            3星
+        </span>
+        <div class="power" style="width:64px"></div>
+        <span class="rating_per">47.2%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars2 starstop" title="较差">
+            2星
+        </span>
+        <div class="power" style="width:20px"></div>
+        <span class="rating_per">15.5%</span>
+        <br />
+        </div>
+        <div class="item">
+        
+        <span class="stars1 starstop" title="很差">
+            1星
+        </span>
+        <div class="power" style="width:4px"></div>
+        <span class="rating_per">3.1%</span>
+        <br />
+        </div>
+</div>
+
+    </div>
+        <div class="rating_betterthan">
+            好于 <a href="../../typerank@type_name=_25E7_25A7_2591_25E5_25B9_25BB&type=17&interval_id=45_3A35&action=">42% 科幻片</a><br/>
+            好于 <a href="../../typerank@type_name=_25E7_2581_25BE_25E9_259A_25BE&type=12&interval_id=40_3A30&action=">38% 灾难片</a><br/>
+        </div>
+</div>
+
+
+                
+            </div>
+                
+
+
+
+
+<div id="interest_sect_level" class="clearfix">
+        
+            <a href="../../../https@www.douban.com/reason=collectwish&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-25890017-wish">
+                <span>想看</span>
+            </a>
+            <a href="../../../https@www.douban.com/reason=collectcollect&ck=" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-25890017-collect">
+                <span>看过</span>
+            </a>
+        <div class="ll j a_stars">
+            
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="../../../https@img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="../../../https@img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover_402x.png" data-hollow-2x="../../../https@img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover_402x.png">
+
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-25890017-1">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-25890017-2">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-25890017-3">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-25890017-4">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="../../../https@www.douban.com/register@reason=rate" class="j a_show_login" name="pbtn-25890017-5">
+        <img src="../../../https@img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+        </div>
+    
+
+</div>
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        
+    
+        
+                <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/cc03d0fcf32b7ce3af7b160a0b85e5e66b47cc42/pics/short-comment.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_cmnt_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写短评</a>
+ </li>
+                    <li> 
+    
+    <img src="../../../https@img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;
+        <a onclick="moreurl(this, {from:'mv_sbj_wr_rv_login'})" class="j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">写影评</a>
+ </li>
+                    <li> 
+    <img src="../../../https@img3.doubanio.com/f/shire/61cc48ba7c40e0272d46bb93fe0dc514f3b71ec5/pics/add-doulist.gif" />&nbsp;
+    <a class="" href="questions/ask@from=subject_top">提问题</a>
+ </li>
+                <li> 
+    
+
+
+
+ </li>
+                <li> 
+   
+
+   
+    
+    <span class="rec" id="电影-25890017">
+    <a href= "#"
+        data-type="电影"
+        data-url="default.htm"
+        data-desc="电影《哥斯拉2：怪兽之王 Godzilla: King of the Monsters》 (来自豆瓣) "
+        data-title="电影《哥斯拉2：怪兽之王 Godzilla: King of the Monsters》 (来自豆瓣) "
+        data-pic="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554370800.jpeg"
+        class="bn-sharing ">
+        分享到
+    </a> &nbsp;&nbsp;
+    </span>
+
+    <script>
+        if (!window.DoubanShareMenuList) {
+            window.DoubanShareMenuList = [];
+        }
+        var __cache_url = __cache_url || {};
+
+        (function(u){
+            if(__cache_url[u]) return;
+            __cache_url[u] = true;
+            window.DoubanShareIcons = '../../../https@img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+
+            var initShareButton = function() {
+                $.ajax({url:u,dataType:'script',cache:true});
+            };
+
+            if (typeof Do == 'function' && 'ready' in Do) {
+                Do(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js',
+                    initShareButton
+                );
+            } else if(typeof Douban == 'object' && 'loader' in Douban) {
+                Douban.loader.batch(
+                    '../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+                    '../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js',
+                    '../../../https@img3.doubanio.com/f/movie/c4ab132ff4d3d64a83854c875ea79b8b541faf12/js/movie/lib/qrcode.min.js'
+                ).done(initShareButton);
+            }
+
+        })('../../../https@img3.doubanio.com/f/movie/32be6727ed3ad8f6c4a417d8a086355c3e7d1d27/js/movie/lib/sharebutton.js');
+    </script>
+
+
+  </li>
+            
+
+    </ul>
+
+    <script type="text/javascript">
+        $(function(){
+            $(".ul_subject_menu li.rec .bn-sharing").bind("click", function(){
+                $.get("../../blank@sbj_page_click=bn_sharing");
+            });
+            $(".ul_subject_menu .create_from_menu").bind("click", function(e){
+                e.preventDefault();
+                var $el = $(this);
+                var glRoot = document.getElementById('gallery-topics-selection');
+                if (window.has_gallery_topics && glRoot) {
+                    // 判断是否有话题
+                    glRoot.style.display = 'block';
+                } else {
+                    location.href = $el.attr('href');
+                }
+            });
+        });
+    </script>
+</div>
+
+
+
+
+                
+
+
+
+
+
+<div class="rec-sec">
+<span class="rec">
+    <script id="movie-share" type="text/x-html-snippet">
+        
+    <form class="movie-share" action="../../j/share" method="POST">
+        <div class="clearfix form-bd">
+            <div class="input-area">
+                <textarea name="text" class="share-text" cols="72" data-mention-api="https://api.douban.com/shuo/in/complete?alt=xd&amp;callback=?"></textarea>
+                <input type="hidden" name="target-id" value="25890017">
+                <input type="hidden" name="target-type" value="0">
+                <input type="hidden" name="title" value="哥斯拉2：怪兽之王 Godzilla: King of the Monsters‎ (2019)">
+                <input type="hidden" name="desc" value="导演 迈克尔·道赫蒂 主演 凯尔·钱德勒 / 维拉·法米加 / 美国 / 6.4分(138144评价)">
+                <input type="hidden" name="redir" value=""/>
+                <div class="mentioned-highlighter"></div>
+            </div>
+
+            <div class="info-area">
+                    <img class="media" src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2554370800.jpg" />
+                <strong>哥斯拉2：怪兽之王 Godzilla: King of the Monsters‎ (2019)</strong>
+                <p>导演 迈克尔·道赫蒂 主演 凯尔·钱德勒 / 维拉·法米加 / 美国 / 6.4分(138144评价)</p>
+                <p class="error server-error">&nbsp;</p>
+            </div>
+        </div>
+        <div class="form-ft">
+            <div class="form-ft-inner">
+                
+
+
+
+                <span class="avail-num-indicator">140</span>
+                <span class="bn-flat">
+                    <input type="submit" value="推荐" />
+                </span>
+            </div>
+        </div>
+    </form>
+    
+    <div id="suggest-mention-tmpl" style="display:none;">
+        <ul>
+            {{#users}}
+            <li id="{{uid}}">
+              <img src="{{avatar}}">{{{username}}}&nbsp;<span>({{{uid}}})</span>
+            </li>
+            {{/users}}
+        </ul>
+    </div>
+
+
+    </script>
+
+        
+        <a href="../../accounts/register@reason=recommend"  class="j a_show_login lnk-sharing" share-id="25890017" data-mode="plain" data-name="哥斯拉2：怪兽之王 Godzilla: King of the Monsters‎ (2019)" data-type="movie" data-desc="导演 迈克尔·道赫蒂 主演 凯尔·钱德勒 / 维拉·法米加 / 美国 / 6.4分(138144评价)" data-href="https://movie.douban.com/subject/25890017/" data-image="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2554370800.jpg" data-properties="{}" data-redir="" data-text="" data-apikey="" data-curl="" data-count="10" data-object_kind="1002" data-object_id="25890017" data-target_type="rec" data-target_action="0" data-action_props="{&#34;subject_url&#34;:&#34;https:\/\/movie.douban.com\/subject\/25890017\/&#34;,&#34;subject_title&#34;:&#34;哥斯拉2：怪兽之王 Godzilla: King of the Monsters‎ (2019)&#34;}">推荐</a>
+</span>
+
+
+</div>
+
+
+
+
+
+
+            <script type="text/javascript">
+                $(function() {
+                    $('.collect_btn', '#interest_sect_level').each(function() {
+                        Douban.init_collect_btn(this);
+                    });
+                    $('html').delegate(".indent .rec-sec .lnk-sharing", "click", function() {
+                        moreurl(this, {
+                            from : 'mv_sbj_db_share'
+                        });
+                    });
+                });
+            </script>
+        </div>
+            
+
+
+    <div id="collect_form_25890017"></div>
+
+
+        
+
+
+
+<div class="related-info" style="margin-bottom:-10px;">
+    <a name="intro"></a>
+    
+        
+            
+            
+    <h2>
+        <i class="">哥斯拉2：怪兽之王的剧情简介</i>
+             ······
+    </h2>
+
+            <div class="indent" id="link-report">
+                    
+                        <span property="v:summary" class="">
+                                　　随着《哥斯拉》和《金刚：骷髅岛》在全球范围内取得成功，传奇影业和华纳兄弟影业联手开启了怪兽宇宙系列电影的新篇章—一部史诗级动作冒险巨制。在这部电影中，哥斯拉将和众多大家在流行文化中所熟知的怪兽展开较量。全新故事中，研究神秘动物学的机构“帝王组织”将勇敢直面巨型怪兽，其中强大的哥斯拉也将和魔斯拉、拉顿和它的死对头——三头王者基多拉展开激烈对抗。当这些只存在于传说里的超级生物再度崛起时，它们将展开王者争霸，人类的命运岌岌可危……
+                        </span>
+                        
+
+            </div>
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+<div id="celebrities" class="celebrities related-celebrities">
+
+  
+    <h2>
+        <i class="">哥斯拉2：怪兽之王的演职员</i>
+             ······
+            <span class="pl">
+            (
+                <a href="celebrities">全部 64</a>
+            )
+            </span>
+    </h2>
+
+
+  <ul class="celebrities-list from-subject __oneline">
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1041313/default.htm" title="迈克尔·道赫蒂 Michael Dougherty" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34473.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1041313/default.htm" title="迈克尔·道赫蒂 Michael Dougherty" class="name">迈克尔·道赫蒂</a></span>
+
+      <span class="role" title="导演">导演</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1049607/default.htm" title="凯尔·钱德勒 Kyle Chandler" class="">
+      <div class="avatar" style="background-image: url(../../../https@img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20877.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1049607/default.htm" title="凯尔·钱德勒 Kyle Chandler" class="name">凯尔·钱德勒</a></span>
+
+      <span class="role" title="饰 马克·罗素 Mark Russell">饰 马克·罗素 Mark Russell</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1053584/default.htm" title="维拉·法米加 Vera Farmiga" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p11871.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1053584/default.htm" title="维拉·法米加 Vera Farmiga" class="name">维拉·法米加</a></span>
+
+      <span class="role" title="饰 爱玛·罗素博士 Dr. Emma Russell">饰 爱玛·罗素博士 Dr. Emma Russell</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1360134/default.htm" title="米莉·波比·布朗 Millie Bobby Brown" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1477066064.22.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1360134/default.htm" title="米莉·波比·布朗 Millie Bobby Brown" class="name">米莉·波比·布朗</a></span>
+
+      <span class="role" title="饰 麦迪森·罗素 Madison Russell">饰 麦迪森·罗素 Madison Russell</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1041014/default.htm" title="章子怡 Ziyi Zhang" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359895311.0.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1041014/default.htm" title="章子怡 Ziyi Zhang" class="name">章子怡</a></span>
+
+      <span class="role" title="饰 陈博士 / 玲  Dr. Chen">饰 陈博士 / 玲  Dr. Chen</span>
+
+    </div>
+  </li>
+
+
+        
+    
+
+    
+  
+  <li class="celebrity">
+    
+
+  <a href="../../celebrity/1027181/default.htm" title="渡边谦 Ken Watanabe" class="">
+      <div class="avatar" style="background-image: url(../../../https@img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34972.jpg)">
+    </div>
+  </a>
+
+    <div class="info">
+      <span class="name"><a href="../../celebrity/1027181/default.htm" title="渡边谦 Ken Watanabe" class="name">渡边谦</a></span>
+
+      <span class="role" title="饰 芹泽教授 Dr. Ishiro Serizawa">饰 芹泽教授 Dr. Ishiro Serizawa</span>
+
+    </div>
+  </li>
+
+
+  </ul>
+</div>
+
+
+    
+
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/f/verify/16c7e943aee3b1dc6d65f600fcc0f6d62db7dfb4/entry_creator/dist/author_subject/style.css">
+<div id="author_subject" class="author-wrapper">
+    <div class="loading"></div>
+</div>
+<script type="text/javascript">
+    var answerObj = {
+      ISALL: 'False',
+      TYPE: 'movie',
+      SUBJECT_ID: '25890017',
+      USER_ID: 'None'
+    }
+</script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/movie/61252f2f9b35f08b37f69d17dfe48310dd295347/js/movie/lib/react/15.4/bundle.js"></script>
+<script type="text/javascript" src="../../../https@img3.doubanio.com/f/verify/ac140ef86262b845d2be7b859e352d8196f3f6d4/entry_creator/dist/author_subject/index.js"></script>
+
+
+    
+
+
+
+
+
+
+
+
+
+    
+    <div id="related-pic" class="related-pic">
+        
+    
+    
+    <h2>
+        <i class="">哥斯拉2：怪兽之王的视频和图片</i>
+              · · · · · ·
+            <span class="pl">
+            (
+                <a href="trailer#trailer">预告片41</a>&nbsp;|&nbsp;<a href="trailer#short_video">视频评论2</a>&nbsp;·&nbsp;<a href="../../video/create@subject_id=25890017">添加</a>&nbsp;|&nbsp;<a href="all_photos">图片678</a>&nbsp;·&nbsp;<a href="mupload">添加</a>
+            )
+            </span>
+    </h2>
+
+
+        <ul class="related-pic-bd  wide_videos">
+                <li class="label-trailer">
+                    <a class="related-pic-video" href="../../trailer/246166/#content" title="预告片" style="background-image:url(../../../https@img3.doubanio.com/img/trailer/medium/2554464244.jpg@)">
+                    </a>
+                </li>
+                
+                <li class="label-short-video">
+                    <a class="related-pic-video" href="../../video/103195/default.htm" title="视频评论" style="background-image:url(../../../https@img1.doubanio.com/view/photo/photo/public/p2558625397.jpg@)">
+                    </a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2557461635/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2557461635.jpg" alt="图片" /></a>
+                </li>
+                <li>
+                    <a href="../../photos/photo/2555010694/default.htm"><img src="../../../https@img3.doubanio.com/view/photo/sqxs/public/p2555010694.jpg" alt="图片" /></a>
+                </li>
+        </ul>
+    </div>
+
+
+
+
+    
+    
+
+
+
+<style type="text/css">
+.award li { display: inline; margin-right: 5px }
+.awards { margin-bottom: 20px }
+.awards h2 { background: none; color: #000; font-size: 14px; padding-bottom: 5px; margin-bottom: 8px; border-bottom: 1px dashed #dddddd }
+.awards .year { color: #666666; margin-left: -5px }
+.mod { margin-bottom: 25px }
+.mod .hd { margin-bottom: 10px }
+.mod .hd h2 {margin:24px 0 3px 0}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+
+    <div id="recommendations" class="">
+        
+        
+    <h2>
+        <i class="">喜欢这部电影的人也喜欢</i>
+             ······
+    </h2>
+
+        
+    
+    <div class="recommendations-bd">
+        <dl class="">
+            <dt>
+                <a href="../2063914/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2185227574.jpg" alt="哥斯拉" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../2063914/@from=subject-page" class="" >哥斯拉</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26430636/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2516079193.jpg" alt="狂暴巨兽" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26430636/@from=subject-page" class="" >狂暴巨兽</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26416062/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2522069454.jpg" alt="侏罗纪世界2" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26416062/@from=subject-page" class="" >侏罗纪世界2</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26213252/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2546360443.jpg" alt="惊奇队长" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26213252/@from=subject-page" class="" >惊奇队长</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26667010/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2555886490.jpg" alt="X战警：黑凤凰" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26667010/@from=subject-page" class="" >X战警：黑凤凰</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../5323968/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2043625972.jpg" alt="环太平洋" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../5323968/@from=subject-page" class="" >环太平洋</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../26266893/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2545472803.jpg" alt="流浪地球" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../26266893/@from=subject-page" class="" >流浪地球</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../10741834/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2237747953.jpg" alt="复仇者联盟2：奥创纪元" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../10741834/@from=subject-page" class="" >复仇者联盟2：奥创纪元</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../1652592/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2544987866.jpg" alt="阿丽塔：战斗天使" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../1652592/@from=subject-page" class="" >阿丽塔：战斗天使</a>
+            </dd>
+        </dl>
+        <dl class="">
+            <dt>
+                <a href="../25820460/@from=subject-page" >
+                    <img src="../../../https@img3.doubanio.com/view/photo/s_ratio_poster/public/p2332503406.jpg" alt="美国队长3" class="" />
+                </a>
+            </dt>
+            <dd>
+                <a href="../25820460/@from=subject-page" class="" >美国队长3</a>
+            </dd>
+        </dl>
+    </div>
+
+    </div>
+
+
+
+        
+
+
+<script type="text/x-handlebar-tmpl" id="comment-tmpl">
+    <div class="dummy-fold">
+        {{#each comments}}
+        <div class="comment-item" data-cid="id">
+            <div class="comment">
+                <h3>
+                    <span class="comment-vote">
+                            <span class="votes">{{votes}}</span>
+                        <input value="{{id}}" type="hidden"/>
+                        <a href="javascript:;" class="j {{#if ../if_logined}}a_vote_comment{{else}}a_show_login{{/if}}">有用</a>
+                    </span>
+                    <span class="comment-info">
+                        <a href="{{user.path}}" class="">{{user.name}}</a>
+                        {{#if rating}}
+                        <span class="allstar{{rating}}0 rating" title="{{rating_word}}"></span>
+                        {{/if}}
+                        <span>
+                            {{time}}
+                        </span>
+                        <p> {{content_tmpl content}} </p>
+                    </span>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <div id="comments-section">
+        <div class="mod-hd">
+            
+        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow">
+            <span>我要写短评</span>
+        </a>
+
+            
+            
+    <h2>
+        <i class="">哥斯拉2：怪兽之王的短评</i>
+             ······
+            <span class="pl">
+            (
+                <a href="comments@status=P">全部 53994 条</a>
+            )
+            </span>
+    </h2>
+
+        </div>
+        <div class="mod-bd">
+                
+    <div class="tab-hd">
+        <a id="hot-comments-tab" href="comments" data-id="hot" class="on">热门</a>&nbsp;/&nbsp;
+            <a id="new-comments-tab" href="comments@sort=time" data-id="new">最新</a>&nbsp;/&nbsp;
+        <a id="following-comments-tab" href="follows_comments" data-id="following"  class="j a_show_login">好友</a>
+    </div>
+
+    <div class="tab-bd">
+        <div id="hot-comments" class="tab">
+            
+    
+        
+        <div class="comment-item" data-cid="1798702075">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1957</span>
+                <input value="1798702075" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/lingrui1995/default.htm" class="">凌睿</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time " title="2019-05-25 18:04:06">
+                    2019-05-25
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">哥斯拉气势磅礴，仿佛是天神下凡；
+基多拉酷炫霸气，引力光线雷霆万钧；
+魔斯拉五彩斑斓，美到极致，恰似一只大蝴蝶，堪称大自然最出色的杰作；
+拉顿八面威风，空中旋转所向披靡，如同大鹏展翅。
+有的震撼，有的唯美，有的邪恶，有的正义，四大怪兽都有非常鲜明的特色。
+动作戏毁天灭地，视觉效果登峰造极，配乐荡气回肠，每一帧都堪称史诗。
+空中激战，陆地争霸，破海而出……海陆空面面俱到。
+最喜欢战火纷飞、乌云滚滚中...</span>
+                <span class="hide-item full">哥斯拉气势磅礴，仿佛是天神下凡；
+基多拉酷炫霸气，引力光线雷霆万钧；
+魔斯拉五彩斑斓，美到极致，恰似一只大蝴蝶，堪称大自然最出色的杰作；
+拉顿八面威风，空中旋转所向披靡，如同大鹏展翅。
+有的震撼，有的唯美，有的邪恶，有的正义，四大怪兽都有非常鲜明的特色。
+动作戏毁天灭地，视觉效果登峰造极，配乐荡气回肠，每一帧都堪称史诗。
+空中激战，陆地争霸，破海而出……海陆空面面俱到。
+最喜欢战火纷飞、乌云滚滚中古堡巍然屹立的镜头，震撼到窒息。
+剧本仍然是短板，但是真的有人是奔着看剧情来的吗？
+严肃，庄重，深沉，不卖萌，不幽默，不讲段子，注定评分不会高，注定口碑会两极分化。
+但在我看来，至少它不中规中矩，不打安全牌，不妥协，而是剑走偏锋，让我们看到一部与众不同的电影。
+宁愿独树一帜，也不要千篇一律。</span>
+                <span class="expand">(<a href="javascript:;">展开</a>)</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1798624349">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1871</span>
+                <input value="1798624349" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/3214496/default.htm" class="">般若多目</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-05-25 16:55:43">
+                    2019-05-25
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">人类真是弱鸡，通篇就做了叫醒服务和喂食服务</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1798613687">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1661</span>
+                <input value="1798613687" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/juwujian/default.htm" class="">居无间</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time " title="2019-05-25 16:46:09">
+                    2019-05-25
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">怪兽之斗，居然是因为，一个灭霸级圣母婊？？？于是，前两幕无聊到爆，第三幕想炸，动作场面既没想象力又没层次，看得全程冷漠脸。知道你们在组宇宙，不拿《新·哥斯拉》跟你比，但交出这样的作品实在难以令人满意。大陆市场为章子怡争来一句中文台词。客串王渡边谦值了，本片的戏，基本是他职业生涯最高光时刻。</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1798809525">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">1729</span>
+                <input value="1798809525" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/96671127/default.htm" class="">一块二</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-05-25 19:42:59">
+                    2019-05-25
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">金刚:这谁顶得住啊~</span>
+        </p>
+    </div>
+
+        </div>
+        
+        <div class="comment-item" data-cid="1795326776">
+            
+    
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                <span class="votes">462</span>
+                <input value="1795326776" type="hidden"/>
+                <a href="javascript:;" class="j a_show_login" onclick="">有用</a>
+            </span>
+            <span class="comment-info">
+                <a href="../../../https@www.douban.com/people/dorothy_cullen/default.htm" class="">喵尔摩丝</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time " title="2019-05-22 15:20:43">
+                    2019-05-22
+                </span>
+            </span>
+        </h3>
+        <p class="">
+            
+                <span class="short">古典主义的符号太多了，从图腾崇拜到末日情结，从文明失落到解构与重建，随便从哪个点切进去，都能把一部爆米花电影拍出纵深感，然而并没有。所以看电影的整个过程，就像导演先带着你进了历史博物馆，告诉你什么亚特兰蒂斯什么山海经他都略懂，然后把你塞进自然博物馆恐龙区，告诉你侏罗纪公园才是他的菜，就…何必呢？所以有时候脑子里东西太多也未必是件好事，看这部让我觉得就像一碗晃悠散了豆腐脑摆在我眼前，不吃浪费，吃了味...</span>
+                <span class="hide-item full">古典主义的符号太多了，从图腾崇拜到末日情结，从文明失落到解构与重建，随便从哪个点切进去，都能把一部爆米花电影拍出纵深感，然而并没有。所以看电影的整个过程，就像导演先带着你进了历史博物馆，告诉你什么亚特兰蒂斯什么山海经他都略懂，然后把你塞进自然博物馆恐龙区，告诉你侏罗纪公园才是他的菜，就…何必呢？所以有时候脑子里东西太多也未必是件好事，看这部让我觉得就像一碗晃悠散了豆腐脑摆在我眼前，不吃浪费，吃了味儿也不对。</span>
+                <span class="expand">(<a href="javascript:;">展开</a>)</span>
+        </p>
+    </div>
+
+        </div>
+
+
+
+                
+                &gt; <a href="comments@sort=new_score&status=P" >更多短评53994条</a>
+        </div>
+        <div id="new-comments" class="tab">
+            <div id="normal">
+            </div>
+            <div class="fold-hd hide">
+                <a class="qa" href="../../help/opinion#t2-q0" target="_blank">为什么被折叠？</a>
+                <a class="btn-unfold" href="#">有一些短评被折叠了</a>
+                <div class="qa-tip">
+                    评论被折叠，是因为发布这条评论的帐号行为异常。评论仍可以被展开阅读，对发布人的账号不造成其他影响。如果认为有问题，可以<a href="../../../https@help.douban.com/help/ask@category=movie">联系</a>豆瓣电影。
+                </div>
+            </div>
+            <div class="fold-bd">
+            </div>
+            <span id="total-num"></span>
+        </div>
+        <div id="following-comments" class="tab">
+            
+    
+
+
+        <div class="comment-item">
+            你关注的人还没写过短评
+        </div>
+
+        </div>
+    </div>
+
+
+            
+            
+        </div>
+    </div>
+
+
+
+        
+
+<link rel="stylesheet" href="../../../https@img3.doubanio.com/misc/mixed_static/5b893040c800d5cd.css">
+
+<section class="topics mod">
+    <header>
+        <h2>
+            哥斯拉2：怪兽之王的话题 · · · · · ·
+            <span class="pl">( <span class="gallery_topics">全部 <span id="topic-count"></span> 条</span> )</span>
+        </h2>
+    </header>
+
+    
+
+
+
+
+<section class="subject-topics">
+    <div class="topic-guide" id="topic-guide">
+        <img class="ic_question" src="../../../https@img3.doubanio.com/f/ithildin/b1a3edea3d04805f899e9d77c0bfc0d158df10d5/pics/export/icon_question.png">
+        <div class="tip_content">
+            <div class="tip_title">什么是话题</div>
+            <div class="tip_desc">
+                <div>无论是一部作品、一个人，还是一件事，都往往可以衍生出许多不同的话题。将这些话题细分出来，分别进行讨论，会有更多收获。</div>
+            </div>
+        </div>
+        <img class="ic_guide" src="../../../https@img3.doubanio.com/f/ithildin/529f46d86bc08f55cd0b1843d0492242ebbd22de/pics/export/icon_guide_arrow.png">
+        <img class="ic_close" id="topic-guide-close" src="../../../https@img3.doubanio.com/f/ithildin/2eb4ad488cb0854644b23f20b6fa312404429589/pics/export/close_403x.png">
+    </div>
+
+    <div id="topic-items"></div>
+
+    <script>
+        window.subject_id = 25890017;
+        window.join_label_text = '写影评参与';
+
+        window.topic_display_count = 4;
+        window.topic_item_display_count = 1;
+        window.no_content_fun_call_name = "no_topic";
+
+        window.guideNode = document.getElementById('topic-guide');
+        window.guideNodeClose = document.getElementById('topic-guide-close');
+    </script>
+    
+        <link rel="stylesheet" href="../../../https@img3.doubanio.com/f/ithildin/f731c9ea474da58c516290b3a6b1dd1237c07c5e/css/export/subject_topics.css">
+        <script src="../../../https@img3.doubanio.com/f/ithildin/d3590fc6ac47b33c804037a1aa7eec49075428c8/js/export/moment-with-locales-only-zh.js"></script>
+        <script src="../../../https@img3.doubanio.com/f/ithildin/c600fdbe69e3ffa5a3919c81ae8c8b4140e99a3e/js/export/subject_topics.js"></script>
+
+</section>
+
+    <script>
+        function no_topic(){
+            $('#content .topics').remove();
+        }
+    </script>
+</section>
+
+<section class="reviews mod movie-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review comment_btn "
+            data-isverify="False"
+            data-verify-url="../../../https@www.douban.com/accounts/phone/verify@redir=http_3A_2F_2Fmovie.douban.com_2Fsubject_2F25890017_2Fnew_review">
+            <span>我要写影评</span>
+        </a>
+        <h2>
+            哥斯拉2：怪兽之王的影评 · · · · · ·
+            <span class="pl">( <a href="reviews">全部 837 条</a> )</span>
+        </h2>
+    </header>
+
+    
+
+<style>
+#gallery-topics-selection {
+  position: fixed;
+  width: 595px;
+  padding: 40px 40px 33px 40px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.2);
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+#gallery-topics-selection h1 {
+  font-size: 18px;
+  color: #007722;
+  margin-bottom: 36px;
+  padding: 0;
+  line-height: 28px;
+  font-weight: normal;
+}
+#gallery-topics-selection .gl_topics {
+  border-bottom: 1px solid #dfdfdf;
+  max-height: 298px;
+  overflow-y: scroll;
+}
+#gallery-topics-selection .topic {
+  margin-bottom: 24px;
+}
+#gallery-topics-selection .topic_name {
+  font-size: 15px;
+  color: #333;
+  margin: 0;
+  line-height: inherit;
+}
+#gallery-topics-selection .topic_meta {
+  font-size: 13px;
+  color: #999;
+}
+#gallery-topics-selection .topics_skip {
+  display: block;
+  cursor: pointer;
+  font-size: 16px;
+  color: #3377AA;
+  text-align: center;
+  margin-top: 33px;
+}
+#gallery-topics-selection .topics_skip:hover {
+  background: transparent;
+}
+#gallery-topics-selection .close_selection {
+  position: absolute;
+  width: 30px;
+  height: 20px;
+  top: 46px;
+  right: 40px;
+  background: #fff;
+  color: #999;
+  text-align: right;
+}
+#gallery-topics-selection .close_selection:hover{
+  background: #fff;
+  color: #999;
+}
+</style>
+
+
+
+
+        <div class="review_filter">
+            <a href="javascript:;;" class="cur" data-sort="">热门</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="time">最新</a href="javascript:;;"> /
+            <a href="javascript:;;" data-sort="follow">好友</a href="javascript:;;">
+            
+        </div>
+
+
+        
+
+
+
+<div class="review-list  ">
+        
+    
+
+        
+    
+    <div data-cid="10203351">
+        <div class="main review-item" id="10203351">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/135584906/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u135584906-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/135584906/default.htm" class="name">vaultboyzhao</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-05-26" class="main-meta">2019-05-26 13:28:12</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10203351/default.htm">科普向：拉顿，摩斯拉，王者基多拉的小介绍</a></h2>
+
+                <div id="review_10203351_short" class="review-short" data-rid="10203351">
+                    <div class="short-content">
+
+                        拉顿 拉顿（ ラドン Rodan） 在影片中的形象是只巨大的无齿翼龙（Pteranodon），它的名字不光来源于设定的原型，同时还受到了古希腊神话中守护金苹果的百头巨龙拉冬（Ladon）的启发，但是大家应该很奇怪为何明明日语发音是拉顿但英文发音却是“罗丹”？那是因为当年东宝在欧美...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10203351-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10203351_full" class="hidden">
+                    <div id="review_10203351_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10203351" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10203351">
+                                1704
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10203351" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10203351">
+                                49
+                        </span>
+                    </a>
+                    <a href="../../review/10203351/#comments" class="reply ">166回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10202158">
+        <div class="main review-item" id="10202158">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/101741471/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u101741471-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/101741471/default.htm" class="name">萌萌哒～企鹅</a>
+
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2019-05-25" class="main-meta">2019-05-25 21:11:22</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10202158/default.htm">一部逻辑通畅的怪兽电影：有些人挑逻辑问题，自己却犯了逻辑错误</a></h2>
+
+                <div id="review_10202158_short" class="review-short" data-rid="10202158">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        简评： 9/10，四星半，特效炸裂，画面出色，怪兽戏份充足，打斗激情，宏大的世界观，正反派逻辑通畅（下文干货打脸逻辑怪和女主圣母怪），深刻的自然辨证思想，缺点是人类戏份节奏一般，部分镜头零碎。不过不懂装懂的影评有点多，加半星平衡一下。欢迎转载。 本贴主要是逻辑分...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10202158-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10202158_full" class="hidden">
+                    <div id="review_10202158_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10202158" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10202158">
+                                2194
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10202158" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10202158">
+                                333
+                        </span>
+                    </a>
+                    <a href="../../review/10202158/#comments" class="reply ">450回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10214431">
+        <div class="main review-item" id="10214431">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/EverybodyFool/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u37142357-10.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/EverybodyFool/default.htm" class="name">彩蛋君KL</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-05-31" class="main-meta">2019-05-31 18:31:49</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10214431/default.htm">《哥斯拉2：怪兽之王》完整彩蛋与泰坦巨兽终极图鉴</a></h2>
+
+                <div id="review_10214431_short" class="review-short" data-rid="10214431">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        怪兽之王 在2014年上映的《哥斯拉》结尾，哥斯拉成为了拯救旧金山的英雄，在新闻中被冠以“怪兽之王”（King of the Monsters）的名号。这不仅是续集《哥斯拉2：怪兽之王》的副标题，也来自1956年美版哥斯拉电影的片名《Godzilla, King of the Monsters!》。 氧气破坏者 影片中...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10214431-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10214431_full" class="hidden">
+                    <div id="review_10214431_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10214431" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10214431">
+                                805
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10214431" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10214431">
+                                26
+                        </span>
+                    </a>
+                    <a href="../../review/10214431/#comments" class="reply ">85回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10222214">
+        <div class="main review-item" id="10222214">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/MovieL/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img1.doubanio.com/icon/u1128221-98.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/MovieL/default.htm" class="name">木卫二</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-06-04" class="main-meta">2019-06-04 21:42:44</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10222214/default.htm">你好，吹斯拉</a></h2>
+
+                <div id="review_10222214_short" class="review-short" data-rid="10222214">
+                    <div class="short-content">
+
+                        像《哥斯拉2：怪兽之王》这种电影，本来真没有什么好聊的。结果看到豆瓣上的一些热门短评，真给气炸了。 截选一部分，供诸位欣赏： ① “每一帧都堪称史诗。” 这种评价一出，我真要怀疑，它是不是去年在上影节看的《指环王》加长版，写过短评又放错了地方。 什么叫“每一帧”...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10222214-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10222214_full" class="hidden">
+                    <div id="review_10222214_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10222214" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10222214">
+                                270
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10222214" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10222214">
+                                201
+                        </span>
+                    </a>
+                    <a href="../../review/10222214/#comments" class="reply ">213回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10203639">
+        <div class="main review-item" id="10203639">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/148625937/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u148625937-25.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/148625937/default.htm" class="name">曌影的过期罐头</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-05-26" class="main-meta">2019-05-26 16:04:46</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10203639/default.htm">CG特效的全面胜利，剧作逻辑的彻底缺失</a></h2>
+
+                <div id="review_10203639_short" class="review-short" data-rid="10203639">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        【题目已经够清楚了吧，所以那些特效党就别进来自己找气了，没用】 当漫威11年大局结束之后，留下的是身后无数对其电影宇宙的效仿者。而其中最让我期待、也是我觉得最有希望的一个，就是传奇的怪兽宇宙。 DC几部作品形势的不容乐观，甚至演员的先后退出，自己宇宙中的作品《自...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10203639-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10203639_full" class="hidden">
+                    <div id="review_10203639_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10203639" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10203639">
+                                438
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10203639" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10203639">
+                                382
+                        </span>
+                    </a>
+                    <a href="../../review/10203639/#comments" class="reply ">264回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10202091">
+        <div class="main review-item" id="10202091">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/153112416/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u153112416-2.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/153112416/default.htm" class="name">思路乐</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-05-25" class="main-meta">2019-05-25 20:40:39</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10202091/default.htm">真的莫名觉得续集GVK就是怪兽版BVS</a></h2>
+
+                <div id="review_10202091_short" class="review-short" data-rid="10202091">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        从去年的SDCC首款预告后，我就一直对本片抱有极高的期待值。一是因为预告片的剪辑和背景音乐的水准实在是太优秀了，导致到现在我也找不出几个预告片比哥斯拉2强的电影。二是因为预告片镜头质感给我的印象相当相当好，不再是第一部里的局部暗调镜头，虽然仍然是夜战，但光源与背...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10202091-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10202091_full" class="hidden">
+                    <div id="review_10202091_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10202091" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10202091">
+                                75
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10202091" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10202091">
+                                27
+                        </span>
+                    </a>
+                    <a href="../../review/10202091/#comments" class="reply ">55回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10211125">
+        <div class="main review-item" id="10211125">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/66009504/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u66009504-4.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/66009504/default.htm" class="name">雨苔思音</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-05-30" class="main-meta">2019-05-30 01:19:00</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10211125/default.htm">哥斯拉：钢铁之躯</a></h2>
+
+                <div id="review_10211125_short" class="review-short" data-rid="10211125">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        超人：大家好，我是超人 哥斯拉：大家好，我是哥斯拉 超人：我很强，可以随手毁坏大楼 哥斯拉：我也很强，我一不小心就可以破坏整个城市 超人：我能够发射超级强力的射线 哥斯拉：我也能发射强力的射线，当然别人管这个叫原子吐息 超人：我没事时喜欢到太空中用自己强大的感官...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10211125-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10211125_full" class="hidden">
+                    <div id="review_10211125_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10211125" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10211125">
+                                75
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10211125" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10211125">
+                                6
+                        </span>
+                    </a>
+                    <a href="../../review/10211125/#comments" class="reply ">16回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10216053">
+        <div class="main review-item" id="10216053">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/65569388/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u65569388-3.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/65569388/default.htm" class="name">大海里的针</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-06-01" class="main-meta">2019-06-01 17:32:41</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10216053/default.htm">整个晋西北已经乱成一锅粥了，大金刚也不出来帮帮场子？</a></h2>
+
+                <div id="review_10216053_short" class="review-short" data-rid="10216053">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        《哥斯拉2》，爽爆了！ 除了家庭戏减一星，其他各个层面都一本满足，让我对传奇影业的怪兽宇宙又多了一份期待！ 虽然作为一部无脑商业片，《哥斯拉2》也有很多bug，例如山崩地裂中怎么也死不了的主角光环，其实这种bug就像丧尸片一样，明明是血肉之躯的丧尸，为什么那么牛逼？ ...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10216053-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10216053_full" class="hidden">
+                    <div id="review_10216053_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10216053" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10216053">
+                                37
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10216053" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10216053">
+                                1
+                        </span>
+                    </a>
+                    <a href="../../review/10216053/#comments" class="reply ">20回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10202522">
+        <div class="main review-item" id="10202522">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/tinyqian/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u18605353-4.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/tinyqian/default.htm" class="name">浅小狼</a>
+
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2019-05-25" class="main-meta">2019-05-25 23:36:32</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10202522/default.htm">厉害了，胖哥斯拉大战蠢逼基多拉</a></h2>
+
+                <div id="review_10202522_short" class="review-short" data-rid="10202522">
+                    <div class="short-content">
+
+                        今天看了哥斯拉怪兽之王。怪兽打架挺刺激挺热血沸腾的，比侏罗纪比金刚之类的要好看多了。闲的，瞎吐槽几句。 1.哥斯拉走出海面，露出它那敦实厚重的身躯，呵，那王霸之气就像我家那胖猫蹲坐起来一样。 2.哥斯拉与基多拉初次会面的开场白 哥斯拉:“嗷呜！我头特别大！” 基多拉...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10202522-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10202522_full" class="hidden">
+                    <div id="review_10202522_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10202522" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10202522">
+                                116
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10202522" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10202522">
+                                16
+                        </span>
+                    </a>
+                    <a href="../../review/10202522/#comments" class="reply ">37回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        
+    
+    <div data-cid="10218409">
+        <div class="main review-item" id="10218409">
+
+            
+    
+    <header class="main-hd">
+        <a href="../../../https@www.douban.com/people/189105554/default.htm" class="avator">
+            <img width="24" height="24" src="../../../https@img3.doubanio.com/icon/u189105554-1.jpg">
+        </a>
+
+        <a href="../../../https@www.douban.com/people/189105554/default.htm" class="name">一</a>
+
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2019-06-02" class="main-meta">2019-06-02 20:45:08</span>
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="../../review/10218409/default.htm">让我们把麦克风递给哥斯拉同学</a></h2>
+
+                <div id="review_10218409_short" class="review-short" data-rid="10218409">
+                    <div class="short-content">
+
+                        哥斯拉: 我叫哥斯拉， 地球上有群脑子上有坑的生物老是唤醒这个唤醒那个， 这不，又要搞事情要唤醒我的宿敌，三头弟弟， 那那成啊，我喊了之前帮我的那群生物提示他们的同胞要搞事情， 我也不好出手毕竟这部电影里我是正派不能随便放波烧死这群二五仔， 结果这群名字很屌的组织...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-10218409-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_10218409_full" class="hidden">
+                    <div id="review_10218409_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="10218409" title="有用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/536fd337139250b5fb3cf9e79cb65c6193f8b20b/pics/up.png" />
+                        <span id="r-useful_count-10218409">
+                                77
+                        </span>
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="10218409" title="没用">
+                        <img src="../../../https@img3.doubanio.com/f/zerkalo/68849027911140623cf338c9845893c4566db851/pics/down.png" />
+                        <span id="r-useless_count-10218409">
+                                5
+                        </span>
+                    </a>
+                    <a href="../../review/10218409/#comments" class="reply ">17回应</a>
+
+                    <a href="javascript:;;" class="fold hidden">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    
+
+    
+
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/3762680fa42a0215.js"></script>
+    <!-- COLLECTED CSS -->
+</div>
+
+
+
+
+
+
+
+
+            <p class="pl">
+                &gt;
+                <a href="reviews">
+                    更多影评837篇
+                </a>
+            </p>
+</section>
+
+<!-- COLLECTED JS -->
+
+    <br/>
+
+        <div class="section-discussion">
+                
+                <div class="mod-hd">
+                        <a class="comment_btn j a_show_login" href="../../../https@www.douban.com/register@reason=review" rel="nofollow"><span>添加新讨论</span></a>
+                    
+    <h2>
+        讨论区
+         ······
+    </h2>
+
+                </div>
+                
+  <table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616362772/default.htm" title="太像了吧，十里画廊">太像了吧，十里画廊</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/197684691/default.htm">豆友197684691</a></td>
+          <td class="pl"><span></span></td>
+          <td class="pl"><span>2019-07-11</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616342055/default.htm" title="有人出戏权游了么？">有人出戏权游了么？</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/90519857/default.htm">一套煎饼果子</a></td>
+          <td class="pl"><span>8 回应</span></td>
+          <td class="pl"><span>2019-07-10</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616352300/default.htm" title="哥斯拉像不像DNF里的安图恩">哥斯拉像不像DNF里的安图恩</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/52027245/default.htm">先生的糖</a></td>
+          <td class="pl"><span>1 回应</span></td>
+          <td class="pl"><span>2019-07-08</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616358648/default.htm" title="哥斯拉是如何站立在海上的？不知道有没有人和我一样好奇…………">哥斯拉是如何站立在海上的？不知道有没有人和我一...</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/nuonuofay/default.htm">负能量小姐</a></td>
+          <td class="pl"><span></span></td>
+          <td class="pl"><span>2019-07-07</span></td>
+        </tr>
+        
+        <tr>
+          <td class="pl"><a href="discussion/616298904/default.htm" title="这电影没有复联4火啊">这电影没有复联4火啊</a></td>
+          <td class="pl"><span>来自</span><a href="../../../https@www.douban.com/people/189762416/default.htm">San Francisco</a></td>
+          <td class="pl"><span>32 回应</span></td>
+          <td class="pl"><span>2019-07-07</span></td>
+        </tr>
+  </table>
+
+                <p class="pl" align="right">
+                    <a href="discussion/default.htm" rel="nofollow">
+                        &gt; 去这部影片的讨论区（全部775条）
+                    </a>
+                </p>
+        </div>
+
+        
+    
+        
+                
+
+
+
+
+
+<div id="askmatrix">
+    <div class="mod-hd">
+        <h2>
+            关于《哥斯拉2：怪兽之王》的问题
+            · · · · · ·
+            <span class="pl">
+                (<a href='questions/@from=subject'>
+                    全部16个
+                </a>)
+            </span>
+        </h2>
+
+
+        
+    
+    <a class='j a_show_login comment_btn'
+        href='questions/ask/@from=subject'>我来提问</a>
+
+    </div>
+
+    <div class="mod-bd">
+        <ul class="">
+            <li class="">
+                <span class="tit">
+                    <a href="questions/837170/@from=subject" class="">
+                            片中说吴哥窟和骷髅岛的怪兽跑了？
+                    </a>
+                </span>
+                <span class="meta">
+                    1人回答
+                </span>
+            </li>
+            <li class="">
+                <span class="tit">
+                    <a href="questions/836043/@from=subject" class="">
+                            谁能解释一下为什么拉顿飞过城市上空能产生摧毁城市的冲击波？请用物理学等知识来详细解释？
+                    </a>
+                </span>
+                <span class="meta">
+                    12人回答
+                </span>
+            </li>
+        </ul>
+
+        <p>&gt;
+            <a href='questions/@from=subject'>
+                全部16个问题
+            </a>
+        </p>
+
+    </div>
+</div>
+
+
+
+            
+
+
+    <script type="text/javascript">
+        $(function(){if($.browser.msie && $.browser.version == 6.0){
+            var $info = $('#info'),
+                maxWidth = parseInt($info.css('max-width'));
+            if($info.width() > maxWidth) {
+                $info.width(maxWidth);
+            }
+        }});
+    </script>
+
+
+            </div>
+            <div class="aside">
+                
+
+
+    
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+<div class="ticket">
+        <a class="ticket-btn" href="../../ticket/redirect/@url=https_253A_252F_252Fm.maoyan.com_252Fcinema_252Fmovie_252F246061_253F_v__253Dyes%26merCode_253D1000011">购票</a>
+</div>
+
+
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_top_right"></div>
+    <div id="dale_movie_subject_top_middle"></div>
+    <!-- douban ad end -->
+
+    
+
+
+
+<style type="text/css">
+    .m4 {margin-bottom:8px; padding-bottom:8px;}
+    .movieOnline {background:#FFF6ED; padding:10px; margin-bottom:20px;}
+    .movieOnline h2 {margin:0 0 5px;}
+    .movieOnline .sitename {line-height:2em; width:160px;}
+    .movieOnline td,.movieOnline td a:link,.movieOnline td a:visited{color:#666;}
+    .movieOnline td a:hover {color:#fff;}
+    .link-bt:link,
+    .link-bt:visited,
+    .link-bt:hover,
+    .link-bt:active {margin:5px 0 0; padding:2px 8px; background:#a8c598; color:#fff; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; display:inline-block;}
+</style>
+
+
+
+    
+
+
+
+
+
+
+
+    
+    <div class="tags">
+        
+        
+    <h2>
+        <i class="">豆瓣成员常用的标签</i>
+             ······
+    </h2>
+
+        <div class="tags-body">
+                <a href="../../tag/_25E6_2580_25AA_25E5_2585_25BD" class="">怪兽</a>
+                <a href="../../tag/_25E7_25A7_2591_25E5_25B9_25BB" class="">科幻</a>
+                <a href="../../tag/_25E7_2581_25BE_25E9_259A_25BE" class="">灾难</a>
+                <a href="../../tag/_25E7_25BE_258E_25E5_259B_25BD" class="">美国</a>
+                <a href="../../tag/2019" class="">2019</a>
+                <a href="../../tag/_25E7_2589_25B9_25E6_2595_2588" class="">特效</a>
+                <a href="../../tag/_25E5_258A_25A8_25E4_25BD_259C" class="">动作</a>
+                <a href="../../tag/_25E6_2597_25A5_25E6_259C_25AC" class="">日本</a>
+        </div>
+    </div>
+
+
+    <div id="dale_movie_review_right_guess_you_like"></div>
+    <div id="dale_movie_subject_inner_middle"></div>
+    <div id="dale_movie_subject_download_middle"></div>
+        
+
+
+
+
+
+
+
+
+<div id="subject-doulist">
+    
+    
+    <h2>
+        <i class="">以下豆列推荐</i>
+             ······
+            <span class="pl">
+            (
+                <a href="doulists">全部</a>
+            )
+            </span>
+    </h2>
+
+
+    
+    <ul>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/114465/default.htm" target="_blank">{北美电影票房总排行}</a>
+                <span>(荔枝超人)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/1276354/default.htm" target="_blank">2019—2025值得关注的美国影片</a>
+                <span>(closer)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/1657752/default.htm" target="_blank">不把每部都看齐就膈应</a>
+                <span>(日耳man)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/1641439/default.htm" target="_blank">全球电影票房总排行榜</a>
+                <span>(I can fly)</span>
+            </li>
+            <li>
+                <a href="../../../https@www.douban.com/doulist/1748449/default.htm" target="_blank">豆瓣评价人数过十万的影片〖国外篇〗</a>
+                <span>(莉莉周)</span>
+            </li>
+    </ul>
+
+</div>
+
+            
+
+
+
+
+
+
+
+
+<div id="subject-others-interests">
+    
+    
+    <h2>
+        <i class="">谁在看这部电影</i>
+             ······
+    </h2>
+
+    
+    <ul class="">
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/157330536/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u157330536-1.jpg" class="pil" alt="葵小萌">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/157330536/default.htm" class="">葵小萌</a>
+                    <div class="">
+                        3分钟前
+                        看过
+                        <span class="allstar30" title="还行"></span>
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/138705667/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u138705667-1.jpg" class="pil" alt="Handsome臭臭">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/138705667/default.htm" class="">Handsome臭臭</a>
+                    <div class="">
+                        5分钟前
+                        想看
+                        
+                    </div>
+                </div>
+            </li>
+            
+            <li class="">
+                <a href="../../../https@www.douban.com/people/149993515/default.htm" class="others-interest-avatar">
+                    <img src="../../../https@img3.doubanio.com/icon/u149993515-1.jpg" class="pil" alt="十亿光年">
+                </a>
+                <div class="others-interest-info">
+                    <a href="../../../https@www.douban.com/people/149993515/default.htm" class="">十亿光年</a>
+                    <div class="">
+                        10分钟前
+                        看过
+                        <span class="allstar40" title="推荐"></span>
+                    </div>
+                </div>
+            </li>
+    </ul>
+
+    
+    <div class="subject-others-interests-ft">
+        
+            <a href="collections">154069人看过</a>
+                &nbsp;/&nbsp;
+            <a href="wishes">44751人想看</a>
+    </div>
+
+</div>
+
+
+
+    
+    
+
+<!-- douban ad begin -->
+<div id="dale_movie_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+
+    <br/>
+
+    
+<p class="pl">订阅哥斯拉2：怪兽之王的评论: <br/><span class="feed">
+    <a href="../../feed/subject/25890017/reviews"> feed: rss 2.0</a></span></p>
+
+
+            </div>
+            <div class="extra">
+                
+    
+<!-- douban ad begin -->
+<div id="dale_movie_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_movie_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2019 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="../../../https@www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="../../../https@www.douban.com/about">关于豆瓣</a>
+    · <a href="../../../https@www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="../../../https@www.douban.com/about@topic=contactus">联系我们</a>
+    · <a href="../../../https@www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="../../../https@help.douban.com/@app=movie" target="_blank">帮助中心</a>
+    · <a href="../../../https@www.douban.com/doubanapp/default.htm">移动应用</a>
+    · <a href="../../../https@www.douban.com/partner/default.htm">豆瓣广告</a>
+</span>
+
+    </div>
+
+    </div>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/misc/mixed_static/37e389bf651d5ba8.js"></script>
+        
+        
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="../../../https@img3.doubanio.com/f/movie/4aca95d66d37ec0712b3d19973b5d8feb75f2f05/css/movie/mod/reg_login_pop.css" />
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+    <script type="text/javascript" src="../../../https@img3.doubanio.com/f/shire/383a6e43f2108dc69e3ff2681bc4dc6c72a5ffb0/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB='../../../https@www.douban.com';
+var account_pop={open:function(o,e){e?referrer="@referrer="+encodeURIComponent(e):referrer="@referrer="+window.location.href;var n="",i="",t=448;n="用户登录",i="../../../https@accounts.douban.com/passport/login_popup@source=movie";var r=document.location.protocol+"//"+document.location.hostname,a=dui.Dialog({width:340,title:n,height:t,cls:"account_pop",isHideTitle:!0,modal:!0,content:"<iframe scrolling='no' frameborder='0' width='340' height='"+t+"' src='"+i+"' name='"+r+"'></iframe>"},!0),c=a.node;if(c.undelegate(),c.delegate(".dui-dialog-close","click",function(){var o=$("body");o.find("#login_msk").hide(),o.find(".account_pop").remove()}),$(window).width()<478){var d="";"reg"===o?d=HTTPS_DB+"/accounts/register"+referrer:"login"===o&&(d=HTTPS_DB+"/accounts/login"+referrer),window.location.href=d}else a.open();$(window).bind("message",function(o){"https://accounts.douban.com"===o.originalEvent.origin&&(c.find("iframe").css("height",o.originalEvent.data),c.height(o.originalEvent.data),a.update())})}};Douban&&Douban.init_show_login&&(Douban.init_show_login=function(o){var e=$(o);e.click(function(){var o=e.data("ref")||"";return account_pop.open("login",o),!1})}),Do(function(){$("body").delegate(".pop_register","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("reg",e),!1}),$("body").delegate(".pop_login","click",function(o){o.preventDefault();var e=$(this).data("ref")||"";return account_pop.open("login",e),!1})});
+    </script>
+
+    
+    
+    
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '../../../https@erebor.douban.com/default.htm',
+            userId = '',
+            browserId = 'Ez1QlPiK8rc',
+            criteria = '7:莱尔·布罗卡托|7:维拉·法米加|7:渡边谦|7:T·C·马特恩|7:动作|7:布莱德利·惠特福德|7:托马斯·米德蒂奇|7:怪兽|7:小奥谢拉·杰克逊|7:3D|7:艾莎·辛德斯|7:大卫·斯特雷泽恩|7:杰森·莱尔斯|7:2019|7:查尔斯·丹斯|7:安东尼·拉莫斯|7:凯尔·钱德勒|7:特效|7:冒险|7:米莉·波比·布朗|7:美国|7:灾难|7:乔纳森·霍华德|7:章子怡|7:迈克尔·道赫蒂|7:科幻|7:系列|7:兰德尔·P·海文斯|7:日本|7:莎莉·霍金斯|7:吉米·冈萨雷斯|7:希·庞德|3_3A/subject/25890017/@from=showing',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_top_icon', 'dale_movie_subject_top_right', 'dale_movie_subject_top_middle', 'dale_movie_subject_inner_middle', 'dale_movie_subject_download_middle', 'dale_movie_review_right_guess_you_like'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '../../../https@img3.doubanio.com/f/adjs/5ec0e90cac83524d8c3e7f7bf95260c9c1875bca/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'_3A//img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? '../../../https@ssl' : '../../../www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+      
+    
+
+    <!-- anson86-docker-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+
