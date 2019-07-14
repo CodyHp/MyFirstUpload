@@ -1,0 +1,24 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8888
+spring:
+  application:
+    name: serviceZuul
+zuul:
+  routes:
+    zuul-test:
+      path: /zuul-test/**
+      serviceId: testservice
+    zuul-order:
+      path: /zuul-order/**
+      serviceId: orderservice
+    zuul-search:
+      path: /zuul-search/**
+      serviceId: searchservice
+    zuul-seckill:
+      path: /zuul-seckill/**
+      serviceId: seckillservice
+  sensitive-headers:
